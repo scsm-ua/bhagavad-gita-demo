@@ -1,0 +1,778 @@
+[
+  {
+    "name": "Contents",
+    "items": [
+      {
+        "id": "jaya-shiachinandana-sura-muni-vandana",
+        "title": "Jay Dhvani",
+        "name": "Jay Dhvani",
+        "aliasName": "Jay Saparikar Śrī Śrī Guru Gaurāṅga Gāndharvā Govindasundar Jīu kī jay!",
+        "fileName": "jaya-shiachinandana-sura-muni-vandana.html",
+        "page": "5"
+      }
+    ]
+  },
+  {
+    "name": "Ārati",
+    "items": [
+      {
+        "id": "jaya-jaya-gurudever-arati-ujjvala",
+        "title": "Śrī Guru Ārati",
+        "name": "Śrī Guru Ārati",
+        "aliasName": "jaya jaya gurudever ārati ujjvala",
+        "fileName": "jaya-jaya-gurudever-arati-ujjvala.html",
+        "page": "8"
+      },
+      {
+        "id": "jaya-guru-maharaja-jati-rajeshvara",
+        "title": "Śrī Guru Ārati Stuti",
+        "name": "Śrī Guru Ārati Stuti",
+        "aliasName": "jaya ‘guru-mahārāja’ yati-rājeśvara",
+        "fileName": "jaya-guru-maharaja-jati-rajeshvara.html",
+        "page": "11",
+        "embeds": [
+          "Шрила Говинда Махарадж"
+        ]
+      },
+      {
+        "id": "kali-kukkura-kadana-jadi-chao-he",
+        "title": "Maṅgal Ārati",
+        "name": "Maṅgal Ārati",
+        "aliasName": "kali-kukkura-kadana yadi chāo he",
+        "fileName": "kali-kukkura-kadana-jadi-chao-he.html",
+        "page": "15"
+      },
+      {
+        "id": "jashomati-nandana-vraja-vara-nagara",
+        "title": "Śrī Nām-kīrtan",
+        "name": "Śrī Nām-kīrtan",
+        "aliasName": "yaśomatī-nandana    vraja-vara-nāgara",
+        "fileName": "jashomati-nandana-vraja-vara-nagara.html",
+        "page": "16",
+        "embeds": [
+          "Шрила Говинда Махарадж",
+          "Шрила Говинда Махарадж",
+          "Шрипад Бхагават Махарадж"
+        ]
+      },
+      {
+        "id": "jaya-sa-parikara",
+        "title": "Śrī Śachīnandana-vandanā",
+        "name": "Śrī Śachīnandana-vandanā",
+        "aliasName": "jaya śachī-nandana    sura-muni-vandana",
+        "fileName": "jaya-sa-parikara.html",
+        "page": "17",
+        "embeds": [
+          "Шрила Говинда Махарадж"
+        ]
+      },
+      {
+        "id": "bhaja-bhakata-vatsala-shri-gaurahari",
+        "title": "Śrī Bhoga Ārati Gīti",
+        "name": "Śrī Bhoga Ārati Gīti",
+        "aliasName": "bhaja bhakata-vatsala śrī-gaurahari",
+        "fileName": "bhaja-bhakata-vatsala-shri-gaurahari.html",
+        "page": "19",
+        "embeds": [
+          "Шрила Говинда Махарадж"
+        ]
+      },
+      {
+        "id": "jaya-jaya-gaurachander-arotiko-shobha",
+        "title": "Śrī Gaura Ārati",
+        "name": "Śrī Gaura Ārati",
+        "aliasName": "(kibā) jaya jaya gorāchā̐der āratika śobhā",
+        "fileName": "jaya-jaya-gaurachander-arotiko-shobha.html",
+        "page": "23",
+        "embeds": [
+          "Шрила Говинда Махарадж",
+          "Шрипад Бхагават Махарадж"
+        ]
+      },
+      {
+        "id": "jayare-jayare-jaya-gaura-sarasvati",
+        "title": "Śrī Sāraswat Ārati",
+        "name": "Śrī Sāraswat Ārati",
+        "aliasName": "jayare jayare jaya gaura-sarasvatī",
+        "fileName": "jayare-jayare-jaya-gaura-sarasvati.html",
+        "page": "25"
+      }
+    ]
+  },
+  {
+    "name": "Parikramā",
+    "items": [
+      {
+        "id": "gurudeva-kripa-bindu-diya-kara-ei-dase",
+        "title": "Gurudeva",
+        "name": "Gurudeva",
+        "aliasName": "gurudeva!",
+        "fileName": "gurudeva-kripa-bindu-diya-kara-ei-dase.html",
+        "page": "29",
+        "embeds": [
+          "Шрила Шридхар Махарадж"
+        ]
+      },
+      {
+        "id": "udilo-aruna-puraba-bhage",
+        "title": "Aruṇodoya-kīrtan, Part 1",
+        "name": "Aruṇodoya-kīrtan",
+        "aliasName": "udila aruṇa pūrava-bhāge",
+        "fileName": "udilo-aruna-puraba-bhage.html",
+        "page": "30"
+      },
+      {
+        "id": "jiv-jago-jiv-jago-gaurachanda-bole",
+        "title": "Aruṇodoya-kīrtan, Part 2",
+        "name": "Aruṇodoya-kīrtan",
+        "aliasName": "jīva jāga, jīva jāga, gorāchā̐da bale",
+        "fileName": "jiv-jago-jiv-jago-gaurachanda-bole.html",
+        "page": "32"
+      },
+      {
+        "id": "kobe-shri-chaitanya-more-koribena-daya",
+        "title": "Dainya Prārthanā Gīti",
+        "name": "Dainya Prārthanā Gīti",
+        "aliasName": "kabe śrī chaitanya more karibena dayā",
+        "fileName": "kobe-shri-chaitanya-more-koribena-daya.html",
+        "page": "34",
+        "embeds": [
+          "Шрила Говинда Махарадж"
+        ]
+      },
+      {
+        "id": "namo-namah-tulasi-maharani",
+        "title": "Śrī Tulasī-parikramā-gīti",
+        "name": "Śrī Tulasī-parikramā-gīti",
+        "aliasName": "namo re namo re mā̐iyā namo nārāyaṇī",
+        "fileName": "namo-namah-tulasi-maharani.html",
+        "page": "36",
+        "embeds": [
+          "Шрипад Бхагават Махарадж"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vandanā",
+    "items": [
+      {
+        "id": "vande-ham-shri-guroh-shri-yuta-pada-kamalam",
+        "title": "Vandanā",
+        "name": "Vandanā",
+        "aliasName": "vande ’haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ",
+        "fileName": "vande-ham-shri-guroh-shri-yuta-pada-kamalam.html",
+        "page": "38",
+        "embeds": [
+          "Шрила Говинда Махарадж",
+          "Шрипад Бхагават Махарадж"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Morning",
+    "items": [
+      {
+        "id": "samsara-davanala-lidha-loka",
+        "title": "Śrī Śrī Gurvāṣṭakam",
+        "name": "Śrī Śrī Gurvāṣṭakam",
+        "aliasName": "saṁsāra-dāvānala-līḍha-loka",
+        "fileName": "samsara-davanala-lidha-loka.html",
+        "page": "45",
+        "embeds": [
+          "Bhakti Lalita Devi"
+        ]
+      },
+      {
+        "id": "shri-krishna-chaitanya-prabhu-jive-daya-kori",
+        "title": "Auspicious Invocation to Śaraṇāgati",
+        "name": "Auspicious Invocation to Śaraṇāgati",
+        "aliasName": "śrī-kṛṣṇa-chaitanya prabhu jīve dayā kari’",
+        "fileName": "shri-krishna-chaitanya-prabhu-jive-daya-kori.html",
+        "page": "48"
+      },
+      {
+        "id": "bhaja-re-bhaja-re-amar-mana-ati-manda",
+        "title": "Bhajan-gīti",
+        "name": "Bhajan-gīti",
+        "aliasName": "bhaja re bhaja re āmār mana ati manda",
+        "fileName": "bhaja-re-bhaja-re-amar-mana-ati-manda.html",
+        "page": "49",
+        "embeds": [
+          "Bhakti Lalita Devi"
+        ]
+      },
+      {
+        "id": "vibhavari-shiesha-aloka-praveshia",
+        "title": "Vibhāvarī Śeṣa",
+        "name": "Vibhāvarī Śeṣa",
+        "aliasName": "vibhāvarī śeṣa    āloka praveśa",
+        "fileName": "vibhavari-shiesha-aloka-praveshia.html",
+        "page": "51"
+      }
+    ]
+  },
+  {
+    "name": "Evening",
+    "items": [
+      {
+        "id": "shri-guru-charana-padma-kevala-bhakati",
+        "title": "Śrī Guru-vaiṣṇava Māhātmya-gīti",
+        "name": "Śrī Guru-vaiṣṇava Māhātmya-gīti",
+        "aliasName": "śrī guru charaṇa-padma    kevala bhakati-sadma",
+        "fileName": "shri-guru-charana-padma-kevala-bhakati.html",
+        "page": "54",
+        "embeds": [
+          "Шрила Говинда Махарадж"
+        ]
+      },
+      {
+        "id": "shri-krishna-chaitanya-prabhu-daya-kara-more",
+        "title": "Sāvaraṇa-Śrī-Gaura-pāda-padme Prārthanā",
+        "name": "Sāvaraṇa-Śrī-Gaura-pāda-padme Prārthanā",
+        "aliasName": "śrī kṛṣṇa chaitanya prabhu dayā kara more",
+        "fileName": "shri-krishna-chaitanya-prabhu-daya-kara-more.html",
+        "page": "55",
+        "embeds": [
+          "Шрила Говинда Махарадж"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vaiṣṇava",
+    "items": [
+      {
+        "id": "vaishnava-thakura-dayara-sagara",
+        "title": "Śrī Vaiṣṇava-mahimā-gīti",
+        "name": "Śrī Vaiṣṇava-mahimā-gīti",
+        "aliasName": "(ohe) vaiṣṇava ṭhākura    dayāra sāgara",
+        "fileName": "vaishnava-thakura-dayara-sagara.html",
+        "page": "58",
+        "embeds": [
+          "Шрила Говинда Махарадж"
+        ]
+      },
+      {
+        "id": "thakura-vaishnava-gana-kori-ei-nivedana",
+        "title": "Ṭhākura-vaiṣṇava-gaṇa",
+        "name": "Ṭhākura-vaiṣṇava-gaṇa",
+        "aliasName": "ṭhākura vaiṣṇava-gaṇa    kari ei nivedana",
+        "fileName": "thakura-vaishnava-gana-kori-ei-nivedana.html",
+        "page": "59",
+        "embeds": [
+          "Bhakti Lalita Devi"
+        ]
+      },
+      {
+        "id": "ki-rupe-paibo-seva-mui-durachara",
+        "title": "Ki-rūpe pāiba sevā",
+        "name": "Ki-rūpe pāiba sevā",
+        "aliasName": "ki-rūpe pāiba sevā muñi durāchāra",
+        "fileName": "ki-rupe-paibo-seva-mui-durachara.html",
+        "page": "61"
+      },
+      {
+        "id": "thakura-vaishnava-pada-avanira",
+        "title": "Ṭhākura-vaiṣṇava-pada",
+        "name": "Ṭhākura-vaiṣṇava-pada",
+        "aliasName": "ṭhākura-vaiṣṇava-pada    avanīra susampada",
+        "fileName": "thakura-vaishnava-pada-avanira.html",
+        "page": "62"
+      },
+      {
+        "id": "ei-vara-karuna-kara-vaishnava-gosani",
+        "title": "Vaiṣṇava Vijñāpti",
+        "name": "Vaiṣṇava Vijñāpti",
+        "aliasName": "ei-bāra karuṇā kara vaiṣṇava gosāi",
+        "fileName": "ei-vara-karuna-kara-vaishnava-gosani.html",
+        "page": "63",
+        "embeds": [
+          "Шрила Говинда Махарадж",
+          "Шрипад Бхагават Махарадж"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nitāi",
+    "items": [
+      {
+        "id": "nitai-pada-kamala-koti-chandra-sushitala",
+        "title": "Manaḥ-Śikṣā",
+        "name": "Manaḥ-Śikṣā",
+        "aliasName": "nitāi-pada-kamala    koṭī-chandra-suśītala",
+        "fileName": "nitai-pada-kamala-koti-chandra-sushitala.html",
+        "page": "65"
+      },
+      {
+        "id": "nitai-gunamani-amara-nitai-gunamani",
+        "title": "Nitāi guṇamaṇi āmāra",
+        "name": "Nitāi guṇamaṇi āmāra",
+        "aliasName": "nitāi guṇamaṇi āmāra nitāi guṇamaṇi",
+        "fileName": "nitai-gunamani-amara-nitai-gunamani.html",
+        "page": "66",
+        "embeds": [
+          "Шрипад Бхагават Махарадж"
+        ]
+      },
+      {
+        "id": "akrodha-paramananda",
+        "title": "Akrodha paramānanda",
+        "name": "Akrodha paramānanda",
+        "aliasName": "akrodha paramānanda nityānanda rāya",
+        "fileName": "akrodha-paramananda.html",
+        "page": "67"
+      },
+      {
+        "id": "parama-karuna-pahu-dui-jana",
+        "title": "Śrī Śrī Gaura-Nityānander Dayā",
+        "name": "Śrī Śrī Gaura-Nityānander Dayā",
+        "aliasName": "parama karuṇa    pah. dui jana",
+        "fileName": "parama-karuna-pahu-dui-jana.html",
+        "page": "68"
+      },
+      {
+        "id": "dayal-nitai-chaitanya-bole-nach-re",
+        "title": "Dayāl Nitāi Chaitanya",
+        "name": "Dayāl Nitāi Chaitanya",
+        "aliasName": "‘dayāl nitāi chaitanya’ ba’le nāch re āmār mana",
+        "fileName": "dayal-nitai-chaitanya-bole-nach-re.html",
+        "page": "70"
+      }
+    ]
+  },
+  {
+    "name": "Gaurāṅga",
+    "items": [
+      {
+        "id": "gaurangera-duti-pada-jar-dhana-sampada",
+        "title": "Sāvaraṇa-Śrī-Gaura-mahimā",
+        "name": "Sāvaraṇa-Śrī-Gaura-mahimā",
+        "aliasName": "gaurāṅgera duṭi pada    yāra dhana sampada",
+        "fileName": "gaurangera-duti-pada-jar-dhana-sampada.html",
+        "page": "72",
+        "embeds": [
+          "Шрила Говинда Махарадж"
+        ]
+      },
+      {
+        "id": "emona-durmati-samsara-bhitore",
+        "title": "Dainyātmikā",
+        "name": "Dainyātmikā",
+        "aliasName": "(prabhu he!)",
+        "fileName": "emona-durmati-samsara-bhitore.html",
+        "page": "73",
+        "embeds": [
+          "Шрила Шридхар Махарадж",
+          "Шрипад Бхагават Махарадж"
+        ]
+      },
+      {
+        "id": "gay-gora-madhur-svare",
+        "title": "Śrī Nāma",
+        "name": "Śrī Nāma",
+        "aliasName": "gāya gorā madhur svare",
+        "fileName": "gay-gora-madhur-svare.html",
+        "page": "75"
+      },
+      {
+        "id": "vimala-hemajin-tanu-anupama-re",
+        "title": "Vimala hema jini",
+        "name": "Vimala hema jini",
+        "aliasName": "vimala hema jini    tanu anupama re!",
+        "fileName": "vimala-hemajin-tanu-anupama-re.html",
+        "page": "76"
+      },
+      {
+        "id": "emona-gauranga-bine-nahi-ara",
+        "title": "Emana Gaurāṅga vine nāhi āra",
+        "name": "Emana Gaurāṅga vine nāhi āra",
+        "aliasName": "emana gaurāṅga vine nāhi āra",
+        "fileName": "emona-gauranga-bine-nahi-ara.html",
+        "page": "77"
+      },
+      {
+        "id": "ke-jabi-ke-jabi-bhai-bhava-sindhu-para",
+        "title": "Ke yābi ke yābi",
+        "name": "Ke yābi ke yābi",
+        "aliasName": "ke yābi ke yābi bhāi bhava-sindhu pāra",
+        "fileName": "ke-jabi-ke-jabi-bhai-bhava-sindhu-para.html",
+        "page": "81"
+      },
+      {
+        "id": "avatara-sara-gora-avatara",
+        "title": "Avatāra Sāra",
+        "name": "Avatāra Sāra",
+        "aliasName": "avatāra sāra    gorā avatāra",
+        "fileName": "avatara-sara-gora-avatara.html",
+        "page": "81"
+      },
+      {
+        "id": "gaura-pahu-na-bhajiya-mainu",
+        "title": "Gaurā Pahu̐",
+        "name": "Gaurā Pahu̐",
+        "aliasName": "gaurā pahu̐ nā bhajiyā mainu",
+        "fileName": "gaura-pahu-na-bhajiya-mainu.html",
+        "page": "83"
+      },
+      {
+        "id": "jadi-gaura-na-hoto-tobe-ki-hoito",
+        "title": "Yadi Gaura nā ho’to",
+        "name": "Yadi Gaura nā ho’to",
+        "aliasName": "yadi, gaura nā ha’ta    tabe ki ha-ita",
+        "fileName": "jadi-gaura-na-hoto-tobe-ki-hoito.html",
+        "page": "84"
+      }
+    ]
+  },
+  {
+    "name": "Kṛṣṇa",
+    "items": [
+      {
+        "id": "gopinath-mama-nivedana-shiuno",
+        "title": "Nivedana, Part 1",
+        "name": "Nivedana",
+        "aliasName": "gopīnāth, mama nivedana śuna",
+        "fileName": "gopinath-mama-nivedana-shiuno.html",
+        "page": "87"
+      },
+      {
+        "id": "gopinath-ghuchao-samsara-jvala",
+        "title": "Nivedana, Part 2",
+        "name": "Nivedana",
+        "aliasName": "gopīnāth, ghuchāo saṁsāra-jvālā",
+        "fileName": "gopinath-ghuchao-samsara-jvala.html",
+        "page": "89"
+      },
+      {
+        "id": "gopinath-amara-upaya-nai",
+        "title": "Nivedana, Part 3",
+        "name": "Nivedana",
+        "aliasName": "gopīnāth, āmāra upāya nāi",
+        "fileName": "gopinath-amara-upaya-nai.html",
+        "page": "91"
+      },
+      {
+        "id": "hari-he-dayala-mora-jaya-radha-natha",
+        "title": "Dainya O Prapatti",
+        "name": "Dainya O Prapatti",
+        "aliasName": "hari he dayāla mora jaya rādhā-nātha",
+        "fileName": "hari-he-dayala-mora-jaya-radha-natha.html",
+        "page": "93"
+      },
+      {
+        "id": "manasa-deho-geho-jo-kichu-mora",
+        "title": "Mānasa Deha Geha",
+        "name": "Mānasa Deha Geha",
+        "aliasName": "mānasa, deha, geha, yo kichhu mora",
+        "fileName": "manasa-deho-geho-jo-kichu-mora.html",
+        "page": "94"
+      },
+      {
+        "id": "bhajahu-re-mana-shri-nanda-nandana",
+        "title": "Bhajahu̐ Re Mana",
+        "name": "Bhajahu̐ Re Mana",
+        "aliasName": "bhajahu̐ re mana    śrī-nanda-nandana",
+        "fileName": "bhajahu-re-mana-shri-nanda-nandana.html",
+        "page": "96",
+        "embeds": [
+          "Шрила Говинда Махарадж",
+          "Шрила Говинда Махарадж"
+        ]
+      },
+      {
+        "id": "radha-madhava-kunja-bihari",
+        "title": "Jaya Rādhā-Mādhava",
+        "name": "Jaya Rādhā-Mādhava",
+        "aliasName": "(jaya) rādhā-mādhava    (jaya) kuñja-vihārī",
+        "fileName": "radha-madhava-kunja-bihari.html",
+        "page": "97",
+        "embeds": [
+          "Шрила Говинда Махарадж",
+          "Шрила Говинда Махарадж"
+        ]
+      },
+      {
+        "id": "jaya-yashoda-nandana-krishna-gopala-govinda",
+        "title": "Jaya Yaśodā-Nandana Kṛṣṇa",
+        "name": "Jaya Yaśodā-Nandana Kṛṣṇa",
+        "aliasName": "(jaya) yaśodā-nandana kṛṣṇa gopāla govinda",
+        "fileName": "jaya-yashoda-nandana-krishna-gopala-govinda.html",
+        "page": "97"
+      },
+      {
+        "id": "mayura-mukuta-pitambara-dhari",
+        "title": "Mayūra mukuṭa",
+        "name": "Mayūra mukuṭa",
+        "aliasName": "mayūra-mukuṭa-pītāmbara-dhārī",
+        "fileName": "mayura-mukuta-pitambara-dhari.html",
+        "page": "98"
+      },
+      {
+        "id": "he-deva-bhavantam-vande",
+        "title": "He deva bhavantaṁ vande",
+        "name": "He deva bhavantaṁ vande",
+        "aliasName": "he deva bhavantaṁ vande",
+        "fileName": "he-deva-bhavantam-vande.html",
+        "page": "99",
+        "embeds": [
+          "Bhakti Lalita Devi"
+        ]
+      },
+      {
+        "id": "janama-saphala-tara-krishna-darashiana-jara",
+        "title": "Rūpa-Kīrtan",
+        "name": "Rūpa-Kīrtan",
+        "aliasName": "janama saphala tā’ra    kṛṣṇa-daraśana yā’ra",
+        "fileName": "janama-saphala-tara-krishna-darashiana-jara.html",
+        "page": "100"
+      },
+      {
+        "id": "jaya-jaya-radha-krishna-jugala-milan",
+        "title": "Śrī Vraja-dhāma-mahimāmṛta",
+        "name": "Śrī Vraja-dhāma-mahimāmṛta",
+        "aliasName": "jaya rādhe, jaya kṛṣṇa, jaya vṛndāvana",
+        "fileName": "jaya-jaya-radha-krishna-jugala-milan.html",
+        "page": "102"
+      }
+    ]
+  },
+  {
+    "name": "Prayers",
+    "items": [
+      {
+        "id": "amara-jivana-sada-pape-rata",
+        "title": "Āmāra jīvana",
+        "name": "Āmāra jīvana",
+        "aliasName": "āmāra jīvana    sadā pāpe rata",
+        "fileName": "amara-jivana-sada-pape-rata.html",
+        "page": "105"
+      },
+      {
+        "id": "hari-hari-biphole-janama-goyainu",
+        "title": "Iṣṭa-deve Vijñapti",
+        "name": "Iṣṭa-deve Vijñapti",
+        "aliasName": "hari hari!",
+        "fileName": "hari-hari-biphole-janama-goyainu.html",
+        "page": "107"
+      },
+      {
+        "id": "ki-jani-ki-bale-tomara-dhamete",
+        "title": "Goptṛtve Varaṇa",
+        "name": "Goptṛtve Varaṇa",
+        "aliasName": "ki jāni ki bale    tomāra dhāmete",
+        "fileName": "ki-jani-ki-bale-tomara-dhamete.html",
+        "page": "108",
+        "embeds": [
+          "Шрила Говинда Махарадж"
+        ]
+      },
+      {
+        "id": "sarvasva-tomara-charane-sanpiya",
+        "title": "Sarvasva tomāra",
+        "name": "Sarvasva tomāra",
+        "aliasName": "sarvasva tomāra,    charaṇe sa̐piyā,",
+        "fileName": "sarvasva-tomara-charane-sanpiya.html",
+        "page": "110",
+        "embeds": [
+          "Шрила Шридхар Махарадж"
+        ]
+      },
+      {
+        "id": "atma-nivedana-tuya-pade-kori",
+        "title": "Ātma-nivedana",
+        "name": "Ātma-nivedana",
+        "aliasName": "ātma-nivedana    tuyā pade kari",
+        "fileName": "atma-nivedana-tuya-pade-kori.html",
+        "page": "111"
+      },
+      {
+        "id": "gauranga-bolite-hobe-pulaka-shorira",
+        "title": "‘Gaurāṅga’ bolite habe",
+        "name": "‘Gaurāṅga’ bolite habe",
+        "aliasName": "‘gaurāṅga’ balite habe pulaka śarīra",
+        "fileName": "gauranga-bolite-hobe-pulaka-shorira.html",
+        "page": "113"
+      },
+      {
+        "id": "kobe-hobe-bolo-se-dina-amar",
+        "title": "Kabe ha’be bala",
+        "name": "Kabe ha’be bala",
+        "aliasName": "kabe ha’be bala se-dina āmāra",
+        "fileName": "kobe-hobe-bolo-se-dina-amar.html",
+        "page": "114",
+        "embeds": [
+          "Bhakti Lalita Devi"
+        ]
+      },
+      {
+        "id": "kobe-gaura-vane-suradhuni-tate",
+        "title": "Siddhi-Lālasā",
+        "name": "Siddhi-Lālasā",
+        "aliasName": "kabe gaura-vane    suradhunī-taṭe",
+        "fileName": "kobe-gaura-vane-suradhuni-tate.html",
+        "page": "117",
+        "embeds": [
+          "Шрила Шридхар Махарадж"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Advice",
+    "items": [
+      {
+        "id": "durlabha-manava-janma-labhiya-samsare",
+        "title": "Durlabha mānava-janma",
+        "name": "Durlabha mānava-janma",
+        "aliasName": "durlabha mānava-janma labhiyā saṁsāre",
+        "fileName": "durlabha-manava-janma-labhiya-samsare.html",
+        "page": "119"
+      },
+      {
+        "id": "e-ghora-samsare-podiya-manava",
+        "title": "E ghora saṁsāre",
+        "name": "E ghora saṁsāre",
+        "aliasName": "e ghora-saṁsāre    paḍiyā mānava",
+        "fileName": "e-ghora-samsare-podiya-manava.html",
+        "page": "121"
+      },
+      {
+        "id": "haribolo-haribolo-haribolo-bhai-re",
+        "title": "Sri Nama Kirtan Song 3",
+        "name": "Sri Nama Kirtan Song 3",
+        "aliasName": "haribolo haribolo haribolo bhāi re",
+        "fileName": "haribolo-haribolo-haribolo-bhai-re.html",
+        "page": "122"
+      },
+      {
+        "id": "hari-nama-mahamantra-sarva-mantra-sara",
+        "title": "Daśa-vidha Nāmāparādha",
+        "name": "Daśa-vidha Nāmāparādha",
+        "aliasName": "hari-nāma mahāmantra sarva-mantra-sāra",
+        "fileName": "hari-nama-mahamantra-sarva-mantra-sara.html",
+        "page": "124"
+      },
+      {
+        "id": "prabhu-kohe-kohilan-ei-mahamantra",
+        "title": "Hare Kṛṣṇa mahāmantra",
+        "name": "Hare Kṛṣṇa mahāmantra",
+        "aliasName": "hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare",
+        "fileName": "prabhu-kohe-kohilan-ei-mahamantra.html",
+        "page": "128"
+      },
+      {
+        "id": "cheto-darpana-marjanam",
+        "title": "Śrī Śikṣāṣṭakam",
+        "name": "Śrī Śikṣāṣṭakam",
+        "aliasName": "cheto-darpaṇa-mārjanaṁ bhava-mahā-dāvāgni-nirvāpaṇaṁ",
+        "fileName": "cheto-darpana-marjanam.html",
+        "page": "128",
+        "embeds": [
+          "Bhakti Lalita Devi"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Songs by Śrīla Bhakti Rakṣak Śrīdhar Dev-Goswāmī Mahārāj",
+    "items": [
+      {
+        "id": "sujanarvuda-radhita-pada-yugam",
+        "title": "Śrī Śrī Prabhupāda-padma Stavakaḥ",
+        "name": "Śrī Śrī Prabhupāda-padma Stavakaḥ",
+        "aliasName": "sujanārvuda-rādhita-pāda-yugaṁ",
+        "fileName": "sujanarvuda-radhita-pada-yugam.html",
+        "page": "132",
+        "embeds": [
+          "Шрила Говинда Махарадж"
+        ]
+      },
+      {
+        "id": "deva-siddha-mukta-yukta-bhakta-vrinda",
+        "title": "Śrī Śrī Prema-dhāma-deva Stotram",
+        "name": "Śrī Śrī Prema-dhāma-deva Stotram",
+        "aliasName": "deva-siddha-mukta-yukta-bhakta-vṛnda-vanditaṁ",
+        "fileName": "deva-siddha-mukta-yukta-bhakta-vrinda.html",
+        "page": "136"
+      }
+    ]
+  },
+  {
+    "name": "Holy Days",
+    "items": [
+      {
+        "id": "krishna-hoite-chatur-mukha",
+        "title": "Śrī Guru-paramparā",
+        "name": "Śrī Guru-paramparā",
+        "aliasName": "kṛṣṇa haite chatur-mukha    hana kṛṣṇa-sevonmukha",
+        "fileName": "krishna-hoite-chatur-mukha.html",
+        "page": "149",
+        "embeds": [
+          "Шрила Шридхар Махарадж",
+          "Шрипад Бхагават Махарадж"
+        ]
+      },
+      {
+        "id": "je-anilo-prema-dhana-karuna-prachura",
+        "title": "Viraha-gīti",
+        "name": "Viraha-gīti",
+        "aliasName": "ye ānila prema-dhana karuṇā prachura",
+        "fileName": "je-anilo-prema-dhana-karuna-prachura.html",
+        "page": "153"
+      },
+      {
+        "id": "pralaya-payodhi-jale-dhritavan-asi-vedam",
+        "title": "Śrī Daśāvatār Stotram",
+        "name": "Śrī Daśāvatār Stotram",
+        "aliasName": "pralaya-payodhi-jale dhṛtavān asi vedaṁ",
+        "fileName": "pralaya-payodhi-jale-dhritavan-asi-vedam.html",
+        "page": "154"
+      },
+      {
+        "id": "shri-hari-vasare-hari-kirtana-vidhana",
+        "title": "Śrī Harivāsar Gīti",
+        "name": "Śrī Harivāsar Gīti",
+        "aliasName": "śrī hari-vāsare hari-kīrtana-vidhāna",
+        "fileName": "shri-hari-vasare-hari-kirtana-vidhana.html",
+        "page": "158"
+      },
+      {
+        "id": "shiuddha-bhakata-charana-renu",
+        "title": "Śuddha-bhakata",
+        "name": "Śuddha-bhakata",
+        "aliasName": "śuddha-bhakata-    charaṇa-reṇu",
+        "fileName": "shiuddha-bhakata-charana-renu.html",
+        "page": "161",
+        "embeds": [
+          "Шрипад Бхагават Махарадж"
+        ]
+      },
+      {
+        "id": "radhe-jaya-jaya-madhava-dayite",
+        "title": "After parikramā",
+        "name": "After parikramā",
+        "aliasName": "rādhe jaya jaya mādhava-dayite",
+        "fileName": "radhe-jaya-jaya-madhava-dayite.html",
+        "page": "163",
+        "embeds": [
+          "Шрипад Бхагават Махарадж"
+        ]
+      },
+      {
+        "id": "hari-haraye-namah-krishna-yadavaya-namah",
+        "title": "Nām-saṅkīrtan",
+        "name": "Nām-saṅkīrtan",
+        "aliasName": "hari haraye namaḥ kṛṣṇa yādavāya namaḥ",
+        "fileName": "hari-haraye-namah-krishna-yadavaya-namah.html",
+        "page": "165",
+        "embeds": [
+          "Шрила Говинда Махарадж",
+          "Шрипад Бхагават Махарадж"
+        ]
+      }
+    ]
+  }
+]
