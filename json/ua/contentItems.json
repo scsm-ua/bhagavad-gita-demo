@@ -1,269 +1,132 @@
 [
   {
-    "name": "Вступ",
+    "name": "Зміст",
     "items": [
       {
-        "id": "shri-krishna-chaitanya-prabhu-nityananda",
-        "title": "Паньча-таттва мантра",
-        "name": "Паньча-таттва мантра",
-        "aliasName": "шрī-кришна-чайтанья прабгу нітьянанда",
-        "fileName": "shri-krishna-chaitanya-prabhu-nityananda.html",
-        "page": "24"
+        "id": "01",
+        "title": "Глава 1. Огляд армій. Саінйа–дарш́ана",
+        "name": "Глава 1",
+        "aliasName": "дгр̣тара̄шт̣ра ува̄ча",
+        "fileName": "01.html"
       },
       {
-        "id": "hare-krishna-hare-krishna-krishna-krishna-hare-hare",
-        "title": "Харе Кришна маха̄-мантра",
-        "name": "Харе Крішна маха̄мантра",
-        "aliasName": "харе кришна харе кришна кришна кришна харе харе",
-        "fileName": "hare-krishna-hare-krishna-krishna-krishna-hare-hare.html",
-        "page": "24",
-        "embeds": [
-          "Bhakti Lalita Devi",
-          "Bhakti Lalita Devi",
-          "Bhakti Lalita Devi"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Ранкове Араті і програма",
-    "items": [
-      {
-        "id": "kali-kukkura-kadana-jadi-chao-he",
-        "title": "Прабга̄ті Ґīті",
-        "name": "Прабга̄ті Ґīті",
-        "aliasName": "калі-куккура-кадана джаді ча̄о хе",
-        "fileName": "kali-kukkura-kadana-jadi-chao-he.html",
-        "page": "38"
+        "id": "02",
+        "title": "Глава 2. Душа посеред матерії. Са̄н̇кхйа-йоґа",
+        "name": "Глава 2",
+        "aliasName": "сан̃джайа ува̄ча",
+        "fileName": "02.html"
       },
       {
-        "id": "jaya-shiachinandana-sura-muni-vandana",
-        "title": "Шрī Шячīнандана-вандана̄",
-        "name": "Шрī Шячīнандана-вандана̄",
-        "aliasName": "джая шячīнандана    сура-муні-вандана,",
-        "fileName": "jaya-shiachinandana-sura-muni-vandana.html",
-        "page": "61"
+        "id": "03",
+        "title": "Глава 3. Йога діяльності.  Карма-йоґа",
+        "name": "Глава 3",
+        "aliasName": "арджуна ува̄ча",
+        "fileName": "03.html"
       },
       {
-        "id": "gurudeva-kripa-bindu-diya-kara-ei-dase",
-        "title": "Ґурудева",
-        "name": "Ґурудева",
-        "aliasName": "ґурудева!",
-        "fileName": "gurudeva-kripa-bindu-diya-kara-ei-dase.html",
-        "page": "68",
-        "embeds": [
-          "Шрила Шридхар Махарадж"
-        ]
+        "id": "04",
+        "title": "Глава 4. Йога набуття духовного знання. Джн̃а̄на-йоґа",
+        "name": "Глава 4",
+        "aliasName": "ш́рı̄-бгаґава̄н ува̄ча",
+        "fileName": "04.html"
       },
       {
-        "id": "udilo-aruna-puraba-bhage",
-        "title": "Арунодоя-кīртан 1",
-        "name": "Арунодоя-кīртан",
-        "aliasName": "уділо аруна пӯраба-бга̄ґе,",
-        "fileName": "udilo-aruna-puraba-bhage.html",
-        "page": "42"
+        "id": "05",
+        "title": "Глава 5. Діяльність у зреченні. Карма-саннйа̄са-йоґа",
+        "name": "Глава 5",
+        "aliasName": "арджуна ува̄ча",
+        "fileName": "05.html"
       },
       {
-        "id": "jiv-jago-jiv-jago-gaurachanda-bole",
-        "title": "Арунодоя-кīртан 2",
-        "name": "Арунодоя-кīртан",
-        "aliasName": "джīв джа̄ґо, джīв джа̄ґо, ґаура̄ча̄нда боле",
-        "fileName": "jiv-jago-jiv-jago-gaurachanda-bole.html",
-        "page": "43"
+        "id": "06",
+        "title": "Глава 6. Медитативна йога. Дгйа̄на-йоґа",
+        "name": "Глава 6",
+        "aliasName": "ш́рı̄-бгаґава̄н ува̄ча",
+        "fileName": "06.html"
       },
       {
-        "id": "shri-krishna-chaitanya-prabhu-jive-daya-kori",
-        "title": "Шярана̄ґаті. Благодатне звернення",
-        "name": "Шярана̄ґаті. Благодатне звернення",
-        "aliasName": "шрī-кришна-чайтанья прабгу джīве дая корі’",
-        "fileName": "shri-krishna-chaitanya-prabhu-jive-daya-kori.html",
-        "page": "50"
+        "id": "07",
+        "title": "Глава 7. Абсолюту і Його сил. Джн̃а̄на-віджн̃а̄на-йоґа",
+        "name": "Глава 7",
+        "aliasName": "ш́рı̄-бгаґава̄н ува̄ча",
+        "fileName": "07.html"
       },
       {
-        "id": "hari-haraye-namah-krishna-yadavaya-namah",
-        "title": "На̄м-санкīртан",
-        "name": "На̄м-санкīртан",
-        "aliasName": "харі харає намах кришна ядава̄я намах",
-        "fileName": "hari-haraye-namah-krishna-yadavaya-namah.html",
-        "page": "55",
-        "embeds": [
-          "Шрила Говинда Махарадж",
-          "Шрипад Бхагават Махарадж"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Обіднє Араті",
-    "items": [
-      {
-        "id": "bhaja-bhakata-vatsala-shri-gaurahari",
-        "title": "Шрī Бгоґ А̄раті Ґīті",
-        "name": "Шрī Бгоґ А̄раті Ґīті",
-        "aliasName": "бгаджа бгаката-ватсала шрī-ґаурахарі",
-        "fileName": "bhaja-bhakata-vatsala-shri-gaurahari.html",
-        "page": "58",
-        "embeds": [
-          "Шрила Говинда Махарадж"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Вечірнє Араті",
-    "items": [
-      {
-        "id": "jaya-jaya-girirajer-arati-vishiala",
-        "title": "Шрī Ґовінда Кунда Ґупта-Ґовардган А̄раті",
-        "name": "Шрī Ґовінда Кунда",
-        "aliasName": "джая джая ґіріра̄джер а̄раті вішяла",
-        "fileName": "jaya-jaya-girirajer-arati-vishiala.html",
-        "page": "32"
+        "id": "08",
+        "title": "Глава 8. Милостивий Абсолют. Та̄рака-брахма-йоґа",
+        "name": "Глава 8",
+        "aliasName": "арджуна ува̄ча",
+        "fileName": "08.html"
       },
       {
-        "id": "jaya-jaya-gaurachander-arotiko-shobha",
-        "title": "Шрī Ґаура-а̄раті",
-        "name": "Шрī Ґаура-а̄раті",
-        "aliasName": "(кіба) джая джая ґаура̄ча̄ндер а̄ротіко шобга̄",
-        "fileName": "jaya-jaya-gaurachander-arotiko-shobha.html",
-        "page": "64",
-        "embeds": [
-          "Шрила Говинда Махарадж",
-          "Шрипад Бхагават Махарадж"
-        ]
+        "id": "09",
+        "title": "Глава 9. Сокровенний скарб відданості. Ра̄джа-ґухйа-йоґа",
+        "name": "Глава 9",
+        "aliasName": "ш́рı̄-бгаґава̄н ува̄ча",
+        "fileName": "09.html"
       },
       {
-        "id": "jayare-jayare-jaya-gaura-sarasvati",
-        "title": "Шрī Са̄расват-а̄раті",
-        "name": "Шрī Са̄расват-а̄раті",
-        "aliasName": "джаяре джаяре джая ґаура-сарасватī",
-        "fileName": "jayare-jayare-jaya-gaura-sarasvati.html",
-        "page": "66"
+        "id": "10",
+        "title": "Глава 10. Неземна Слава Господа. Вібгӯті-йоґа",
+        "name": "Глава 10",
+        "aliasName": "ш́рı̄-бгаґава̄н ува̄ча",
+        "fileName": "10.html"
       },
       {
-        "id": "namo-namah-tulasi-maharani",
-        "title": "Шрī Туласī-парікрама̄-ґīті",
-        "name": "Шрī Туласī-парікрама̄-ґīті",
-        "aliasName": "намо ре намо ре ма̄ія намо на̄ра̄яні",
-        "fileName": "namo-namah-tulasi-maharani.html",
-        "page": "69",
-        "embeds": [
-          "Шрипад Бхагават Махарадж"
-        ]
+        "id": "11",
+        "title": "Глава 11. Споглядання всесвітньої подоби. Віш́ва-рӯпа-дарш́ана-йоґа",
+        "name": "Глава 11",
+        "aliasName": "арджуна ува̄ча",
+        "fileName": "11.html"
       },
       {
-        "id": "shri-guru-charana-padma-kevala-bhakati",
-        "title": "Шрī Ґуру-вайшнава Ма̄ха̄тмʼя-ґīті",
-        "name": "Шрī Ґуру-вайшнава",
-        "aliasName": "шрī ґуру чарана-падма, кевала-бгакаті-садма,",
-        "fileName": "shri-guru-charana-padma-kevala-bhakati.html",
-        "page": "74",
-        "embeds": [
-          "Шрила Говинда Махарадж"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Вчителям",
-    "items": [
-      {
-        "id": "jaya-jaya-gurudever-arati-ujjvala",
-        "title": "Шрī Ґуру А̄раті",
-        "name": "Шрī Ґуру А̄раті",
-        "aliasName": "джая джая ґурудевер а̄раті уджджвала",
-        "fileName": "jaya-jaya-gurudever-arati-ujjvala.html",
-        "page": "70"
+        "id": "12",
+        "title": "Глава 12. Шлях відданості. Бгакті-йоґа",
+        "name": "Глава 12",
+        "aliasName": "арджуна ува̄ча",
+        "fileName": "12.html"
       },
       {
-        "id": "samsara-davanala-lidha-loka",
-        "title": "Шрī Шрī Ґурва̄штака",
-        "name": "Шрī Шрī Ґурва̄штака",
-        "aliasName": "самса̄ра-да̄ва̄нала-лīдга-лока-",
-        "fileName": "samsara-davanala-lidha-loka.html",
-        "page": "48",
-        "embeds": [
-          "Bhakti Lalita Devi"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Нітьянанді",
-    "items": [
-      {
-        "id": "akrodha-paramananda",
-        "title": "Акродга парама̄нанда",
-        "name": "Акродга парама̄нанда",
-        "aliasName": "акродга парама̄нанда нітьянанда ра̄й",
-        "fileName": "akrodha-paramananda.html",
-        "page": "114"
+        "id": "13",
+        "title": "Глава 13. Підвладне та панівне начала. Пракр̣ті-пуруша-вібга̄ґа-йоґа",
+        "name": "Глава 13",
+        "aliasName": "арджуна ува̄ча",
+        "fileName": "13.html"
       },
       {
-        "id": "nadiya-godrume-nityananda-mahajana",
-        "title": "А̄ґʼя-Тахал",
-        "name": "А̄ґʼя-Тахал",
-        "aliasName": "надīя-ґодруме нітьянанда маха̄джана",
-        "fileName": "nadiya-godrume-nityananda-mahajana.html",
-        "page": "110"
-      }
-    ]
-  },
-  {
-    "name": "Шрі Чайтаньї Махапрабгу",
-    "items": [
-      {
-        "id": "avatara-sara-gora-avatara",
-        "title": "Авата̄ра Са̄ра",
-        "name": "Авата̄ра Са̄ра",
-        "aliasName": "авата̄ра са̄ра    ґора̄ авата̄ра",
-        "fileName": "avatara-sara-gora-avatara.html",
-        "page": "121"
+        "id": "14",
+        "title": "Глава 14. Три ґуни матеріального світу. Ґун̣атрайя-вібга̄ґа-йоґа",
+        "name": "Глава 14",
+        "aliasName": "ш́рı̄-бгаґава̄н ува̄ча",
+        "fileName": "14.html"
       },
       {
-        "id": "gay-gora-madhur-svare",
-        "title": "Шрī На̄ма",
-        "name": "Шрī На̄ма",
-        "aliasName": "ґа̄й ґора̄ мадгур сваре",
-        "fileName": "gay-gora-madhur-svare.html",
-        "page": "122"
-      }
-    ]
-  },
-  {
-    "name": "Інші бгаджани",
-    "items": [
-      {
-        "id": "bhajahu-re-mana-shri-nanda-nandana",
-        "title": "Бгаджаху Ре Мана",
-        "name": "Бгаджаху Ре Мана",
-        "aliasName": "бгаджаху ре мана    шрī-нанда-нандана",
-        "fileName": "bhajahu-re-mana-shri-nanda-nandana.html",
-        "page": "146",
-        "embeds": [
-          "Шрила Говинда Махарадж",
-          "Шрила Говинда Махарадж"
-        ]
+        "id": "15",
+        "title": "Глава 15. Найвища Особа. Пурушоттама-йоґа ",
+        "name": "Глава 15",
+        "aliasName": "ш́рı̄-бгаґава̄н ува̄ча",
+        "fileName": "15.html"
       },
       {
-        "id": "emona-durmati-samsara-bhitore",
-        "title": "Дайньятміка̄",
-        "name": "Дайньятміка̄",
-        "aliasName": "(прабгу хе!)",
-        "fileName": "emona-durmati-samsara-bhitore.html",
-        "page": "154",
-        "embeds": [
-          "Шрила Шридхар Махарадж",
-          "Шрипад Бхагават Махарадж"
-        ]
+        "id": "16",
+        "title": "Глава 16. Божественні та демонічні якості. Даіва̄сура-сампад-вібга̄ґа-йоґа",
+        "name": "Глава 16",
+        "aliasName": "ш́рı̄-бгаґава̄н ува̄ча",
+        "fileName": "16.html"
       },
       {
-        "id": "amara-jivana-sada-pape-rata",
-        "title": "А̄ма̄ра джīвана",
-        "name": "А̄ма̄ра джīвана",
-        "aliasName": "а̄ма̄ра джīвана,    сада̄ па̄пе рата,",
-        "fileName": "amara-jivana-sada-pape-rata.html",
-        "page": "161"
+        "id": "17",
+        "title": "Глава 17. Три різновиди віри. Ш́раддга̄трайя-вібга̄ґа-йоґа",
+        "name": "Глава 17",
+        "aliasName": "арджуна ува̄ча",
+        "fileName": "17.html"
+      },
+      {
+        "id": "18",
+        "title": "Глава 18. Йога визволення. Мокш̣а-йоґа",
+        "name": "Глава 18",
+        "aliasName": "арджуна ува̄ча",
+        "fileName": "18.html"
       }
     ]
   }
