@@ -1,0 +1,44 @@
+.AppModal.tingle-modal {
+  cursor: default !important;
+  background: rgba(0, 0, 0, 0.4);
+  animation: fadeIn 0.4s;
+}
+.AppModal.tingle-modal--visible .tingle-modal-box {
+  animation: fadeIn 0.4s;
+}
+.AppModal .tingle-modal__close {
+  background-color: var(--header-bg-color);
+  height: var(--header-height);
+  width: 100%;
+  top: 0;
+  right: 0;
+  color: var(--accent-color);
+  font-size: 24px;
+  text-align: right;
+  cursor: pointer !important;
+}
+.AppModal .tingle-modal__closeIcon {
+  margin-right: var(--side-padding);
+  padding: 10px 0 10px var(--side-padding);
+  width: auto !important;
+}
+.AppModal .tingle-modal__closeIcon svg {
+  height: 16px;
+}
+.AppModal .tingle-modal__closeLabel {
+  display: none;
+}
+.AppModal .tingle-modal-box {
+  border-radius: 24px;
+  background-color: var(--song-bg-color) !important;
+  max-width: 500px;
+}
+@media (max-width: 540px) {
+  .AppModal .tingle-modal-box {
+    margin: var(--side-padding);
+  }
+}
+.AppModal .tingle-modal-box__content {
+  border-radius: 24px;
+  padding: var(--side-padding);
+}

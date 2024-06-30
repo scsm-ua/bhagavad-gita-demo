@@ -1,0 +1,350 @@
+.RoundButton {
+  border-radius: 50%;
+  border: none;
+  /**/
+  /**/
+  /**/
+}
+.RoundButton--L {
+  height: 40px;
+  min-width: 40px;
+  width: 40px;
+  padding: 8px;
+  font-size: 16px;
+}
+.RoundButton--dark {
+  color: white;
+  background: var(--brown);
+}
+.RoundButton--dark:hover {
+  color: var(--accent-color);
+}
+.RoundButton--dark:active {
+  filter: brightness(2);
+}
+.RoundButton--green {
+  background-color: #008353;
+}
+.RoundButton--green:hover {
+  background-color: rgba(0, 131, 83, 0.8);
+}
+
+/**/
+.AppButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s;
+  cursor: pointer;
+  font-family: var(--font-main);
+}
+
+/*
+Breakpoints mixin
+@param {String} $point - name of breakpoint
+add '-up' if you want (min-width: $point) and leave with no suffix for (max-width: $point - 1px)
+*/
+/**
+ *
+ */
+/**
+ *
+ */
+/*
+Breakpoints mixin
+@param {String} $point - name of breakpoint
+add '-up' if you want (min-width: $point) and leave with no suffix for (max-width: $point - 1px)
+*/
+/**
+ *
+ */
+/**
+ *
+ */
+:root {
+  --font-main: "Helvetica", system-ui, -apple-system, "Segoe UI", Roboto,
+      "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+      "Noto Color Emoji";
+  --font-mono: "Helvetica", SFMono-Regular, Menlo, Monaco, Consolas,
+      "Liberation Mono", "Courier New", monospace;
+  --font-size: 16px;
+  /**/
+  --content-max-width: 568px;
+  --header-height: 60px;
+  --page-max-width: 768px;
+  --side-padding: 20px;
+  /**/
+  --accent-color: var(--orange);
+  --border-color: var(--grey);
+  --header-bg-color: var(--brown);
+  --index-bg-color: var(--beige);
+  --song-bg-color: #fff;
+  --text-color: var(--dark-grey);
+  --title-color: var(--dark);
+  /**/
+  --beige: #FFFAED;
+  --brown: #26231B;
+  --dark: #000;
+  --dark-grey: #515151;
+  --grey: #A4A4A4;
+  --orange: #F5C149;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-main);
+  font-size: var(--font-size);
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.64px;
+  color: var(--text-color);
+  background-color: var(--song-bg-color);
+}
+
+h6,
+.h6,
+h5,
+.h5,
+h4,
+.h4,
+h3,
+.h3,
+h2,
+.h2,
+h1,
+.h1 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--title-color);
+}
+
+h1,
+.h1 {
+  font-size: 38px;
+}
+
+h2,
+.h2 {
+  font-size: 30px;
+}
+
+h3,
+.h3 {
+  font-size: 24px;
+}
+
+h4,
+.h4 {
+  font-size: 20px;
+}
+
+h5,
+.h5 {
+  font-size: 18px;
+}
+
+h6,
+.h6 {
+  font-size: 16px;
+}
+
+a,
+a:link,
+a:visited,
+a:active {
+  text-decoration: none;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+/**/
+.ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/**/
+.Layout {
+  height: 100%;
+  overflow: hidden;
+}
+.Layout__content {
+  height: 100%;
+  overflow: auto;
+}
+
+/**/
+.Main {
+  min-height: 100%;
+}
+.Main__container {
+  margin: 0 auto;
+  max-width: var(--content-max-width);
+}
+.Main__content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 0px var(--side-padding) 24px;
+}
+
+/**/
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@font-face {
+  font-family: "icomoon";
+  src: url("icomoon.woff?o4k3s1") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+[class^=icon-],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "icomoon" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-left:before {
+  content: "\e900";
+}
+
+.icon-chevron-right:before {
+  content: "\e901";
+}
+
+.icon-copy:before {
+  content: "\e902";
+}
+
+.icon-share:before {
+  content: "\e903";
+}
+
+/*
+Breakpoints mixin
+@param {String} $point - name of breakpoint
+add '-up' if you want (min-width: $point) and leave with no suffix for (max-width: $point - 1px)
+*/
+/**
+ *
+ */
+/**
+ *
+ */
+.AppModal.tingle-modal {
+  cursor: default !important;
+  background: rgba(0, 0, 0, 0.4);
+  animation: fadeIn 0.4s;
+}
+.AppModal.tingle-modal--visible .tingle-modal-box {
+  animation: fadeIn 0.4s;
+}
+.AppModal .tingle-modal__close {
+  background-color: var(--header-bg-color);
+  height: var(--header-height);
+  width: 100%;
+  top: 0;
+  right: 0;
+  color: var(--accent-color);
+  font-size: 24px;
+  text-align: right;
+  cursor: pointer !important;
+}
+.AppModal .tingle-modal__closeIcon {
+  margin-right: var(--side-padding);
+  padding: 10px 0 10px var(--side-padding);
+  width: auto !important;
+}
+.AppModal .tingle-modal__closeIcon svg {
+  height: 16px;
+}
+.AppModal .tingle-modal__closeLabel {
+  display: none;
+}
+.AppModal .tingle-modal-box {
+  border-radius: 24px;
+  background-color: var(--song-bg-color) !important;
+  max-width: 500px;
+}
+@media (max-width: 540px) {
+  .AppModal .tingle-modal-box {
+    margin: var(--side-padding);
+  }
+}
+.AppModal .tingle-modal-box__content {
+  border-radius: 24px;
+  padding: var(--side-padding);
+}
+
+/*
+Breakpoints mixin
+@param {String} $point - name of breakpoint
+add '-up' if you want (min-width: $point) and leave with no suffix for (max-width: $point - 1px)
+*/
+/**
+ *
+ */
+/**
+ *
+ */
+:root {
+  --font-main: "Helvetica", system-ui, -apple-system, "Segoe UI", Roboto,
+      "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+      "Noto Color Emoji";
+  --font-mono: "Helvetica", SFMono-Regular, Menlo, Monaco, Consolas,
+      "Liberation Mono", "Courier New", monospace;
+  --font-size: 16px;
+  /**/
+  --content-max-width: 568px;
+  --header-height: 60px;
+  --page-max-width: 768px;
+  --side-padding: 20px;
+  /**/
+  --accent-color: var(--orange);
+  --border-color: var(--grey);
+  --header-bg-color: var(--brown);
+  --index-bg-color: var(--beige);
+  --song-bg-color: #fff;
+  --text-color: var(--dark-grey);
+  --title-color: var(--dark);
+  /**/
+  --beige: #FFFAED;
+  --brown: #26231B;
+  --dark: #000;
+  --dark-grey: #515151;
+  --grey: #A4A4A4;
+  --orange: #F5C149;
+}

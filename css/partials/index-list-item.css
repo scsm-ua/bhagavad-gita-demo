@@ -1,0 +1,72 @@
+/*
+Breakpoints mixin
+@param {String} $point - name of breakpoint
+add '-up' if you want (min-width: $point) and leave with no suffix for (max-width: $point - 1px)
+*/
+/**
+ *
+ */
+/**
+ *
+ */
+.IndexListItem__header {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+.IndexListItem__header::after {
+  content: "";
+  position: absolute;
+  top: 12px;
+  left: 0;
+  right: 0;
+  border-bottom: 0.5px solid var(--border-color);
+}
+.IndexListItem__title {
+  position: relative;
+  z-index: 1;
+  font-weight: 300;
+  line-height: 28px;
+  margin-bottom: 16px;
+  padding: 0 16px;
+  background-color: var(--index-bg-color);
+}
+.IndexListItem__list {
+  list-style-type: none;
+  margin: 0 0 24px 0;
+  padding: 0;
+  width: 100%;
+}
+.IndexListItem__item {
+  padding: 8px 0;
+}
+.IndexListItem__link {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+}
+.IndexListItem__name {
+  flex: 1;
+  font-weight: 700;
+  line-height: 28px;
+  margin: 0;
+  color: var(--title-color);
+}
+.IndexListItem__subtitle {
+  flex: 1;
+  line-height: 28px;
+  margin: 0;
+  color: var(--title-color);
+}
+.IndexListItem__suffix {
+  position: relative;
+  width: 24px;
+}
+.IndexListItem__icon {
+  position: absolute;
+  font-size: 24px;
+  color: var(--border-color);
+  top: 1px;
+  left: 0px;
+}

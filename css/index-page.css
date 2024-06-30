@@ -1,0 +1,31 @@
+/*
+Breakpoints mixin
+@param {String} $point - name of breakpoint
+add '-up' if you want (min-width: $point) and leave with no suffix for (max-width: $point - 1px)
+*/
+/**
+ *
+ */
+/**
+ *
+ */
+.IndexPage {
+  background-color: var(--index-bg-color);
+}
+.IndexPage__navigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px calc(var(--side-padding) / 2);
+}
+@media screen and (min-width: 480px) {
+  .IndexPage__navigation {
+    justify-content: space-around;
+  }
+}
+.IndexPage__list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}

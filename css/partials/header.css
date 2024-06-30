@@ -1,0 +1,23 @@
+.Header {
+  background-color: var(--header-bg-color);
+  height: var(--header-height);
+}
+.Header__container {
+  height: 100%;
+  margin: 0 auto;
+  max-width: var(--page-max-width);
+}
+.Header__content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 var(--side-padding);
+  height: 100%;
+}
+.Header__home {
+  width: 110px;
+  overflow: hidden;
+}
+.Header__logo {
+  max-width: 100%;
+}

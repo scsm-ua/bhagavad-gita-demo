@@ -1,0 +1,34 @@
+.Navigation__link {
+  margin: 0 calc(var(--side-padding) / 2);
+}
+.Navigation__button {
+  height: 36px;
+  width: 150px;
+  padding: 5px 12px;
+  border: none;
+  border-radius: 100px;
+  background-color: white;
+  box-shadow: 0px 4px 20px 0px rgba(56, 55, 142, 0.15);
+  color: #000;
+  font-weight: 300;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+.Navigation__button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+  color: var(--border-color);
+}
+.Navigation__button:hover:not(:disabled) {
+  color: var(--accent-color);
+}
+.Navigation__button--active {
+  cursor: default;
+  color: white;
+  font-weight: 700;
+  box-shadow: none;
+  background-color: var(--header-bg-color);
+}
+.Navigation__button--active:hover {
+  color: white;
+}
