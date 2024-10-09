@@ -7,7 +7,7 @@ settings:
 dependencies:
   bhagavad-gita-ua:
     specifier: github:scsm-ua/bhagavad-gita-ua
-    version: github.com/scsm-ua/bhagavad-gita-ua/0dcf9e6c88fbffe5f8a2f762e0743d313a9312a5
+    version: github.com/scsm-ua/bhagavad-gita-ua/c0ff678f0cabd0eaf8f4c00b4337c84ccce23898
   dotenv:
     specifier: ^16.4.5
     version: 16.4.5
@@ -2555,8 +2555,8 @@ packages:
       yargs-parser: 5.0.1
     dev: true
 
-  github.com/scsm-ua/bhagavad-gita-ua/0dcf9e6c88fbffe5f8a2f762e0743d313a9312a5:
-    resolution: {tarball: https://codeload.github.com/scsm-ua/bhagavad-gita-ua/tar.gz/0dcf9e6c88fbffe5f8a2f762e0743d313a9312a5}
+  github.com/scsm-ua/bhagavad-gita-ua/c0ff678f0cabd0eaf8f4c00b4337c84ccce23898:
+    resolution: {tarball: https://codeload.github.com/scsm-ua/bhagavad-gita-ua/tar.gz/c0ff678f0cabd0eaf8f4c00b4337c84ccce23898}
     name: bhagavad-gita-ua
     version: 1.0.0
     dev: false
