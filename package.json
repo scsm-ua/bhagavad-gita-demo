@@ -16,7 +16,8 @@
         "lodash.deburr": "^4.1.0",
         "sass": "^1.77.2",
         "vinyl-source-stream": "^2.0.0",
-        "bhagavad-gita-ua": "github:scsm-ua/bhagavad-gita-ua"
+        "bhagavad-gita-ua": "github:scsm-ua/bhagavad-gita-ua",
+        "bhagavad-gita-lv": "github:scsm-ua/bhagavad-gita-lv#dev"
     },
     "devDependencies": {
         "gulp": "^4.0.2",
