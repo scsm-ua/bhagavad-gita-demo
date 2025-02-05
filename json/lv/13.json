@@ -133,12 +133,12 @@
         },
         {
           "type": "subtitle",
-          "text": "*Piezīme:*"
+          "text": "**Piezīme:*"
         },
         {
           "type": "lines",
           "lines": [
-            "<i class=\"SongVerse__term\">Pieci uztveres maņu orgāni: acis, mēle, āda, deguns un ausis. Pieci darbības maņu orgāni: balss, rokas, kājas, ānuss un ģenitālijas.</i> <i class=\"SongVerse__term\">Pieci maņu objekti: forma, garša, virsma, smarža un skaņa.</i>"
+            "<i class=\"SongVerse__term\">Pieci uztveres maņu orgāni: acis, mēle, āda, deguns un ausis. Pieci darbības maņu orgāni: balss, rokas, kājas, ānuss un ģenitālijas.</i> <i class=\"SongVerse__term\"></i>Pieci maņu objekti: forma, garša, virsma, smarža un skaņa.*"
           ]
         }
       ],
@@ -210,7 +210,7 @@
         },
         {
           "type": "subtitle",
-          "text": "*Piezīme:*"
+          "text": "**Piezīme:*"
         },
         {
           "type": "lines",
