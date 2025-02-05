@@ -55,7 +55,8 @@ function convertSongToJSON(text) {
     }
 
     var last_line_id;
-    var verse_separator;
+    var verse_empty_line = false;;
+    var empty_line = false;;
 
     // TODO: shikshastakam first verse has no number
     lines.forEach((line) => {
@@ -63,6 +64,9 @@ function convertSongToJSON(text) {
         if (line_id && line_id !== 'verse_text' && last_line_id !== 'quote') {
             // Disable empty verse line.
             verse_empty_line = false;
+        }
+        if (line_id !== 'translation') {
+            empty_line = false;
         }
         switch (line_id) {
             case 'title':
@@ -119,7 +123,25 @@ function convertSongToJSON(text) {
                 }
                 break;
             case 'translation':
-                getLastVerse().translation.push(line_value);
+                var translations = getLastVerse().translation;
+
+                var last_translation = translations.length && translations[translations.length - 1];
+                if (!last_translation || last_translation.type !== 'lines') {
+                    // Get last translations lines, or create new.
+                    last_translation = {
+                        type: 'lines',
+                        lines: []
+                    };
+                    translations.push(last_translation);
+                }
+
+                if (empty_line || last_translation.lines.length === 0) {
+                    last_translation.lines.push(line_value);
+                    empty_line = false;
+                } else {
+                    last_translation.lines[last_translation.lines.length - 1] += ' ' + line_value;
+                }
+
                 break;
             case 'embed_link':
                 var embed_code = getEmbedCode(line_match[2]);
@@ -135,23 +157,48 @@ function convertSongToJSON(text) {
                 break;
             case 'quote':
                 var last_verse = getLastVerse();
-                var attr;
-                if (last_verse.text.length) {
-                    attr = 'word_by_word';
+                if (last_verse.translation.length) {
+                    // Inline comment originals.
+
+                    var translations = getLastVerse().translation;
+
+                    var last_translation = translations.length && translations[translations.length - 1];
+                    if (!last_translation || last_translation.type !== 'original') {
+                        // Get last translations lines, or create new.
+                        last_translation = {
+                            type: 'original',
+                            lines: []
+                        };
+                        translations.push(last_translation);
+                    }
+
+                    if (verse_empty_line && last_translation.lines.length) {
+                        last_translation.lines.push('');    
+                    }
+                    last_translation.lines.push(line_value);
+
                 } else {
-                    attr = 'original';
+                    // Original or word by word.
+                    var attr;
+                    if (last_verse.text.length) {
+                        attr = 'word_by_word';
+                    } else {
+                        attr = 'original';
+                    }
+                    if (verse_empty_line && last_verse[attr].length) {
+                        verse_empty_line = false;
+                        last_verse[attr].push('');
+                    }
+                    last_verse[attr].push(line_value);
                 }
-                if (verse_empty_line && last_verse[attr].length) {
-                    verse_empty_line = false;
-                    last_verse[attr].push('');
-                }
-                last_verse[attr].push(line_value);
                 break;
             default:
                 if (!line.trim()) {
                     // Empty line.
                     if (last_line_id === 'verse_text' || last_line_id === 'quote') {
                         verse_empty_line = true;
+                    } else {
+                        empty_line = true;
                     }
                 } else {
                     // TODO: better errors processing.
@@ -197,7 +244,16 @@ function postProcessSong(song) {
         ...song,
         verses: song.verses.map((verse) => ({
             ...verse,
-            translation: processTranslation(verse.translation),
+            translation: verse.translation.map(t => {
+                if (t.type === 'lines') {
+                    return {
+                        type: 'lines',
+                        lines: processTranslation(t.lines)
+                    };
+                } else {
+                    return t;
+                }
+            }),
             word_by_word: processTranslation(verse.word_by_word),
         }))
     };

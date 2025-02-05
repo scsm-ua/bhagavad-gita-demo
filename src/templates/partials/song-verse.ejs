@@ -19,16 +19,16 @@
 
     <% if (item.original.length) { %>
         <ul class="SongVerse__translation">
-            <% item.original.forEach((line) => { %>
-                <% if (line) { %>
-                    <li class="SongVerse__paragraph">
+            <li class="SongVerse__paragraph">
+                <% item.original.forEach((line) => { %>
+                    <% if (line) { %>            
                         <%- line.replace(/\\$/, '') %>
-                    </li>
-                <% } else { %>
-                    <br>
-                <% } %>
-            <% }) %>
-            <br>
+                        <br>
+                    <% } else { %>
+                        <br>
+                    <% } %>
+                <% }) %>
+            </li>
         </ul>
     <% } %>
 
@@ -66,6 +66,7 @@
         <ul class="SongVerse__translation">
             <% item.translation.forEach((p, idx) => { %>
                 <% if (p.type === 'subtitle') { %>
+
                     <li class="SongVerse__paragraph">
                         <div class="SongPage__subtitle">
                             <p>
@@ -73,7 +74,9 @@
                             </p>
                         </div>
                     </li>
+
                 <% } else if (p.type === 'verse') { %>
+                    
                     <% if (p.text) { %>
                         <li class="SongVerse__line <%= getLineIndentClass(p.text, 'SongVerse__line') %>">
                             <%- transformLine(p.text, attributes) %>
@@ -81,6 +84,13 @@
                     <% } else { %>
                         <br>
                     <% } %>
+
+                <% } else if (p.type === 'original') { %>
+
+                    <% p.lines.forEach((line) => { %>
+                        <%- line.replace(/\\$/, '') %><br>
+                    <% }) %>
+
                 <% } else { %>
 
                     <% if (idx > 0 && item.translation[idx - 1].type === 'verse') { %>
@@ -88,9 +98,11 @@
                     <% } %>
 
                     <li class="SongVerse__paragraph">
-                        <p>
-                            <%- p.text || p %>
-                        </p>
+                        <% p.lines.forEach((line) => { %>
+                            <p>
+                                <%- line %>
+                            </p>
+                        <% }) %>
                     </li>
                 <% } %>
             <% }) %>
