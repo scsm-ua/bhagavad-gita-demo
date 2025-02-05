@@ -20,8 +20,13 @@
         "prajāṇa-kāle ča kathaṁ džñejo ’si nijatātmabhiḥ"
       ],
       "translation": [
-        "Ardžūna jautāja:",
-        "Ak, Purušottama, Augstākā Personı̄ba! Kas ir Brahmans? Kas ir dvēsele? Kas ir darbı̄ba, karma, un kas — materiālā pasaule? Kas ir padievi? Ak, Madhūsudana, dēmona Madhū uzveicēj! Kas ir ziedošanas Valdnieks un kādā veidā Vin̦š mı̄t ikvienas dzı̄vas būtnes k̦ermenı̄? Kā tiem, kuri spēj savaldı̄t savu prātu, atcerēties Tevi nāves brı̄dı̄?"
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna jautāja:",
+            "Ak, Purušottama, Augstākā Personı̄ba! Kas ir Brahmans? Kas ir dvēsele? Kas ir darbı̄ba, karma, un kas — materiālā pasaule? Kas ir padievi? Ak, Madhūsudana, dēmona Madhū uzveicēj! Kas ir ziedošanas Valdnieks un kādā veidā Vin̦š mı̄t ikvienas dzı̄vas būtnes k̦ermenı̄? Kā tiem, kuri spēj savaldı̄t savu prātu, atcerēties Tevi nāves brı̄dı̄?"
+          ]
+        }
       ],
       "original": [
         "अर्जुन उवाच\\",
@@ -41,8 +46,13 @@
         "bhūta-bhāvodbhava-karo visargaḥ karma-saṁdžñitaḥ"
       ],
       "translation": [
-        "Dieva Augstākā Personı̄ba atbildēja:",
-        "Par Brahmanu sauc to, kas plešas aiz laicı̄gās pasaules robežām, kas ir mūžı̄gs un brı̄vs no pasaulı̄giem sārn̦iem. Dvēsele ir Brahmana dal̦in̦a, kura pēc savām ı̄pašı̄bām ar Vin̦u ir vienāda. Par karmu sauc darbı̄bu, kas izraisa dvēseles pārdzimšanu dažādos k̦ermen̦os materiālajā pasaulē."
+        {
+          "type": "lines",
+          "lines": [
+            "Dieva Augstākā Personı̄ba atbildēja:",
+            "Par Brahmanu sauc to, kas plešas aiz laicı̄gās pasaules robežām, kas ir mūžı̄gs un brı̄vs no pasaulı̄giem sārn̦iem. Dvēsele ir Brahmana dal̦in̦a, kura pēc savām ı̄pašı̄bām ar Vin̦u ir vienāda. Par karmu sauc darbı̄bu, kas izraisa dvēseles pārdzimšanu dažādos k̦ermen̦os materiālajā pasaulē."
+          ]
+        }
       ],
       "original": [
         "श्रीभगवानुवाच\\",
@@ -58,7 +68,12 @@
         "adhijadžño ’ham evātra dehe deha-bhṛtāṁ vara"
       ],
       "translation": [
-        "Ak, Ardžūna, labākais no dzimušajiem! Materiālā pasaule ir vieta, kur viss lemts bojāejai. Padievi ir dažādas Mana Visuma veidola izpausmes. Visu ziedošanu Valdnieks esmu Es, Kurš kā Virsdvēsele mı̄t ikvienas dzı̄vas būtnes sirdı̄."
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Ardžūna, labākais no dzimušajiem! Materiālā pasaule ir vieta, kur viss lemts bojāejai. Padievi ir dažādas Mana Visuma veidola izpausmes. Visu ziedošanu Valdnieks esmu Es, Kurš kā Virsdvēsele mı̄t ikvienas dzı̄vas būtnes sirdı̄."
+          ]
+        }
       ],
       "original": [
         "अधिभूतं क्षरो भाव: पुरुषश्चाधिदैवतम् ।\\",
@@ -73,7 +88,12 @@
         "jaḥ prajāti sa mad-bhāvaṁ jāti nāstj atra saṁśajaḥ"
       ],
       "translation": [
-        "Tas, kurš nāves brı̄dı̄ ar mı̄lestı̄bu atceras Mani, neapšaubāmi sasniedz Mani."
+        {
+          "type": "lines",
+          "lines": [
+            "Tas, kurš nāves brı̄dı̄ ar mı̄lestı̄bu atceras Mani, neapšaubāmi sasniedz Mani."
+          ]
+        }
       ],
       "original": [
         "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् ।\\",
@@ -88,7 +108,12 @@
         "taṁ tam evaiti kaunteja sadā tad-bhāva-bhāvitaḥ"
       ],
       "translation": [
-        "Par kādu esı̄bas lı̄meni cilvēks domā nāves brı̄dı̄, tādu lı̄meni vin̦š arı̄ sasniedz."
+        {
+          "type": "lines",
+          "lines": [
+            "Par kādu esı̄bas lı̄meni cilvēks domā nāves brı̄dı̄, tādu lı̄meni vin̦š arı̄ sasniedz."
+          ]
+        }
       ],
       "original": [
         "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् ।\\",
@@ -103,7 +128,12 @@
         "majj arpita-mano-buddhir mām evaiṣjasj asaṁśajaḥ"
       ],
       "translation": [
-        "Tādēl̦ jebkuros apstākl̦os atceries Mani un, pildot savu pienākumu, cı̄nies. Tādējādi, veltot savu prātu un saprātu Man, tu neapšaubāmi nonāksi pie Manis."
+        {
+          "type": "lines",
+          "lines": [
+            "Tādēl̦ jebkuros apstākl̦os atceries Mani un, pildot savu pienākumu, cı̄nies. Tādējādi, veltot savu prātu un saprātu Man, tu neapšaubāmi nonāksi pie Manis."
+          ]
+        }
       ],
       "original": [
         "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च ।\\",
@@ -118,7 +148,12 @@
         "paramaṁ puruṣaṁ divjaṁ jāti pārthānučintajan"
       ],
       "translation": [
-        "Pārtha, jogs, kurš vienmēr ir gremdējies meditācijā uz transcendentālo Augstāko Personı̄bu un nenovērš savu uzmanı̄bu ne uz ko citu, noteikti sasniedz Vin̦u."
+        {
+          "type": "lines",
+          "lines": [
+            "Pārtha, jogs, kurš vienmēr ir gremdējies meditācijā uz transcendentālo Augstāko Personı̄bu un nenovērš savu uzmanı̄bu ne uz ko citu, noteikti sasniedz Vin̦u."
+          ]
+        }
       ],
       "original": [
         "अभ्यासयोगयुक्तेन चेतसा नान्यगामिना ।\\",
@@ -135,7 +170,12 @@
         "āditja-varṇaṁ tamasaḥ parastāt"
       ],
       "translation": [
-        "Vienmēr atceries mūžseno, visu zinošo, visu vareno Absolūtu. Vin̦š ir sı̄kāks par atomu un tajā pašā laikā Vin̦ā balstās viss pastāvošais. Vin̦a tēls pasaulı̄gajam prātam nav aptverams, tas mirdz lı̄dzı̄gi saulei aiz tumsas robežām."
+        {
+          "type": "lines",
+          "lines": [
+            "Vienmēr atceries mūžseno, visu zinošo, visu vareno Absolūtu. Vin̦š ir sı̄kāks par atomu un tajā pašā laikā Vin̦ā balstās viss pastāvošais. Vin̦a tēls pasaulı̄gajam prātam nav aptverams, tas mirdz lı̄dzı̄gi saulei aiz tumsas robežām."
+          ]
+        }
       ],
       "original": [
         "कविं पुराणमनुशासितार-\\",
@@ -154,7 +194,12 @@
         "sa taṁ paraṁ puruṣam upaiti divjam"
       ],
       "translation": [
-        "Tas, kurš nāves brı̄dı̄ apvalda prātu, vērš savu dzı̄vı̄bas spēku uz vietu starp uzacı̄m un, pateicoties jogas praksei, ar mı̄lestı̄bu atceras Visaugsto Kungu, noteikti sasniedz Vin̦u."
+        {
+          "type": "lines",
+          "lines": [
+            "Tas, kurš nāves brı̄dı̄ apvalda prātu, vērš savu dzı̄vı̄bas spēku uz vietu starp uzacı̄m un, pateicoties jogas praksei, ar mı̄lestı̄bu atceras Visaugsto Kungu, noteikti sasniedz Vin̦u."
+          ]
+        }
       ],
       "original": [
         "प्रयाणकाले मनसाचलेन\\",
@@ -173,7 +218,12 @@
         "tat te padaṁ saṅgraheṇa pravakṣje"
       ],
       "translation": [
-        "Tagad Es tev atklāšu to, ko Vēdu pazinēji sauc par “nepārejošo un nekl̦ūdı̄go”. Es aprakstı̄šu to, ko sasniedz no vēlmēm brı̄vi viedie, pēc kā tiecas seksuālas atturı̄bas zvērestu uzn̦ēmušies askēti."
+        {
+          "type": "lines",
+          "lines": [
+            "Tagad Es tev atklāšu to, ko Vēdu pazinēji sauc par “nepārejošo un nekl̦ūdı̄go”. Es aprakstı̄šu to, ko sasniedz no vēlmēm brı̄vi viedie, pēc kā tiecas seksuālas atturı̄bas zvērestu uzn̦ēmušies askēti."
+          ]
+        }
       ],
       "original": [
         "यदक्षरं वेदविदो वदन्ति\\",
@@ -190,7 +240,12 @@
         "mūrdhnj ādhājātmanaḥ prāṇam āsthito joga-dhāraṇām"
       ],
       "translation": [
-        "Aizverot man̦u vārtus un atsakoties no jutekliskām baudām, noturot prātu sirdı̄ un vēršot dzı̄vı̄bas spēku uz galvas augšdal̦u, jogs nonāk dzil̦as meditācijas stāvoklı̄."
+        {
+          "type": "lines",
+          "lines": [
+            "Aizverot man̦u vārtus un atsakoties no jutekliskām baudām, noturot prātu sirdı̄ un vēršot dzı̄vı̄bas spēku uz galvas augšdal̦u, jogs nonāk dzil̦as meditācijas stāvoklı̄."
+          ]
+        }
       ],
       "original": [
         "सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च ।\\",
@@ -205,7 +260,12 @@
         "jaḥ prajāti tjadžan dehaṁ sa jāti paramāṁ gatim"
       ],
       "translation": [
-        "Izrunājot svēto zilbi „OM”, no materiālās pasaules sārn̦iem brı̄vās, transcendentālās Īstenı̄bas skan̦as atveidojumu, k̦ermen̦a atstāšanas brı̄dı̄ vin̦am jāatceras Mani — šādi vin̦š sasniegs Manu garı̄go mājvietu."
+        {
+          "type": "lines",
+          "lines": [
+            "Izrunājot svēto zilbi „OM”, no materiālās pasaules sārn̦iem brı̄vās, transcendentālās Īstenı̄bas skan̦as atveidojumu, k̦ermen̦a atstāšanas brı̄dı̄ vin̦am jāatceras Mani — šādi vin̦š sasniegs Manu garı̄go mājvietu."
+          ]
+        }
       ],
       "original": [
         "ॐ इत्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् ।\\",
@@ -220,7 +280,12 @@
         "tasjāhaṁ sulabhaḥ pārtha nitja-juktasja joginaḥ"
       ],
       "translation": [
-        "Pārtha! Es esmu viegli sasniedzams tiem, kas ir nelokāmi garı̄gajā kalpošanā Man un atceras Mani jebkuros apstākl̦os. Šādas cildenas dvēseles ir ar mı̄lestı̄bas saitēm uz mūžiem saistı̄tas ar Mani."
+        {
+          "type": "lines",
+          "lines": [
+            "Pārtha! Es esmu viegli sasniedzams tiem, kas ir nelokāmi garı̄gajā kalpošanā Man un atceras Mani jebkuros apstākl̦os. Šādas cildenas dvēseles ir ar mı̄lestı̄bas saitēm uz mūžiem saistı̄tas ar Mani."
+          ]
+        }
       ],
       "original": [
         "अनन्यचेता: सततं यो मां स्मरति नित्यश: ।\\",
@@ -235,7 +300,12 @@
         "nāpnuvanti mahātmānaḥ saṁsiddhiṁ paramāṁ gatāḥ"
       ],
       "translation": [
-        "Diženās dvēseles, kuras kl̦uvušas par Maniem pavadon̦iem un Manu dievišk̦o Rotal̦u dalı̄bniekiem, ir atradušas dzı̄ves pilnı̄bu. Vin̦as vairs nekad nepiedzims šajā ciešanu pilnajā laicı̄gajā pasaulē, jo vin̦as sasniegušas augstāko tām paredzēto mērk̦i."
+        {
+          "type": "lines",
+          "lines": [
+            "Diženās dvēseles, kuras kl̦uvušas par Maniem pavadon̦iem un Manu dievišk̦o Rotal̦u dalı̄bniekiem, ir atradušas dzı̄ves pilnı̄bu. Vin̦as vairs nekad nepiedzims šajā ciešanu pilnajā laicı̄gajā pasaulē, jo vin̦as sasniegušas augstāko tām paredzēto mērk̦i."
+          ]
+        }
       ],
       "original": [
         "मामुपेत्य पुनर्जन्म दु:खालयमशाश्वतम् ।\\",
@@ -250,7 +320,12 @@
         "mām upetja tu kaunteja punar džanma na vidjate"
       ],
       "translation": [
-        "Pakl̦aujoties karmas likumiem, materiālā Visuma iemı̄tnieki, sākot ar tā radı̄tāju Brahmu, spiesti pārdzimt dažādos k̦ermen̦os. Taču tas, kurš nonācis Manā mājvietā, Kuntı̄ dēls, nekad vairs nesaskarsies ne ar dzimšanu, ne ar nāvi."
+        {
+          "type": "lines",
+          "lines": [
+            "Pakl̦aujoties karmas likumiem, materiālā Visuma iemı̄tnieki, sākot ar tā radı̄tāju Brahmu, spiesti pārdzimt dažādos k̦ermen̦os. Taču tas, kurš nonācis Manā mājvietā, Kuntı̄ dēls, nekad vairs nesaskarsies ne ar dzimšanu, ne ar nāvi."
+          ]
+        }
       ],
       "original": [
         "आब्रह्मभुवनाल्ल‍ोका: पुनरावर्तिनोऽर्जुन ।\\",
@@ -265,7 +340,12 @@
         "rātriṁ juga-sahasrāntāṁ te ’ho-rātra-vido džanāḥ"
       ],
       "translation": [
-        "Brahmas diena ilgst tūkstoš čatur-jūgas un tik pat ilgi turpinās vin̦a nakts. Tiem, kas to zina, ir pareizs priekšstats par dienu un nakti."
+        {
+          "type": "lines",
+          "lines": [
+            "Brahmas diena ilgst tūkstoš čatur-jūgas un tik pat ilgi turpinās vin̦a nakts. Tiem, kas to zina, ir pareizs priekšstats par dienu un nakti."
+          ]
+        }
       ],
       "original": [
         "सहस्रयुगपर्यन्तमहर्यद्ब्रह्मणो विदु: ।\\",
@@ -280,7 +360,12 @@
         "rātrj-āgame pralı̄jante tatraivāvjakta-saṁdžñake"
       ],
       "translation": [
-        "Ar jaunas dienas sākumu dzı̄vas būtnes mostas un ien̦em vin̦u liktenim atbilstošu stāvokli Visumā, bet, kad pienāk nakts, tās atkal gremdējas miega stāvoklı̄, kas zināms kā “neizpaustais”."
+        {
+          "type": "lines",
+          "lines": [
+            "Ar jaunas dienas sākumu dzı̄vas būtnes mostas un ien̦em vin̦u liktenim atbilstošu stāvokli Visumā, bet, kad pienāk nakts, tās atkal gremdējas miega stāvoklı̄, kas zināms kā “neizpaustais”."
+          ]
+        }
       ],
       "original": [
         "अव्यक्ताद्‍ व्यक्तय: सर्वा: प्रभवन्त्यहरागमे ।\\",
@@ -295,7 +380,12 @@
         "rātrj-āgame ’vaśaḥ pārtha prabhavatj ahar-āgame"
       ],
       "translation": [
-        "Pārtha! Neskaitāmas dzı̄vas būtnes šādi parādās un pazūd, pakl̦audamās Visuma likumam dzimstot arvien no jauna. Iestājoties Brahmas naktij, tās pazūd “neizpaustajā” un, atnākot jaunai dienai, mostas no nebūtı̄bas."
+        {
+          "type": "lines",
+          "lines": [
+            "Pārtha! Neskaitāmas dzı̄vas būtnes šādi parādās un pazūd, pakl̦audamās Visuma likumam dzimstot arvien no jauna. Iestājoties Brahmas naktij, tās pazūd “neizpaustajā” un, atnākot jaunai dienai, mostas no nebūtı̄bas."
+          ]
+        }
       ],
       "original": [
         "भूतग्राम: स एवायं भूत्वा भूत्वा प्रलीयते ।\\",
@@ -310,7 +400,12 @@
         "jaḥ sa sarveṣu bhūteṣu naśjatsu na vinaśjati"
       ],
       "translation": [
-        "Taču augstāk par šo materiālo “neizpausto” pasauli eksistē cita “neizpaustā” — garı̄gā pasaule, kura nav atkarı̄ga no radı̄šanas un iznı̄cināšanas likumiem."
+        {
+          "type": "lines",
+          "lines": [
+            "Taču augstāk par šo materiālo “neizpausto” pasauli eksistē cita “neizpaustā” — garı̄gā pasaule, kura nav atkarı̄ga no radı̄šanas un iznı̄cināšanas likumiem."
+          ]
+        }
       ],
       "original": [
         "परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातन: ।\\",
@@ -325,7 +420,12 @@
         "jaṁ prāpja na nivartante tad dhāma paramaṁ mama"
       ],
       "translation": [
-        "Šis pārpasaulı̄gais, neizpaustais esı̄bas lı̄menis tiek dēvēts par “mūžı̄gu un brı̄vu no grēka”. Tas ir transcendentālistu augstākais mērk̦is. Zini, ka tā ir Mana garı̄gā mājvieta. Tas, kurš to sasniedz, materiālajā pasaulē nekad vairs neatgriežas."
+        {
+          "type": "lines",
+          "lines": [
+            "Šis pārpasaulı̄gais, neizpaustais esı̄bas lı̄menis tiek dēvēts par “mūžı̄gu un brı̄vu no grēka”. Tas ir transcendentālistu augstākais mērk̦is. Zini, ka tā ir Mana garı̄gā mājvieta. Tas, kurš to sasniedz, materiālajā pasaulē nekad vairs neatgriežas."
+          ]
+        }
       ],
       "original": [
         "अव्यक्तोऽक्षर इत्युक्तस्तमाहु: परमां गतिम् ।\\",
@@ -340,7 +440,12 @@
         "jasjāntaḥsthāni bhūtāni jena sarvam idaṁ tatam"
       ],
       "translation": [
-        "Pārtha, Es esmu Augstākā Personı̄ba, kuru var sasniegt vienı̄gi pateicoties tı̄rai garı̄gai kalpošanai. Es caurstrāvoju visu un Manı̄ mı̄t visas dzı̄vās radı̄bas."
+        {
+          "type": "lines",
+          "lines": [
+            "Pārtha, Es esmu Augstākā Personı̄ba, kuru var sasniegt vienı̄gi pateicoties tı̄rai garı̄gai kalpošanai. Es caurstrāvoju visu un Manı̄ mı̄t visas dzı̄vās radı̄bas."
+          ]
+        }
       ],
       "original": [
         "पुरुष: स पर: पार्थ भक्त्य‍ा लभ्यस्त्वनन्यया ।\\",
@@ -355,7 +460,12 @@
         "prajātā jānti taṁ kālaṁ vakṣjāmi Bhāratarṣabha"
       ],
       "translation": [
-        "Labākais no Bhāratas dzimtas! Tagad Es tev pavēstı̄šu kā diennakts laiks, kurā jogs atstāj šo pasauli, ietekmē to, vai vin̦š taps atbrı̄vots, vai arı̄ būs spiests piedzimt no jauna."
+        {
+          "type": "lines",
+          "lines": [
+            "Labākais no Bhāratas dzimtas! Tagad Es tev pavēstı̄šu kā diennakts laiks, kurā jogs atstāj šo pasauli, ietekmē to, vai vin̦š taps atbrı̄vots, vai arı̄ būs spiests piedzimt no jauna."
+          ]
+        }
       ],
       "original": [
         "यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिन: ।\\",
@@ -370,7 +480,12 @@
         "tatra prajātā gaččhanti brahma brahma-vido džanāḥ"
       ],
       "translation": [
-        "Tie, kas iepazinuši Brahmanu, sasniedz Vin̦u, atstājot k̦ermeni dienas laikā, kad valda uguns un gaismas dievı̄bas, divas nedēl̦as ilgajā augoša mēness fāzē, sešus mēnešus ilgajā laika posmā, kad saule virzās pa ziemel̦u orbı̄tu."
+        {
+          "type": "lines",
+          "lines": [
+            "Tie, kas iepazinuši Brahmanu, sasniedz Vin̦u, atstājot k̦ermeni dienas laikā, kad valda uguns un gaismas dievı̄bas, divas nedēl̦as ilgajā augoša mēness fāzē, sešus mēnešus ilgajā laika posmā, kad saule virzās pa ziemel̦u orbı̄tu."
+          ]
+        }
       ],
       "original": [
         "अग्न‍िर्ज्योतिरह: शुक्ल‍ः षण्मासा उत्तरायणम् ।\\",
@@ -385,7 +500,12 @@
         "tatra čāndramasaṁ džjotir jogı̄ prāpja nivartate"
       ],
       "translation": [
-        "Ja tomēr jogs atstāj k̦ermeni miglas laikā, naktı̄, divas nedēl̦as ilgajā dilstoša mēness fāzē, kamēr saule sešus mēnešus atrodas dienvidu orbı̄tā, tad, pat sasniedzis paradı̄zes pasaules, vin̦š būs spiests piedzimt no jauna cilvēku pasaulē."
+        {
+          "type": "lines",
+          "lines": [
+            "Ja tomēr jogs atstāj k̦ermeni miglas laikā, naktı̄, divas nedēl̦as ilgajā dilstoša mēness fāzē, kamēr saule sešus mēnešus atrodas dienvidu orbı̄tā, tad, pat sasniedzis paradı̄zes pasaules, vin̦š būs spiests piedzimt no jauna cilvēku pasaulē."
+          ]
+        }
       ],
       "original": [
         "धूमो रात्रिस्तथा कृष्ण: षण्मासा दक्षिणायनम् ।\\",
@@ -400,7 +520,12 @@
         "ekajā jātj anāvṛttim anjajāvartate punaḥ"
       ],
       "translation": [
-        "Šie divi materiālās pasaules būtn̦u cel̦i ir mūžı̄gi un zināmi kā gaišais un tumšais. Pateicoties gaišajam cel̦am, dzı̄vā būtne sasniedz atbrı̄vi un saplūst ar Brahmanu, bet tumšais cel̦š ved uz kārtējo piedzimšanu šajā laicı̄gajā pasaulē."
+        {
+          "type": "lines",
+          "lines": [
+            "Šie divi materiālās pasaules būtn̦u cel̦i ir mūžı̄gi un zināmi kā gaišais un tumšais. Pateicoties gaišajam cel̦am, dzı̄vā būtne sasniedz atbrı̄vi un saplūst ar Brahmanu, bet tumšais cel̦š ved uz kārtējo piedzimšanu šajā laicı̄gajā pasaulē."
+          ]
+        }
       ],
       "original": [
         "श‍ुक्ल‍कृष्णे गती ह्येते जगत: शाश्वते मते ।\\",
@@ -415,7 +540,12 @@
         "tasmāt sarveṣu kāleṣu joga-jukto bhavārdžuna"
       ],
       "translation": [
-        "Pārtha, bhakti-jogi zina šos abus cel̦us, taču netop to savaldzināti un ilūzijā nekrı̄t. Tādēl̦, Ardžūna, jebkuros apstākl̦os rı̄kojies garı̄gas kalpošanas noskan̦ojumā."
+        {
+          "type": "lines",
+          "lines": [
+            "Pārtha, bhakti-jogi zina šos abus cel̦us, taču netop to savaldzināti un ilūzijā nekrı̄t. Tādēl̦, Ardžūna, jebkuros apstākl̦os rı̄kojies garı̄gas kalpošanas noskan̦ojumā."
+          ]
+        }
       ],
       "original": [
         "नैते सृती पार्थ जानन्योगी मुह्यति कश्चन ।\\",
@@ -432,7 +562,12 @@
         "jogı̄ paraṁ sthānam upaiti čādjam"
       ],
       "translation": [
-        "Man veltı̄jušās dvēseles sasniegumi vērtējami augstāk, nekā tie, kas gūti pētot un citējot Vēdas, nodarbojoties ar labdarı̄bu, ziedojot ugunij, godprātı̄gi rı̄kojoties vai pielietojot dažādas askēzes prakses, tādēl̦ šāda dvēsele sasniedz Manu mūžı̄go garı̄go mājvietu."
+        {
+          "type": "lines",
+          "lines": [
+            "Man veltı̄jušās dvēseles sasniegumi vērtējami augstāk, nekā tie, kas gūti pētot un citējot Vēdas, nodarbojoties ar labdarı̄bu, ziedojot ugunij, godprātı̄gi rı̄kojoties vai pielietojot dažādas askēzes prakses, tādēl̦ šāda dvēsele sasniedz Manu mūžı̄go garı̄go mājvietu."
+          ]
+        }
       ],
       "original": [
         "वेदेषु यज्ञेषु तप:सु चैव\\",

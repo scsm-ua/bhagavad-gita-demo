@@ -17,8 +17,13 @@
         "jadž džñātvā munajaḥ sarve parāṁ siddhim ito gatāḥ"
       ],
       "translation": [
-        "Dieva Augstākā Personı̄ba sacı̄ja:",
-        "Tagad Es tev vēlreiz pavēstı̄šu augstāko gudrı̄bu, kas pārāka par visām citām zināšanām. Izprotot šo zinātni, viedie sasniedz pašu pilnı̄bu un atbrı̄vojas no matērijas varas."
+        {
+          "type": "lines",
+          "lines": [
+            "Dieva Augstākā Personı̄ba sacı̄ja:",
+            "Tagad Es tev vēlreiz pavēstı̄šu augstāko gudrı̄bu, kas pārāka par visām citām zināšanām. Izprotot šo zinātni, viedie sasniedz pašu pilnı̄bu un atbrı̄vojas no matērijas varas."
+          ]
+        }
       ],
       "original": [
         "श्रीभगवानुवाच\\",
@@ -34,9 +39,12 @@
         "sarge ’pi nopadžājante pralaje na vjathanti ča"
       ],
       "translation": [
-        "Pien̦emot patvērumu šajās zināšanās, dvēsele iegūst garı̄gu k̦ermeni, kas lı̄dzinās Manam, un nonāk Manā",
-        "mūžı̄gajā mājvietā. Pēc tam, materiālā Visuma radı̄šanas brı̄dı̄, vin̦a vairs nepiedzimst, kā arı̄ neizjūt raizes tā",
-        "sabrukšanas laikā."
+        {
+          "type": "lines",
+          "lines": [
+            "Pien̦emot patvērumu šajās zināšanās, dvēsele iegūst garı̄gu k̦ermeni, kas lı̄dzinās Manam, un nonāk Manā mūžı̄gajā mājvietā. Pēc tam, materiālā Visuma radı̄šanas brı̄dı̄, vin̦a vairs nepiedzimst, kā arı̄ neizjūt raizes tā sabrukšanas laikā."
+          ]
+        }
       ],
       "original": [
         "इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागता: ।\\",
@@ -51,7 +59,12 @@
         "sambhavaḥ sarva-bhūtānāṁ tato bhavati bhārata"
       ],
       "translation": [
-        "Bhārata! Es ievietoju sēklu Savas pirmatnējās matērijas klēpı̄, dodot dvēselēm iespēju piedzimt."
+        {
+          "type": "lines",
+          "lines": [
+            "Bhārata! Es ievietoju sēklu Savas pirmatnējās matērijas klēpı̄, dodot dvēselēm iespēju piedzimt."
+          ]
+        }
       ],
       "original": [
         "मम योनिर्महद्‍ब्रह्म तस्मिन्गर्भं दधाम्यहम् ।\\",
@@ -66,7 +79,12 @@
         "tāsāṁ brahma mahad jonir ahaṁ bı̄dža-pradaḥ pitā"
       ],
       "translation": [
-        "Kaunteja, visas iespējamās dzı̄vās būtnes dzimst no pirmatnējās matērijas mātišk̦ā klēpja, bet Es esmu sēklu dāvājošais tēvs."
+        {
+          "type": "lines",
+          "lines": [
+            "Kaunteja, visas iespējamās dzı̄vās būtnes dzimst no pirmatnējās matērijas mātišk̦ā klēpja, bet Es esmu sēklu dāvājošais tēvs."
+          ]
+        }
       ],
       "original": [
         "सर्वयोनिषु कौन्तेय मूर्तय: सम्भवन्ति या: ।\\",
@@ -81,7 +99,12 @@
         "nibadhnanti maha-baho dehe dehinam avjajam"
       ],
       "translation": [
-        "Spēcı̄gais Ardžūna! Pastāv trı̄s <i class=\"SongVerse__term\">gunas</i>: labestı̄ba, kaisle un tumsonı̄ba — trı̄s materiālās energ̒ijas izpausmes. Tās sasaista mūžı̄go un nemainı̄go, laicı̄gajā pasaulē iemiesoto dvēseli."
+        {
+          "type": "lines",
+          "lines": [
+            "Spēcı̄gais Ardžūna! Pastāv trı̄s <i class=\"SongVerse__term\">gunas</i>: labestı̄ba, kaisle un tumsonı̄ba — trı̄s materiālās energ̒ijas izpausmes. Tās sasaista mūžı̄go un nemainı̄go, laicı̄gajā pasaulē iemiesoto dvēseli."
+          ]
+        }
       ],
       "original": [
         "सत्त्वं रजस्तम इति गुणा: प्रकृतिसम्भवा: ।\\",
@@ -96,7 +119,12 @@
         "sukha-saṅgena badhnāti džñāna-saṅgena čānagha"
       ],
       "translation": [
-        "Bezgrēcı̄gais! No šı̄m trı̄s ı̄pašı̄bām vistı̄rākā ir labestı̄ba. Tā dāvā apgaismı̄bu un atbrı̄vo no ciešanām, tā noskan̦o dvēseli uz piek̦eršanos laimei un zināšanām."
+        {
+          "type": "lines",
+          "lines": [
+            "Bezgrēcı̄gais! No šı̄m trı̄s ı̄pašı̄bām vistı̄rākā ir labestı̄ba. Tā dāvā apgaismı̄bu un atbrı̄vo no ciešanām, tā noskan̦o dvēseli uz piek̦eršanos laimei un zināšanām."
+          ]
+        }
       ],
       "original": [
         "तत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम् ।\\",
@@ -111,8 +139,12 @@
         "tan nibadhnāti kaunteja karma-saṅgena dehinam"
       ],
       "translation": [
-        "Savukārt kaisles guna, Kuntı̄ dēls, iemieso vēlmi baudı̄t matēriju. Iekāres un atkarı̄bu radı̄ta, tā",
-        "piesaista dvēseli pasaulı̄gajai darbı̄bai."
+        {
+          "type": "lines",
+          "lines": [
+            "Savukārt kaisles guna, Kuntı̄ dēls, iemieso vēlmi baudı̄t matēriju. Iekāres un atkarı̄bu radı̄ta, tā piesaista dvēseli pasaulı̄gajai darbı̄bai."
+          ]
+        }
       ],
       "original": [
         "रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भ‍वम् ।\\",
@@ -127,7 +159,12 @@
         "pramādālasja-nidrābhis tan nibadhnāti bhārata"
       ],
       "translation": [
-        "Zini, Bhārata, ka nezin̦as radı̄tā tumsonı̄bas <i class=\"SongVerse__term\">guna</i> ieved visas dzı̄vās būtnes ilūzijā. Tā iekal̦ nolemto dvēseli neprāta, slinkuma un miega važās."
+        {
+          "type": "lines",
+          "lines": [
+            "Zini, Bhārata, ka nezin̦as radı̄tā tumsonı̄bas <i class=\"SongVerse__term\">guna</i> ieved visas dzı̄vās būtnes ilūzijā. Tā iekal̦ nolemto dvēseli neprāta, slinkuma un miega važās."
+          ]
+        }
       ],
       "original": [
         "तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम् ।\\",
@@ -142,8 +179,12 @@
         "džñānam āvṛtja tu tamaḥ pramāde sañdžajatj uta"
       ],
       "translation": [
-        "Bhāratas pēcteci! Labestı̄ba piesaista cilvēku laimei, kaisle paverdzina ar darbı̄bu augl̦u dēl̦, bet tumsonı̄ba atn̦em cilvēkam saprātu. Tās ietekmē",
-        "cilvēks grimst maldu dzı̄lēs."
+        {
+          "type": "lines",
+          "lines": [
+            "Bhāratas pēcteci! Labestı̄ba piesaista cilvēku laimei, kaisle paverdzina ar darbı̄bu augl̦u dēl̦, bet tumsonı̄ba atn̦em cilvēkam saprātu. Tās ietekmē cilvēks grimst maldu dzı̄lēs."
+          ]
+        }
       ],
       "original": [
         "सत्त्वं सुखे सञ्जयति रज: कर्मणि भारत ।\\",
@@ -158,7 +199,12 @@
         "radžaḥ sattvaṁ tamaś čaiva tamaḥ sattvaṁ radžas tathā"
       ],
       "translation": [
-        "Bhārata! Mēdz būt tā, ka labestı̄ba pārspēj kaisli un tumsonı̄bu, gadās, ka kaisle uzvar tumsonı̄bu un labestı̄bu, taču mēdz notikt arı̄ tā, ka tumsonı̄ba nospiež labestı̄bu un kaisli."
+        {
+          "type": "lines",
+          "lines": [
+            "Bhārata! Mēdz būt tā, ka labestı̄ba pārspēj kaisli un tumsonı̄bu, gadās, ka kaisle uzvar tumsonı̄bu un labestı̄bu, taču mēdz notikt arı̄ tā, ka tumsonı̄ba nospiež labestı̄bu un kaisli."
+          ]
+        }
       ],
       "original": [
         "रजस्तमश्चाभिभूय सत्त्वं भवति भारत ।\\",
@@ -173,7 +219,12 @@
         "džñānaṁ jadā tadā vidjād vivṛddhaṁ sattvam itj uta"
       ],
       "translation": [
-        "Ja visus k̦ermen̦a vārtus apgaismo zināšanas, tas liecina par labestı̄bas <i class=\"SongVerse__term\">gunas</i> pārsvaru."
+        {
+          "type": "lines",
+          "lines": [
+            "Ja visus k̦ermen̦a vārtus apgaismo zināšanas, tas liecina par labestı̄bas <i class=\"SongVerse__term\">gunas</i> pārsvaru."
+          ]
+        }
       ],
       "original": [
         "सर्वद्वारेषु देहेऽस्मिन्प्रकाश उपजायते ।\\",
@@ -188,8 +239,12 @@
         "radžasj etāni džājante vivṛddhe Bhāratarṣabha"
       ],
       "translation": [
-        "Ardžūna, cēlākais no Bhāratas pēctečiem! Skopums, nepārvaramas vēlmes, tieksme uz pārmērı̄giem pūlin̦iem kāroto mērk̦u sasniegšanā",
-        "liecina par to, ka pār cilvēku valda kaisles <i class=\"SongVerse__term\">guna</i>."
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna, cēlākais no Bhāratas pēctečiem! Skopums, nepārvaramas vēlmes, tieksme uz pārmērı̄giem pūlin̦iem kāroto mērk̦u sasniegšanā liecina par to, ka pār cilvēku valda kaisles <i class=\"SongVerse__term\">guna</i>."
+          ]
+        }
       ],
       "original": [
         "लोभ: प्रवृत्तिरारम्भ: कर्मणामशम: स्पृहा ।\\",
@@ -204,7 +259,12 @@
         "tamasj etāni džājante vivṛddhe kuru-nandana"
       ],
       "translation": [
-        "Kuru dēls! Veselā saprāta trūkums, bezdarbı̄ba, apjukums un maldi liecina par tumsonı̄bas <i class=\"SongVerse__term\">gunas</i> pārsvaru."
+        {
+          "type": "lines",
+          "lines": [
+            "Kuru dēls! Veselā saprāta trūkums, bezdarbı̄ba, apjukums un maldi liecina par tumsonı̄bas <i class=\"SongVerse__term\">gunas</i> pārsvaru."
+          ]
+        }
       ],
       "original": [
         "अप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च ।\\",
@@ -219,7 +279,12 @@
         "tadottama-vidāṁ lokān amalān pratipadjate"
       ],
       "translation": [
-        "Ja dvēsele atstāj k̦ermeni brı̄dı̄, kad pārsvaru guvusi labestı̄bas <i class=\"SongVerse__term\">guna</i>, tā iemiesojas viedo tı̄rajās pasaulēs."
+        {
+          "type": "lines",
+          "lines": [
+            "Ja dvēsele atstāj k̦ermeni brı̄dı̄, kad pārsvaru guvusi labestı̄bas <i class=\"SongVerse__term\">guna</i>, tā iemiesojas viedo tı̄rajās pasaulēs."
+          ]
+        }
       ],
       "original": [
         "यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत् ।\\",
@@ -234,7 +299,12 @@
         "tathā pralı̄nas tamasi mūḍha-joniṣu džājate"
       ],
       "translation": [
-        "Ja cilvēks nomirst laikā, kad valda kaisles <i class=\"SongVerse__term\">guna</i>, vin̦a dvēsele iemiesojas starp tādiem cilvēkiem, kas piek̦ērušies pasaulı̄gajai darbı̄bai. Bet, ja cilvēks nomirst brı̄dı̄, kad virsroku guvusi tumsonı̄bas <i class=\"SongVerse__term\">guna</i>, vin̦š piedzimst dzı̄vnieka k̦ermenı̄ vai kādā citā zemākā dzı̄vı̄bas formā."
+        {
+          "type": "lines",
+          "lines": [
+            "Ja cilvēks nomirst laikā, kad valda kaisles <i class=\"SongVerse__term\">guna</i>, vin̦a dvēsele iemiesojas starp tādiem cilvēkiem, kas piek̦ērušies pasaulı̄gajai darbı̄bai. Bet, ja cilvēks nomirst brı̄dı̄, kad virsroku guvusi tumsonı̄bas <i class=\"SongVerse__term\">guna</i>, vin̦š piedzimst dzı̄vnieka k̦ermenı̄ vai kādā citā zemākā dzı̄vı̄bas formā."
+          ]
+        }
       ],
       "original": [
         "रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते ।\\",
@@ -249,7 +319,12 @@
         "radžasas tu phalaṁ duḥkham adžñānaṁ tamasaḥ phalam"
       ],
       "translation": [
-        "Viedie pasludinājuši, ka darbı̄ba labestı̄bā ved pie tı̄rı̄bas, darbı̄ba kaislē — pie ciešanām, bet darbı̄ba tumsonı̄bā — pie saprāta zaudēšanas."
+        {
+          "type": "lines",
+          "lines": [
+            "Viedie pasludinājuši, ka darbı̄ba labestı̄bā ved pie tı̄rı̄bas, darbı̄ba kaislē — pie ciešanām, bet darbı̄ba tumsonı̄bā — pie saprāta zaudēšanas."
+          ]
+        }
       ],
       "original": [
         "कर्मण: सुकृतस्याहु: सात्त्विकं निर्मलं फलम् ।\\",
@@ -264,7 +339,12 @@
         "pramāda-mohau tamaso bhavato ’džñānam eva ča"
       ],
       "translation": [
-        "Labestı̄bā rodas zināšanas, kaislē dzimst mantrausı̄ba, bet tumsonı̄ba atn̦em prātu, ieved maldos un liek aizmirst ı̄stenı̄bu."
+        {
+          "type": "lines",
+          "lines": [
+            "Labestı̄bā rodas zināšanas, kaislē dzimst mantrausı̄ba, bet tumsonı̄ba atn̦em prātu, ieved maldos un liek aizmirst ı̄stenı̄bu."
+          ]
+        }
       ],
       "original": [
         "सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च ।\\",
@@ -279,7 +359,12 @@
         "džaghanja-guṇa-vṛtti-sthā adho gaččhanti tāmasāḥ"
       ],
       "translation": [
-        "Tie, kas atrodas labestı̄bas ietekmē, pacel̦as uz padievu pasaulēm. Tie, kas atrodas kaislē, dzimst uz Zemes, cilvēku vidū. Bet tie, kas rı̄kojas zemiski un atrodas tumsonı̄bas varā, nolaižas elles pasaulēs."
+        {
+          "type": "lines",
+          "lines": [
+            "Tie, kas atrodas labestı̄bas ietekmē, pacel̦as uz padievu pasaulēm. Tie, kas atrodas kaislē, dzimst uz Zemes, cilvēku vidū. Bet tie, kas rı̄kojas zemiski un atrodas tumsonı̄bas varā, nolaižas elles pasaulēs."
+          ]
+        }
       ],
       "original": [
         "ऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसा: ।\\",
@@ -294,7 +379,12 @@
         "guṇebhjaś ča paraṁ vetti mad-bhāvaṁ so ’dhigaččhati"
       ],
       "translation": [
-        "Kad dvēsele saprot, ka tikai trı̄s <i class=\"SongVerse__term\">gunas</i> ir visas darbı̄bas cēlon̦i materiālajā pasaulē, un apzinās, ka Visaugstais Kungs ir transcendentāls attiecı̄bā pret tām, vin̦a nonāk Manā dievišk̦ajā mājvietā."
+        {
+          "type": "lines",
+          "lines": [
+            "Kad dvēsele saprot, ka tikai trı̄s <i class=\"SongVerse__term\">gunas</i> ir visas darbı̄bas cēlon̦i materiālajā pasaulē, un apzinās, ka Visaugstais Kungs ir transcendentāls attiecı̄bā pret tām, vin̦a nonāk Manā dievišk̦ajā mājvietā."
+          ]
+        }
       ],
       "original": [
         "नान्यं गुणेभ्य: कर्तारं यदा द्रष्टानुपश्यति ।\\",
@@ -309,7 +399,12 @@
         "džanma-mṛtju-džarā-duḥkhair vimukto ’mṛtam aśnute"
       ],
       "translation": [
-        "Atbrı̄vojusies no trı̄s matērijas stāvokl̦u ietekmes, kas izpaužas vienı̄gi materiālā k̦ermenı̄, dvēsele pacel̦as pāri dzimšanas, novecošanas un nāves izraisı̄tajām ciešanām un malko nemirstı̄bas nektāru."
+        {
+          "type": "lines",
+          "lines": [
+            "Atbrı̄vojusies no trı̄s matērijas stāvokl̦u ietekmes, kas izpaužas vienı̄gi materiālā k̦ermenı̄, dvēsele pacel̦as pāri dzimšanas, novecošanas un nāves izraisı̄tajām ciešanām un malko nemirstı̄bas nektāru."
+          ]
+        }
       ],
       "original": [
         "गुणानेतानतीत्य त्रीन्देही देहसमुद्भ‍वान् ।\\",
@@ -325,8 +420,13 @@
         "kim āčāraḥ kathaṁ čaitāṁs trı̄n guṇān ativartate"
       ],
       "translation": [
-        "Ardžūna jautāja:",
-        "Ak, Diev-Kungs! Kādas pazı̄mes raksturo cilvēku, kurš nepakl̦aujas trı̄s materiālās dabas ı̄pašı̄bām? Kā vin̦š uzvedas un kā atbrı̄vojas no šo ı̄pašı̄bu ietekmes?"
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna jautāja:",
+            "Ak, Diev-Kungs! Kādas pazı̄mes raksturo cilvēku, kurš nepakl̦aujas trı̄s materiālās dabas ı̄pašı̄bām? Kā vin̦š uzvedas un kā atbrı̄vojas no šo ı̄pašı̄bu ietekmes?"
+          ]
+        }
       ],
       "original": [
         "अर्जुन उवाच\\",
@@ -352,8 +452,13 @@
         "sarvārambha-paritjāgı̄ guṇātı̄taḥ sa učjate"
       ],
       "translation": [
-        "Dieva Augstākā Personı̄ba atbildēja:",
-        "Pāndava, tas, kurš pacēlies pāri trı̄s materiālās dabas ı̄pašı̄bām — apgaismı̄bai, aktivitātei un maldiem, neizjūt nepatiku pret tām, kad tās  izpaužas, kā arı̄ netiecas pēc tām, kad tās izzūd. Zinot, ka visas darbı̄bas veic materiālās dabas <i class=\"SongVerse__term\">gunas</i>, vin̦š nekrı̄t ilūzijā, vin̦š ir mierpilns un lı̄dzsvarots. Smel̦ot apmierinājumu sevı̄ pašā, vin̦š vienlı̄dzı̄gi attiecas pret prieku un bēdām, vienādi uztver zemes pikuci, akmeni un zelta gabalu. Vin̦š ir nemainı̄gs gan labvēlı̄gos, gan nelabvēlı̄gos apstākl̦os. Vin̦š paliek nelokāms, saskaroties ar apvainojumiem un slavēšanu, godu un kaunu. Tāds cilvēks, būdams bezkaislı̄gs, vienādi uztver draugus un ienaidniekus un atraida jebkādus pasaulı̄gos panākumus."
+        {
+          "type": "lines",
+          "lines": [
+            "Dieva Augstākā Personı̄ba atbildēja:",
+            "Pāndava, tas, kurš pacēlies pāri trı̄s materiālās dabas ı̄pašı̄bām — apgaismı̄bai, aktivitātei un maldiem, neizjūt nepatiku pret tām, kad tās  izpaužas, kā arı̄ netiecas pēc tām, kad tās izzūd. Zinot, ka visas darbı̄bas veic materiālās dabas <i class=\"SongVerse__term\">gunas</i>, vin̦š nekrı̄t ilūzijā, vin̦š ir mierpilns un lı̄dzsvarots. Smel̦ot apmierinājumu sevı̄ pašā, vin̦š vienlı̄dzı̄gi attiecas pret prieku un bēdām, vienādi uztver zemes pikuci, akmeni un zelta gabalu. Vin̦š ir nemainı̄gs gan labvēlı̄gos, gan nelabvēlı̄gos apstākl̦os. Vin̦š paliek nelokāms, saskaroties ar apvainojumiem un slavēšanu, godu un kaunu. Tāds cilvēks, būdams bezkaislı̄gs, vienādi uztver draugus un ienaidniekus un atraida jebkādus pasaulı̄gos panākumus."
+          ]
+        }
       ],
       "original": [
         "श्रीभगवानुवाच\\",
@@ -378,7 +483,12 @@
         "sa guṇān samatı̄tjaitān brahma-bhūjāja kalpate"
       ],
       "translation": [
-        "Tas, kurš nelokāmi garı̄gi kalpo Man apgūstot zināšanas par Brahmanu, tiek atbrı̄vots no trı̄s materiālās pasaules <i class=\"SongVerse__term\">gunu</i> ietekmes, kā rezultātā iegūst apzin̦u par sevi kā par dvēseli."
+        {
+          "type": "lines",
+          "lines": [
+            "Tas, kurš nelokāmi garı̄gi kalpo Man apgūstot zināšanas par Brahmanu, tiek atbrı̄vots no trı̄s materiālās pasaules <i class=\"SongVerse__term\">gunu</i> ietekmes, kā rezultātā iegūst apzin̦u par sevi kā par dvēseli."
+          ]
+        }
       ],
       "original": [
         "मां च योऽव्यभिचारेण भक्तियोगेन सेवते ।\\",
@@ -393,7 +503,12 @@
         "śāśvatasja ča dharmasja sukhasjaikāntikasja ča"
       ],
       "translation": [
-        "Pēc tam vin̦š saprot, ka Es esmu Brahmana pamats, neizsmel̦amas nemirstı̄bas, mūžı̄gās relig̒ijas un augstākās dievišk̦ās svētlaimes avots."
+        {
+          "type": "lines",
+          "lines": [
+            "Pēc tam vin̦š saprot, ka Es esmu Brahmana pamats, neizsmel̦amas nemirstı̄bas, mūžı̄gās relig̒ijas un augstākās dievišk̦ās svētlaimes avots."
+          ]
+        }
       ],
       "original": [
         "ब्रह्मणो हि प्रतिष्ठाहममृतस्याव्ययस्य च ।\\",

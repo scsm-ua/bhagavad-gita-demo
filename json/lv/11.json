@@ -17,8 +17,13 @@
         "jat tvajoktaṁ vačas tena moho ’jaṁ vigato mama"
       ],
       "translation": [
-        "Ardžūna sacı̄ja:",
-        "Pateicoties Savai beziemesla žēlastı̄bai, Tu man atklāji svētās garı̄gās zināšanas un atbrı̄voji no ilūzijas gūsta."
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna sacı̄ja:",
+            "Pateicoties Savai beziemesla žēlastı̄bai, Tu man atklāji svētās garı̄gās zināšanas un atbrı̄voji no ilūzijas gūsta."
+          ]
+        }
       ],
       "original": [
         "अर्जुन उवाच\\",
@@ -34,7 +39,12 @@
         "tvattaḥ kamala-patrākṣa māhātmjam api čāvjajam"
       ],
       "translation": [
-        "Ak, Diev-Kungs, Tavas acis lı̄dzı̄nās lotosa ziedlapām! Uzklausot Tavus skaidrojumus par dzı̄vu radı̄bu parādı̄šanos un izzušanu, es vēlreiz iepazinu Tavu neierobežoto diženumu."
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Diev-Kungs, Tavas acis lı̄dzı̄nās lotosa ziedlapām! Uzklausot Tavus skaidrojumus par dzı̄vu radı̄bu parādı̄šanos un izzušanu, es vēlreiz iepazinu Tavu neierobežoto diženumu."
+          ]
+        }
       ],
       "original": [
         "भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया ।\\",
@@ -49,7 +59,12 @@
         "draṣṭum iččhāmi te rūpam aiśvaraṁ puruṣottama"
       ],
       "translation": [
-        "Ak, Valdniek! Visu, ko Tu man par Sevi atklāji, es pien̦emu kā absolūtu ı̄stenı̄bu. Ak, diženākais no visām personı̄bām! Dāvā jel man iespēju ieraudzı̄t Tavu dievišk̦ās varenı̄bas pilno tēlu."
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Valdniek! Visu, ko Tu man par Sevi atklāji, es pien̦emu kā absolūtu ı̄stenı̄bu. Ak, diženākais no visām personı̄bām! Dāvā jel man iespēju ieraudzı̄t Tavu dievišk̦ās varenı̄bas pilno tēlu."
+          ]
+        }
       ],
       "original": [
         "एवमेतद्यथात्थ त्वमात्मानं परमेश्वर ।\\",
@@ -64,7 +79,12 @@
         "jogeśvara tato me tvaṁ darśajātmānam avjajam"
       ],
       "translation": [
-        "Ak, Diev-Kungs, mistisko spēku Pavēlniek, ja uzskati, ka esmu spējı̄gs uzlūkot Tavu mūžı̄go Visuma veidolu, lūdzu parādi man to!"
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Diev-Kungs, mistisko spēku Pavēlniek, ja uzskati, ka esmu spējı̄gs uzlūkot Tavu mūžı̄go Visuma veidolu, lūdzu parādi man to!"
+          ]
+        }
       ],
       "original": [
         "मन्यसे यदि तच्छक्यं मया द्रष्टुमिति प्रभो ।\\",
@@ -80,8 +100,13 @@
         "nānā-vidhāni divjāni nānā-varṇākṛtı̄ni ča"
       ],
       "translation": [
-        "Dieva Augstākā Personı̄ba atbildēja:",
-        "Tad, Pārthas dēls, skati Manu varenı̄bu izpaudušos daudzveidı̄gās, daudzkrāsainās un neizmērojamās dievišk̦ās formās!"
+        {
+          "type": "lines",
+          "lines": [
+            "Dieva Augstākā Personı̄ba atbildēja:",
+            "Tad, Pārthas dēls, skati Manu varenı̄bu izpaudušos daudzveidı̄gās, daudzkrāsainās un neizmērojamās dievišk̦ās formās!"
+          ]
+        }
       ],
       "original": [
         "श्रीभगवानुवाच\\",
@@ -97,7 +122,12 @@
         "bahūnj adṛṣṭa-pūrvāṇi paśjāśčarjāṇi bhārata"
       ],
       "translation": [
-        "Bhārata, raugi debesu iemı̄tniekus: Aditjas, Vasū, Rudras, Ašvinı̄-Kumārus, Marutus un daudzus citus brı̄nišk̦us tēlus, kurus neviens lı̄dz šim nav redzējis."
+        {
+          "type": "lines",
+          "lines": [
+            "Bhārata, raugi debesu iemı̄tniekus: Aditjas, Vasū, Rudras, Ašvinı̄-Kumārus, Marutus un daudzus citus brı̄nišk̦us tēlus, kurus neviens lı̄dz šim nav redzējis."
+          ]
+        }
       ],
       "original": [
         "पश्यादित्यान्वसून्‍रुद्रानश्विनौ मरुतस्तथा ।\\",
@@ -112,7 +142,12 @@
         "mama dehe guḍākeśa jač čānjad draṣṭum iččhasi"
       ],
       "translation": [
-        "Ak, Ardžūna, miegu uzveikušais, viss Visumā pastāvošais, kustı̄gais un nekustı̄gais, taps tavā priekšā atklāts šajā vienā Manā veidolā. Tu varēsi ieraudzı̄t šajā Visuma formā visu, ko vien vēlēsies!"
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Ardžūna, miegu uzveikušais, viss Visumā pastāvošais, kustı̄gais un nekustı̄gais, taps tavā priekšā atklāts šajā vienā Manā veidolā. Tu varēsi ieraudzı̄t šajā Visuma formā visu, ko vien vēlēsies!"
+          ]
+        }
       ],
       "original": [
         "इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम् ।\\",
@@ -127,7 +162,12 @@
         "divjaṁ dadāmi te čakṣuḥ paśja me jogam aiśvaram"
       ],
       "translation": [
-        "Mans mistiskais diženums nav pieejams tavām acı̄m, tādēl̦, lai tu varētu Mani uzlūkot, Es dāvāšu tev dievišk̦u redzi!"
+        {
+          "type": "lines",
+          "lines": [
+            "Mans mistiskais diženums nav pieejams tavām acı̄m, tādēl̦, lai tu varētu Mani uzlūkot, Es dāvāšu tev dievišk̦u redzi!"
+          ]
+        }
       ],
       "original": [
         "न तु मां शक्यसे द्रष्टुमनेनैव स्वचक्षुषा ।\\",
@@ -143,8 +183,13 @@
         "darśajāmāsa pārthāja paramaṁ rūpam aiśvaram"
       ],
       "translation": [
-        "Sandžaja sacı̄ja:",
-        "Rādža Dhritarāštra! Pasakot to, visu mistisko spēku pavēlnieks Diev-Kungs Srı̄ Harı̄ atklāja Ardžūnam savu dievišk̦i krāšn̦o Visuma veidolu."
+        {
+          "type": "lines",
+          "lines": [
+            "Sandžaja sacı̄ja:",
+            "Rādža Dhritarāštra! Pasakot to, visu mistisko spēku pavēlnieks Diev-Kungs Srı̄ Harı̄ atklāja Ardžūnam savu dievišk̦i krāšn̦o Visuma veidolu."
+          ]
+        }
       ],
       "original": [
         "सञ्जय उवाच\\",
@@ -163,7 +208,12 @@
         "sarvāśčarjamajaṁ devam anantaṁ viśvato-mukham"
       ],
       "translation": [
-        "Visaugstais Kungs atklāja savu veidolu izpaustu daudzos pārsteidzošos tēlos ar daudzskaitlı̄gām acı̄m un mutēm, ar rotaslietām, kas nebija no šı̄s pasaules, un satriecošiem ieročiem. Vin̦u rotāja brı̄numainas ziedu virtenes, Vin̦š bija tērpts izsmalcinātās drānās un svaidı̄ts dievišk̦iem aromātiem. It visu caurstrāvoja Vin̦a brı̄nišk̦ı̄gais, bezgalı̄gais un mirdzošais Visuma veidols."
+        {
+          "type": "lines",
+          "lines": [
+            "Visaugstais Kungs atklāja savu veidolu izpaustu daudzos pārsteidzošos tēlos ar daudzskaitlı̄gām acı̄m un mutēm, ar rotaslietām, kas nebija no šı̄s pasaules, un satriecošiem ieročiem. Vin̦u rotāja brı̄numainas ziedu virtenes, Vin̦š bija tērpts izsmalcinātās drānās un svaidı̄ts dievišk̦iem aromātiem. It visu caurstrāvoja Vin̦a brı̄nišk̦ı̄gais, bezgalı̄gais un mirdzošais Visuma veidols."
+          ]
+        }
       ],
       "original": [
         "अनेकवक्‍त्रनयनमनेकाद्भ‍ुतदर्शनम् ।\\",
@@ -181,7 +231,12 @@
         "jadi bhāḥ sadṛśı̄ sā sjād bhāsas tasja mahātmanaḥ"
       ],
       "translation": [
-        "Diev-Kunga gigantiskā Visuma veidola mirdzums lı̄dzinājās tūkstoš saulēm, kas vienlaicı̄gi mirdz debess jumā."
+        {
+          "type": "lines",
+          "lines": [
+            "Diev-Kunga gigantiskā Visuma veidola mirdzums lı̄dzinājās tūkstoš saulēm, kas vienlaicı̄gi mirdz debess jumā."
+          ]
+        }
       ],
       "original": [
         "दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता ।\\",
@@ -196,7 +251,12 @@
         "apaśjad deva-devasja śarı̄re pāṇḍavas tadā"
       ],
       "translation": [
-        "Tajā mirklı̄ kaujas laukā esošais Ardžūna dievu Dieva Visuma veidolā vienlaicı̄gi ieraudzı̄ja visu daudzveidı̄go pasauli."
+        {
+          "type": "lines",
+          "lines": [
+            "Tajā mirklı̄ kaujas laukā esošais Ardžūna dievu Dieva Visuma veidolā vienlaicı̄gi ieraudzı̄ja visu daudzveidı̄go pasauli."
+          ]
+        }
       ],
       "original": [
         "तत्रैकस्थं जगत्कृत्स्नं प्रविभक्तमनेकधा ।\\",
@@ -211,7 +271,12 @@
         "praṇamja śirasā devaṁ kṛtāñdžalir abhāṣata"
       ],
       "translation": [
-        "Tad apbrı̄nas apdullinātais Ardžūna, kura k̦ermeni bija pārn̦ēmušas bailes, Diev-Kunga priekšā nolieca galvu un, cien̦pilni salicis plaukstas, vērsās pie Vin̦a."
+        {
+          "type": "lines",
+          "lines": [
+            "Tad apbrı̄nas apdullinātais Ardžūna, kura k̦ermeni bija pārn̦ēmušas bailes, Diev-Kunga priekšā nolieca galvu un, cien̦pilni salicis plaukstas, vērsās pie Vin̦a."
+          ]
+        }
       ],
       "original": [
         "तत: स विस्मयाविष्टो हृष्टरोमा धनञ्जय: ।\\",
@@ -229,8 +294,13 @@
         "ṛṣı̄ṁś ča sarvān uragāṁś ča divjān"
       ],
       "translation": [
-        "Ardžūna sacı̄ja:",
-        "Ak, Diev-Kungs! Tavā k̦ermenı̄ es redzu visus padievus un visas dzı̄vı̄bas formas, Brahmu, kas sēž uz lotosa zieda, un Višnu, cildenus viedos un pārsteidzošas čūskas."
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna sacı̄ja:",
+            "Ak, Diev-Kungs! Tavā k̦ermenı̄ es redzu visus padievus un visas dzı̄vı̄bas formas, Brahmu, kas sēž uz lotosa zieda, un Višnu, cildenus viedos un pārsteidzošas čūskas."
+          ]
+        }
       ],
       "original": [
         "अर्जुन उवाच\\",
@@ -250,7 +320,12 @@
         "paśjāmi viśveśvara viśva-rūpa"
       ],
       "translation": [
-        "Ak, pasaules Radı̄tāj! Ak, Visuma tēls! Lai kur es raudzı̄tos, es redzu Tavas bezgalı̄gās formas ar daudzām rokām, vēderiem, mutēm un acı̄m. Es nevaru saprast, kur ir Tavs sākums, vidus vai beigas."
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, pasaules Radı̄tāj! Ak, Visuma tēls! Lai kur es raudzı̄tos, es redzu Tavas bezgalı̄gās formas ar daudzām rokām, vēderiem, mutēm un acı̄m. Es nevaru saprast, kur ir Tavs sākums, vidus vai beigas."
+          ]
+        }
       ],
       "original": [
         "अनेकबाहूदरवक्‍त्रनेत्रं\\",
@@ -269,7 +344,12 @@
         "dı̄ptānalārka-djutim apramejam"
       ],
       "translation": [
-        "Visur es redzu Tavu žilbinošo tēlu ar kron̦iem, vālēm un diskiem, kurš apmirdz it visu visapkārt. Zilbinošā mirdzuma dēl̦, kas lı̄dzinās uguns vai Saules gaismai, uz Tevi ir grūti skatı̄ties."
+        {
+          "type": "lines",
+          "lines": [
+            "Visur es redzu Tavu žilbinošo tēlu ar kron̦iem, vālēm un diskiem, kurš apmirdz it visu visapkārt. Zilbinošā mirdzuma dēl̦, kas lı̄dzinās uguns vai Saules gaismai, uz Tevi ir grūti skatı̄ties."
+          ]
+        }
       ],
       "original": [
         "किरीटिनं गदिनं चक्रिणं च\\",
@@ -288,7 +368,12 @@
         "sanātanas tvaṁ puruṣo mato me"
       ],
       "translation": [
-        "Tu esi augstākā bezgrēcı̄gā Istenı̄ba, kuru var izprast ar Vēdu palı̄dzı̄bu. Tu esi Visuma pirmavots un mūžı̄go relig̒ijas principu nemirstı̄gais glabātājs. Es esmu pārliecināts, ka Tu esi Pats Visaugstais Diev-Kungs!"
+        {
+          "type": "lines",
+          "lines": [
+            "Tu esi augstākā bezgrēcı̄gā Istenı̄ba, kuru var izprast ar Vēdu palı̄dzı̄bu. Tu esi Visuma pirmavots un mūžı̄go relig̒ijas principu nemirstı̄gais glabātājs. Es esmu pārliecināts, ka Tu esi Pats Visaugstais Diev-Kungs!"
+          ]
+        }
       ],
       "original": [
         "त्वमक्षरं परमं वेदितव्यं\\",
@@ -307,7 +392,12 @@
         "svatedžasā viśvam idaṁ tapantam"
       ],
       "translation": [
-        "Es redzu Tevi ar daudzām rokām un bezgalı̄gi varenu — bez sākuma, vidus un beigām. Tavas acis ir Saule un Mēness! No Tavas mutes nāk kvēlojoša uguns, bet Tavs spožums apmirdz visu Visumu!"
+        {
+          "type": "lines",
+          "lines": [
+            "Es redzu Tevi ar daudzām rokām un bezgalı̄gi varenu — bez sākuma, vidus un beigām. Tavas acis ir Saule un Mēness! No Tavas mutes nāk kvēlojoša uguns, bet Tavs spožums apmirdz visu Visumu!"
+          ]
+        }
       ],
       "original": [
         "अनादिमध्यान्तमनन्तवीर्य-\\",
@@ -326,7 +416,12 @@
         "loka-trajaṁ pravjathitaṁ mahātman"
       ],
       "translation": [
-        "Tu viens caurstrāvo ar Sevi visas debess puses un aizpildi telpu starp debesı̄m un zemi. Ak, Dižākais! Visu trı̄s pasaul̦u iemı̄tnieki, uzlūkojot šo bailes iedvesošo un brı̄numaino tēlu, trı̄sul̦o Tavā priekšā!"
+        {
+          "type": "lines",
+          "lines": [
+            "Tu viens caurstrāvo ar Sevi visas debess puses un aizpildi telpu starp debesı̄m un zemi. Ak, Dižākais! Visu trı̄s pasaul̦u iemı̄tnieki, uzlūkojot šo bailes iedvesošo un brı̄numaino tēlu, trı̄sul̦o Tavā priekšā!"
+          ]
+        }
       ],
       "original": [
         "द्यावापृथिव्योरिदमन्तरं हि\\",
@@ -345,7 +440,12 @@
         "stuvanti tvāṁ stutibhiḥ puṣkalābhiḥ"
       ],
       "translation": [
-        "Debesu iemı̄tnieku pūl̦i ieplūst Tevı̄ un daži no tiem, salikuši plaukstas, godbijı̄gās bailēs skaita Tev lūgšanas. Cildeni viedie un apgaismoti mistik̦i svētās himnās slavē Tevi un sauc: «Lai iestājas miers visapkārt!»"
+        {
+          "type": "lines",
+          "lines": [
+            "Debesu iemı̄tnieku pūl̦i ieplūst Tevı̄ un daži no tiem, salikuši plaukstas, godbijı̄gās bailēs skaita Tev lūgšanas. Cildeni viedie un apgaismoti mistik̦i svētās himnās slavē Tevi un sauc: «Lai iestājas miers visapkārt!»"
+          ]
+        }
       ],
       "original": [
         "अमी हि त्वां सुरसङ्घा विशन्ति\\",
@@ -364,7 +464,12 @@
         "vı̄kṣante tvāṁ vismitāś čaiva sarve"
       ],
       "translation": [
-        "Visi padievi — tādi kā Rudras, Aditjas, Vasū, Sādhjas, Višvadēvi, Ašvinı̄-Kumāri, Maruti, kā arı̄ senči , gandharvi, jakšas, asūri un siddhi apbrı̄nā Tevi uzlūko."
+        {
+          "type": "lines",
+          "lines": [
+            "Visi padievi — tādi kā Rudras, Aditjas, Vasū, Sādhjas, Višvadēvi, Ašvinı̄-Kumāri, Maruti, kā arı̄ senči , gandharvi, jakšas, asūri un siddhi apbrı̄nā Tevi uzlūko."
+          ]
+        }
       ],
       "original": [
         "रुद्रादित्या वसवो ये च साध्या\\",
@@ -383,7 +488,12 @@
         "dṛṣṭvā lokāḥ pravjathitās tathāham"
       ],
       "translation": [
-        "Ak, Visuspēcı̄gais! Raugoties uz Tavu bezgalı̄go tēlu ar daudzām mutēm, acı̄m, rokām, gurniem, pēdām, vēderiem un biedējošiem zobiem, visu pasaul̦u iemı̄tnieki, ieskaitot mani, ir pilnı̄gā apjukumā."
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Visuspēcı̄gais! Raugoties uz Tavu bezgalı̄go tēlu ar daudzām mutēm, acı̄m, rokām, gurniem, pēdām, vēderiem un biedējošiem zobiem, visu pasaul̦u iemı̄tnieki, ieskaitot mani, ir pilnı̄gā apjukumā."
+          ]
+        }
       ],
       "original": [
         "रूपं महत्ते बहुवक्‍त्रनेत्रं\\",
@@ -402,7 +512,12 @@
         "dhṛtiṁ na vindāmi śamañ ča viṣṇo"
       ],
       "translation": [
-        "Ak, Višnu! Redzot Tavu lı̄dz debesı̄m sniedzošos, žilbinošo tēlu, kas laistās neskaitāmās krāsās un ir ar daudzām atvērtām mutēm un gigantiskām, kvēlojošām acı̄m, es vairs nespēju palikt nesatricināms! Esmu zaudējis mieru un mana sirds bailēs trı̄c."
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Višnu! Redzot Tavu lı̄dz debesı̄m sniedzošos, žilbinošo tēlu, kas laistās neskaitāmās krāsās un ir ar daudzām atvērtām mutēm un gigantiskām, kvēlojošām acı̄m, es vairs nespēju palikt nesatricināms! Esmu zaudējis mieru un mana sirds bailēs trı̄c."
+          ]
+        }
       ],
       "original": [
         "नभ:स्पृशं दीप्‍तमनेकवर्णं\\",
@@ -421,7 +536,12 @@
         "prası̄da deveśa džagan-nivāsa"
       ],
       "translation": [
-        "Redzot Tavas mutes un bailes iedvesošos zobus, kas kvēlo kā Visuma iznı̄cināšanas liesmas, es nespēju saglabāt savaldı̄šanos. Ak, visu dievu Pavēlniek, visu pasaul̦u Patvērums, esi žēlı̄gs pret mani!"
+        {
+          "type": "lines",
+          "lines": [
+            "Redzot Tavas mutes un bailes iedvesošos zobus, kas kvēlo kā Visuma iznı̄cināšanas liesmas, es nespēju saglabāt savaldı̄šanos. Ak, visu dievu Pavēlniek, visu pasaul̦u Patvērums, esi žēlı̄gs pret mani!"
+          ]
+        }
       ],
       "original": [
         "दंष्ट्राकरालानि च ते मुखानि\\",
@@ -445,7 +565,12 @@
         "sandṛśjante čūrṇitair uttamāṅgaiḥ"
       ],
       "translation": [
-        "Dhritarāštras dēli kopā ar rādžām, kas cı̄nās vin̦u pusē, kā arı̄ Bhı̄šma, Drona un Karna reizē ar mūsu karavadon̦iem pazūd Tavās biedējošajās mutēs. Es redzu, kā dažus no vin̦iem samal̦ Tavi zobi un vin̦u galvas sašk̦ı̄st gabalos."
+        {
+          "type": "lines",
+          "lines": [
+            "Dhritarāštras dēli kopā ar rādžām, kas cı̄nās vin̦u pusē, kā arı̄ Bhı̄šma, Drona un Karna reizē ar mūsu karavadon̦iem pazūd Tavās biedējošajās mutēs. Es redzu, kā dažus no vin̦iem samal̦ Tavi zobi un vin̦u galvas sašk̦ı̄st gabalos."
+          ]
+        }
       ],
       "original": [
         "अमी च त्वां धृतराष्ट्रस्य पुत्रा:\\",
@@ -469,7 +594,12 @@
         "viśanti vaktrāṇj abhito džvalanti"
       ],
       "translation": [
-        "Lı̄dzı̄gi tam, kā upes nes savus ūden̦us uz okeānu, Zemes dižākie varon̦i virzās pretı̄ Tavai kvēlojošajai mutei, kas izgaismo visu visapkārt."
+        {
+          "type": "lines",
+          "lines": [
+            "Lı̄dzı̄gi tam, kā upes nes savus ūden̦us uz okeānu, Zemes dižākie varon̦i virzās pretı̄ Tavai kvēlojošajai mutei, kas izgaismo visu visapkārt."
+          ]
+        }
       ],
       "original": [
         "यथा नदीनां बहवोऽम्बुवेगा:\\",
@@ -488,7 +618,12 @@
         "tavāpi vaktrāṇi samṛddha-vegāḥ"
       ],
       "translation": [
-        "Kā naktstaurin̦i lido ugunı̄ pretı̄ neizbēgamai nāvei, tā arı̄ visas pasaules kopā ar to iemı̄tniekiem virzās pretı̄ nenovēršamai bojāejai un pazūd Tavās mutēs."
+        {
+          "type": "lines",
+          "lines": [
+            "Kā naktstaurin̦i lido ugunı̄ pretı̄ neizbēgamai nāvei, tā arı̄ visas pasaules kopā ar to iemı̄tniekiem virzās pretı̄ nenovēršamai bojāejai un pazūd Tavās mutēs."
+          ]
+        }
       ],
       "original": [
         "यथा प्रदीप्‍तं ज्‍वलनं पतङ्गा\\",
@@ -507,7 +642,12 @@
         "bhāsas tavogrāḥ pratapanti viṣṇo"
       ],
       "translation": [
-        "Ak, Višnu! Ar Savām ugunı̄gajām mēlēm, kas stiepjas uz visām pusēm, Tu nolaizi un iznı̄cini dzı̄vu būtn̦u pūl̦us. Tava visur esošā mirdzuma dedzinošie stari nosvilina it visu."
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Višnu! Ar Savām ugunı̄gajām mēlēm, kas stiepjas uz visām pusēm, Tu nolaizi un iznı̄cini dzı̄vu būtn̦u pūl̦us. Tava visur esošā mirdzuma dedzinošie stari nosvilina it visu."
+          ]
+        }
       ],
       "original": [
         "लेलिह्यसे ग्रसमान: समन्ता-\\",
@@ -526,7 +666,12 @@
         "na hi pradžānāmi tava pravṛttim"
       ],
       "translation": [
-        "Ak, Biedējošais, atklāj, kas Tu esi? Ak, Dižākais dievu vidū, es klanos Tavā priekšā, jel esi žēlsirdı̄gs pret mani! Es cenšos izprast Tevi, sākotnējo Personı̄bu, taču nespēju saprast Tavus nodomus."
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Biedējošais, atklāj, kas Tu esi? Ak, Dižākais dievu vidū, es klanos Tavā priekšā, jel esi žēlsirdı̄gs pret mani! Es cenšos izprast Tevi, sākotnējo Personı̄bu, taču nespēju saprast Tavus nodomus."
+          ]
+        }
       ],
       "original": [
         "आख्याहि मे को भवानुग्ररूपो\\",
@@ -546,8 +691,13 @@
         "je ’vasthitāḥ pratjanı̄keṣu jodhāḥ"
       ],
       "translation": [
-        "Dieva Augstākā Personı̄ba atbildēja:",
-        "Es esmu laiks, varenais spēks, kas iznı̄cina ikvienu un grauj visas pasaules. Pat, ja tu neko nedarı̄si, no abiem karapulkiem neviens, izn̦emot jūs (piecus Pāndavu brāl̦us), nepaliks dzı̄vs."
+        {
+          "type": "lines",
+          "lines": [
+            "Dieva Augstākā Personı̄ba atbildēja:",
+            "Es esmu laiks, varenais spēks, kas iznı̄cina ikvienu un grauj visas pasaules. Pat, ja tu neko nedarı̄si, no abiem karapulkiem neviens, izn̦emot jūs (piecus Pāndavu brāl̦us), nepaliks dzı̄vs."
+          ]
+        }
       ],
       "original": [
         "श्रीभगवानुवाच\\",
@@ -566,7 +716,12 @@
         "nimitta-mātraṁ bhava savjasāčin"
       ],
       "translation": [
-        "Tādēl̦ atgūsti modru garu, iesaisties kaujā un gūsti slavu! Sagrauj ienaidniekus un iegūsti plaukstošu karal̦valsti! Visi šie kareivji jau ir Manis nogalināti. Prasmı̄gais loka šāvēj, kl̦ūsti par ieroci Manās rokās!"
+        {
+          "type": "lines",
+          "lines": [
+            "Tādēl̦ atgūsti modru garu, iesaisties kaujā un gūsti slavu! Sagrauj ienaidniekus un iegūsti plaukstošu karal̦valsti! Visi šie kareivji jau ir Manis nogalināti. Prasmı̄gais loka šāvēj, kl̦ūsti par ieroci Manās rokās!"
+          ]
+        }
       ],
       "original": [
         "तस्मात्त्वमुत्तिष्ठ यशो लभस्व\\",
@@ -585,7 +740,12 @@
         "judhjasva džetāsi raṇe sapatnān"
       ],
       "translation": [
-        "Drona, Bhı̄šma, Džajadratha, Karna un citi dižie karotāji jau ir Manis iznı̄cināti. Tādēl̦ bez bailēm iesaisties kaujā un tu gūsi uzvaru!"
+        {
+          "type": "lines",
+          "lines": [
+            "Drona, Bhı̄šma, Džajadratha, Karna un citi dižie karotāji jau ir Manis iznı̄cināti. Tādēl̦ bez bailēm iesaisties kaujā un tu gūsi uzvaru!"
+          ]
+        }
       ],
       "original": [
         "द्रोणं च भीष्मं च जयद्रथं च\\",
@@ -605,8 +765,13 @@
         "sagadgadaṁ bhı̄ta-bhı̄taḥ praṇamja"
       ],
       "translation": [
-        "Sandžaja sacı̄ja:",
-        "Uzklausot šos Diev-Kunga vārdus, trı̄cošais Ardžūna, lūgšanā salicis plaukstas, cien̦pilni noliecās. Bailēs atkal un atkal klanoties, no satraukuma saraustı̄tā balsı̄ vin̦š teica sekojošo."
+        {
+          "type": "lines",
+          "lines": [
+            "Sandžaja sacı̄ja:",
+            "Uzklausot šos Diev-Kunga vārdus, trı̄cošais Ardžūna, lūgšanā salicis plaukstas, cien̦pilni noliecās. Bailēs atkal un atkal klanoties, no satraukuma saraustı̄tā balsı̄ vin̦š teica sekojošo."
+          ]
+        }
       ],
       "original": [
         "सञ्जय उवाच\\",
@@ -627,8 +792,13 @@
         "sarve namasjanti ča siddha-saṅghāḥ"
       ],
       "translation": [
-        "Ardžūna sacı̄ja:",
-        "Ak, jūtu Pavēlniek! Visu pasaul̦u iemı̄tnieki gavilē, dzil̦ā mı̄lestı̄bā Tevi slavēdami. Bailēs par savu dzı̄vı̄bu dēmoni mūk uz visām pusēm, bet svētie klanās Tavā priekšā."
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna sacı̄ja:",
+            "Ak, jūtu Pavēlniek! Visu pasaul̦u iemı̄tnieki gavilē, dzil̦ā mı̄lestı̄bā Tevi slavēdami. Bailēs par savu dzı̄vı̄bu dēmoni mūk uz visām pusēm, bet svētie klanās Tavā priekšā."
+          ]
+        }
       ],
       "original": [
         "अर्जुन उवाच\\",
@@ -648,7 +818,12 @@
         "tvam akṣaraṁ sad-asat tat paraṁ jat"
       ],
       "translation": [
-        "Kā lai vin̦i neklanās Tavā priekšā, ja pat šı̄ visuma radı̄tājs Brahma godina Tevi? Tu esi bezgalı̄gais visu dievu Valdnieks, visu pasaul̦u Patvērums, mūžı̄gā Realitāte aiz izpaustās un neizpaustās esı̄bas robežām."
+        {
+          "type": "lines",
+          "lines": [
+            "Kā lai vin̦i neklanās Tavā priekšā, ja pat šı̄ visuma radı̄tājs Brahma godina Tevi? Tu esi bezgalı̄gais visu dievu Valdnieks, visu pasaul̦u Patvērums, mūžı̄gā Realitāte aiz izpaustās un neizpaustās esı̄bas robežām."
+          ]
+        }
       ],
       "original": [
         "कस्माच्च‍ ते न नमेरन्महात्मन्\\",
@@ -667,7 +842,12 @@
         "tvajā tataṁ viśvam ananta-rūpa Tu esi sākotnējais"
       ],
       "translation": [
-        "Diev-Kungs, mūžsenākā Personı̄ba, Visuma uzturētājs! Vienı̄gi Tu zini visu un esi Tas, Kuru nepieciešams iepazı̄t ikvienam, Tu esi augstākā mājvieta. Ak, neskaitāmos veidolos izpaustais Visaugstais Kungs, Tu caurstrāvo visu šo pasauli!"
+        {
+          "type": "lines",
+          "lines": [
+            "Diev-Kungs, mūžsenākā Personı̄ba, Visuma uzturētājs! Vienı̄gi Tu zini visu un esi Tas, Kuru nepieciešams iepazı̄t ikvienam, Tu esi augstākā mājvieta. Ak, neskaitāmos veidolos izpaustais Visaugstais Kungs, Tu caurstrāvo visu šo pasauli!"
+          ]
+        }
       ],
       "original": [
         "त्वमादिदेव: पुरुष: पुराण-\\",
@@ -686,7 +866,12 @@
         "punaś ča bhūjo ’pi namo namas te"
       ],
       "translation": [
-        "Tu esi vēja dievs Vajū un nāves dievs Jama. Tu esi uguns dievs Agnı̄, okeāna dievs Varūna un Mēness dievs Candra. Tu esi radı̄tājs Brahma, kā arı̄ Tu esi vin̦a paša priekštecis. Es klanos Tev atkal un atkal, tūkstošiem reižu!"
+        {
+          "type": "lines",
+          "lines": [
+            "Tu esi vēja dievs Vajū un nāves dievs Jama. Tu esi uguns dievs Agnı̄, okeāna dievs Varūna un Mēness dievs Candra. Tu esi radı̄tājs Brahma, kā arı̄ Tu esi vin̦a paša priekštecis. Es klanos Tev atkal un atkal, tūkstošiem reižu!"
+          ]
+        }
       ],
       "original": [
         "वायुर्यमोऽग्न‍िर्वरुण: शशाङ्क:\\",
@@ -705,7 +890,12 @@
         "sarvaṁ samāpnoṣi tato ’si sarvaḥ"
       ],
       "translation": [
-        "Ak, neierobežotās varenı̄bas Valdniek, neizsmel̦amo tikumu Avot, es klanos Tev no priekšpuses, aizmugures un no visām pusēm. Tu caurvij it visu, tāpēc Tu Pats esi it viss!"
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, neierobežotās varenı̄bas Valdniek, neizsmel̦amo tikumu Avot, es klanos Tev no priekšpuses, aizmugures un no visām pusēm. Tu caurvij it visu, tāpēc Tu Pats esi it viss!"
+          ]
+        }
       ],
       "original": [
         "नम: पुरस्तादथ पृष्ठतस्ते\\",
@@ -729,7 +919,12 @@
         "tat kṣāmaje tvām aham apramejam"
       ],
       "translation": [
-        "Nezinot par Tavu bezgalı̄go diženumu, siltu draudzı̄bas jūtu vadı̄ts, esmu bezbēdnı̄gi vērsies pie Tevis: «Krišna! Jādava! Mans draugs!» Ak, bezgrēcı̄gais Diev-Kungs! Lai arı̄ cik necienı̄gi es būtu rı̄kojies pret Tevi — jokojot, atpūšoties, maltı̄tes laikā vai aiz bezrūpı̄bas, draugu lokā vai vienatnē ar Tevi — lūdzu, piedod man."
+        {
+          "type": "lines",
+          "lines": [
+            "Nezinot par Tavu bezgalı̄go diženumu, siltu draudzı̄bas jūtu vadı̄ts, esmu bezbēdnı̄gi vērsies pie Tevis: «Krišna! Jādava! Mans draugs!» Ak, bezgrēcı̄gais Diev-Kungs! Lai arı̄ cik necienı̄gi es būtu rı̄kojies pret Tevi — jokojot, atpūšoties, maltı̄tes laikā vai aiz bezrūpı̄bas, draugu lokā vai vienatnē ar Tevi — lūdzu, piedod man."
+          ]
+        }
       ],
       "original": [
         "सखेति मत्वा प्रसभं यदुक्तं\\",
@@ -753,7 +948,12 @@
         "loka-traje ’pj apratima-prabhāva"
       ],
       "translation": [
-        "Tu esi visa, kas pastāv Visumā, radı̄tājs — kā kustamā, tā arı̄ nekustamā. Tu esi pielūgsmes objekts un godājams garı̄gais skolotājs! Ak, nepārspētās varenı̄bas Valdniek! Vai gan var kāds visās trı̄s pasaulēs būt lı̄dzvērtı̄gs Tev vai pārspēt Tavu diženumu?"
+        {
+          "type": "lines",
+          "lines": [
+            "Tu esi visa, kas pastāv Visumā, radı̄tājs — kā kustamā, tā arı̄ nekustamā. Tu esi pielūgsmes objekts un godājams garı̄gais skolotājs! Ak, nepārspētās varenı̄bas Valdniek! Vai gan var kāds visās trı̄s pasaulēs būt lı̄dzvērtı̄gs Tev vai pārspēt Tavu diženumu?"
+          ]
+        }
       ],
       "original": [
         "पितासि लोकस्य चराचरस्य\\",
@@ -772,7 +972,12 @@
         "prijaḥ prijājārhasi deva soḍhum"
       ],
       "translation": [
-        "Ak, mans Diev-Kungs, kuru pielūdz visās trı̄s pasaulēs! Es krı̄tu Tavā priekšā un lūdzos žēlastı̄bas! Kā tēvs piedod dēla kl̦ūdas, draugs — biedra val̦ı̄go izturēšanos, mı̄l̦otais — mı̄l̦otās nesavaldı̄bu, tā arı̄ Tu piedod man manus apvainojumus."
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, mans Diev-Kungs, kuru pielūdz visās trı̄s pasaulēs! Es krı̄tu Tavā priekšā un lūdzos žēlastı̄bas! Kā tēvs piedod dēla kl̦ūdas, draugs — biedra val̦ı̄go izturēšanos, mı̄l̦otais — mı̄l̦otās nesavaldı̄bu, tā arı̄ Tu piedod man manus apvainojumus."
+          ]
+        }
       ],
       "original": [
         "तस्मात्प्रणम्य प्रणिधाय कायं\\",
@@ -791,7 +996,12 @@
         "prası̄da deveśa džagan-nivāsa"
       ],
       "translation": [
-        "Ak, Diev-Kungs! Esmu sajūsmā, redzot to, ko agrāk neredzēju, taču mans prāts ir apjucis no bailēm. Ak, dievu Pavēlniek, Visuma Uzturētāj! Apžēlojies un parādies Savā dievišk̦ās Personı̄bas veidolā!"
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Diev-Kungs! Esmu sajūsmā, redzot to, ko agrāk neredzēju, taču mans prāts ir apjucis no bailēm. Ak, dievu Pavēlniek, Visuma Uzturētāj! Apžēlojies un parādies Savā dievišk̦ās Personı̄bas veidolā!"
+          ]
+        }
       ],
       "original": [
         "अदृष्टपूर्वं हृषितोऽस्मि दृष्ट्वा\\",
@@ -810,7 +1020,12 @@
         "sahasra-bāho bhava viśva-mūrte"
       ],
       "translation": [
-        "Ak, Tūkstošrokainais Kungs, Visuma tēls! Es alkstu redzēt Tevi Tavā ar kroni rotātajā četrrokotajā veidolā ar vāli, disku, gliemežnı̄cu un lotosa ziedu rokās."
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, Tūkstošrokainais Kungs, Visuma tēls! Es alkstu redzēt Tevi Tavā ar kroni rotātajā četrrokotajā veidolā ar vāli, disku, gliemežnı̄cu un lotosa ziedu rokās."
+          ]
+        }
       ],
       "original": [
         "किरीटिनं गदिनं चक्रहस्त-\\",
@@ -830,7 +1045,12 @@
         "jan me tvad-anjena na dṛṣṭa-pūrvam"
       ],
       "translation": [
-        "Dieva Augstākā Personı̄ba atbildēja: Ardžūna, Mani darı̄ja laimı̄gu šı̄ transcendentālā Visuma veidola, kuru radı̄jusi Mana garı̄gā energ̒ija, atklāšana tev. So mirdzošo, bezgalı̄go, sākotnējo Visuma formu neviens nekad iepriekš nav redzējis."
+        {
+          "type": "lines",
+          "lines": [
+            "Dieva Augstākā Personı̄ba atbildēja: Ardžūna, Mani darı̄ja laimı̄gu šı̄ transcendentālā Visuma veidola, kuru radı̄jusi Mana garı̄gā energ̒ija, atklāšana tev. So mirdzošo, bezgalı̄go, sākotnējo Visuma formu neviens nekad iepriekš nav redzējis."
+          ]
+        }
       ],
       "original": [
         "श्रीभगवानुवाच\\",
@@ -850,8 +1070,12 @@
         "draṣṭuṁ tvad-anjena kuru-pravı̄ra"
       ],
       "translation": [
-        "Ardžūna, drošsirdı̄gākais no Kurū dzimtas! Šo manu veidolu, kuru tev parādı̄ju, iepriekš nav skatı̄jis neviens mirstı̄gais. To nevar ieraudzı̄t pateicoties Vēdu",
-        "apgūšanai, ziedošanai, labdarı̄bai, rituāliem vai bargām askēzēm."
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna, drošsirdı̄gākais no Kurū dzimtas! Šo manu veidolu, kuru tev parādı̄ju, iepriekš nav skatı̄jis neviens mirstı̄gais. To nevar ieraudzı̄t pateicoties Vēdu apgūšanai, ziedošanai, labdarı̄bai, rituāliem vai bargām askēzēm."
+          ]
+        }
       ],
       "original": [
         "न वेदयज्ञाध्ययनैर्न दानै-\\",
@@ -870,7 +1094,12 @@
         "tad eva me rūpam idaṁ prapaśja"
       ],
       "translation": [
-        "Tevi pārsteidza un mulsināja Mans biedējošais Visuma tēls! Tagad aizmirsti visas bailes un ar mierpilnu sirdi uzlūko to Manu veidolu, kuru vēlies redzēt."
+        {
+          "type": "lines",
+          "lines": [
+            "Tevi pārsteidza un mulsināja Mans biedējošais Visuma tēls! Tagad aizmirsti visas bailes un ar mierpilnu sirdi uzlūko to Manu veidolu, kuru vēlies redzēt."
+          ]
+        }
       ],
       "original": [
         "मा ते व्यथा मा च विमूढभावो\\",
@@ -890,8 +1119,13 @@
         "bhūtvā punaḥ saumja-vapur mahātmā"
       ],
       "translation": [
-        "Sandžaja sacı̄ja:",
-        "Pasakot šos vārdus, Vasudēva dēls parādı̄jās Savā četrrokotajā veidolā. Bet, lai lı̄dz galam nomierinātu draugu, Krišna parādı̄jās Ardžūnam Savā nesalı̄dzināmi skaistajā un valdzinošajā divrokotajā formā."
+        {
+          "type": "lines",
+          "lines": [
+            "Sandžaja sacı̄ja:",
+            "Pasakot šos vārdus, Vasudēva dēls parādı̄jās Savā četrrokotajā veidolā. Bet, lai lı̄dz galam nomierinātu draugu, Krišna parādı̄jās Ardžūnam Savā nesalı̄dzināmi skaistajā un valdzinošajā divrokotajā formā."
+          ]
+        }
       ],
       "original": [
         "सञ्जय उवाच\\",
@@ -912,8 +1146,13 @@
         "sa-četāḥ prakṛtiṁ gataḥ"
       ],
       "translation": [
-        "Ardžūna sacı̄ja:",
-        "Ak, Džanārdana! Uzlūkojot Tavu brı̄numskaisto, cilvēkam lı̄dzı̄go tēlu, esmu atguvies un manā sirdı̄ atkal atgriezies miers."
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna sacı̄ja:",
+            "Ak, Džanārdana! Uzlūkojot Tavu brı̄numskaisto, cilvēkam lı̄dzı̄go tēlu, esmu atguvies un manā sirdı̄ atkal atgriezies miers."
+          ]
+        }
       ],
       "original": [
         "अर्जुन उवाच\\",
@@ -932,9 +1171,13 @@
         "nitjaṁ darśana-kāṅkṣiṇaḥ"
       ],
       "translation": [
-        "Dieva Augstākā Personı̄ba sacı̄ja:",
-        "Ardžūna, ir ārkārtı̄gi grūti ieraudzı̄t Mani tādu, kāds Es šobrı̄d stāvu tavā",
-        "priekšā. Visi padievi tiecas apskatı̄t šo Manu tēlu kaut uz mirkli."
+        {
+          "type": "lines",
+          "lines": [
+            "Dieva Augstākā Personı̄ba sacı̄ja:",
+            "Ardžūna, ir ārkārtı̄gi grūti ieraudzı̄t Mani tādu, kāds Es šobrı̄d stāvu tavā priekšā. Visi padievi tiecas apskatı̄t šo Manu tēlu kaut uz mirkli."
+          ]
+        }
       ],
       "original": [
         "श्रीभगवानुवाच\\",
@@ -950,7 +1193,12 @@
         "śakja evaṁ-vidho draṣṭuṁ dṛṣṭavān asi jan mama"
       ],
       "translation": [
-        "Ne apgūstot Vēdas, ne izpildot askēzes, ne dāvājot veltes, ne ziedojot, nav iespējams uzlūkot šo Manu slēpto veidolu, kas lı̄dzinās cilvēkam. Sı̄s prakses nedod iespēju iepazı̄t Mani tādu, kāds Es esmu."
+        {
+          "type": "lines",
+          "lines": [
+            "Ne apgūstot Vēdas, ne izpildot askēzes, ne dāvājot veltes, ne ziedojot, nav iespējams uzlūkot šo Manu slēpto veidolu, kas lı̄dzinās cilvēkam. Sı̄s prakses nedod iespēju iepazı̄t Mani tādu, kāds Es esmu."
+          ]
+        }
       ],
       "original": [
         "नाहं वेदैर्न तपसा न दानेन न चेज्यया ।\\",
@@ -965,7 +1213,12 @@
         "džñātuṁ draṣṭuñ ča tattvena praveṣṭuñ ča parantapa"
       ],
       "translation": [
-        "Ak, naidnieku uzveicēj Ardžūna! Vienı̄gi pateicoties nesavtı̄gai garı̄gai kalpošanai Man, iespējams patiesi Mani iepazı̄t, skatı̄t Manu brı̄numskaisto cilvēcisko veidolu un ienākt Manā mājvietā."
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, naidnieku uzveicēj Ardžūna! Vienı̄gi pateicoties nesavtı̄gai garı̄gai kalpošanai Man, iespējams patiesi Mani iepazı̄t, skatı̄t Manu brı̄numskaisto cilvēcisko veidolu un ienākt Manā mājvietā."
+          ]
+        }
       ],
       "original": [
         "भक्त्य‍ा त्वनन्यया शक्य अहमेवंविधोऽर्जुन ।\\",
@@ -980,7 +1233,12 @@
         "nirvairaḥ sarva-bhūteṣu jaḥ sa mām eti pāṇḍava"
       ],
       "translation": [
-        "Ardžūna, tas, kurš veic visas darbı̄bas Manis dēl̦ un kura dzı̄ves galvenais mērk̦is esmu Es, kurš atteicies no piek̦eršanās visam pasaulı̄gajam un kurš ikvienā dzı̄vā būtnē redz draugu, tas noteikti nonāks pie Manis."
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna, tas, kurš veic visas darbı̄bas Manis dēl̦ un kura dzı̄ves galvenais mērk̦is esmu Es, kurš atteicies no piek̦eršanās visam pasaulı̄gajam un kurš ikvienā dzı̄vā būtnē redz draugu, tas noteikti nonāks pie Manis."
+          ]
+        }
       ],
       "original": [
         "मत्कर्मकृन्मत्परमो मद्भ‍क्त: सङ्गवर्जित: ।\\",

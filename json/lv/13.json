@@ -17,8 +17,13 @@
         "etad veditum iččhāmi džñānaṁ džñejañ ča keśava"
       ],
       "translation": [
-        "Ardžūna sacı̄ja:",
-        "Ak, Kešava! Es vēlos uzzināt par materiālo energ̒iju, kā arı̄ par To, Kurš ir tās saimnieks. Gribu saprast, kas ir darbı̄bas lauks un to, kas pārzina šo lauku, gribu dzirdēt no Tevis par patiesām zināšanām un par izzin̦as objektu."
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna sacı̄ja:",
+            "Ak, Kešava! Es vēlos uzzināt par materiālo energ̒iju, kā arı̄ par To, Kurš ir tās saimnieks. Gribu saprast, kas ir darbı̄bas lauks un to, kas pārzina šo lauku, gribu dzirdēt no Tevis par patiesām zināšanām un par izzin̦as objektu."
+          ]
+        }
       ],
       "original": [
         "अर्जुन उवाच\\",
@@ -35,8 +40,13 @@
         "etad jo vetti taṁ prāhuḥ kṣetradžña iti tad vidaḥ"
       ],
       "translation": [
-        "Dieva Augstākā Personı̄ba sacı̄ja:",
-        "Ardžūna, šis k̦ermenis zināms kā darbı̄bas lauks. Dvēseli, kas mı̄t tajā, viedie apraksta kā šı̄ lauka pazinēju."
+        {
+          "type": "lines",
+          "lines": [
+            "Dieva Augstākā Personı̄ba sacı̄ja:",
+            "Ardžūna, šis k̦ermenis zināms kā darbı̄bas lauks. Dvēseli, kas mı̄t tajā, viedie apraksta kā šı̄ lauka pazinēju."
+          ]
+        }
       ],
       "original": [
         "श्रीभगवानुवाच\\",
@@ -52,7 +62,12 @@
         "kṣetra-kṣetradžñajor džñānaṁ jat tadž džñānaṁ mataṁ mama"
       ],
       "translation": [
-        "Bhārata! Es esmu Tas, Kurš apzinās visus darbı̄bas laukus, būdams ikvienā no tiem. Zināšanas par darbı̄bas lauku un to, kas to zina, Es pasludinu par patiesām zināšanām."
+        {
+          "type": "lines",
+          "lines": [
+            "Bhārata! Es esmu Tas, Kurš apzinās visus darbı̄bas laukus, būdams ikvienā no tiem. Zināšanas par darbı̄bas lauku un to, kas to zina, Es pasludinu par patiesām zināšanām."
+          ]
+        }
       ],
       "original": [
         "क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत ।\\",
@@ -67,7 +82,12 @@
         "sa ča jo jat prabhāvaś ča tat samāsena me śṛṇu"
       ],
       "translation": [
-        "Tagad Es ı̄si aprakstı̄šu tev, kāds ir šis lauks. Es tev pastāstı̄šu par tā rašanās iemesliem, izmain̦ām un pārvērtı̄bam, cēlon̦iem un sekām, kā arı̄ par to, kas ir šı̄ lauka zinātājs un kāda ir vin̦a ietekme."
+        {
+          "type": "lines",
+          "lines": [
+            "Tagad Es ı̄si aprakstı̄šu tev, kāds ir šis lauks. Es tev pastāstı̄šu par tā rašanās iemesliem, izmain̦ām un pārvērtı̄bam, cēlon̦iem un sekām, kā arı̄ par to, kas ir šı̄ lauka zinātājs un kāda ir vin̦a ietekme."
+          ]
+        }
       ],
       "original": [
         "तत्क्षेत्रं यच्च‍ यादृक्‍च यद्विकारि यतश्च यत् ।\\",
@@ -82,7 +102,12 @@
         "brahma-sūtra-padaiś čaiva hetumadbhir viniśčitaiḥ"
       ],
       "translation": [
-        "Viedie šı̄s zināšanas jau daudzkārt atklājuši dažādos vēdiskajos Rakstos, bet vissecı̄gāk, ar skaidrojumiem par cēlon̦iem un sekām — «Vēdanta-Sutrā»."
+        {
+          "type": "lines",
+          "lines": [
+            "Viedie šı̄s zināšanas jau daudzkārt atklājuši dažādos vēdiskajos Rakstos, bet vissecı̄gāk, ar skaidrojumiem par cēlon̦iem un sekām — «Vēdanta-Sutrā»."
+          ]
+        }
       ],
       "original": [
         "ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधै: पृथक् ।\\",
@@ -100,13 +125,22 @@
         "etat kṣetraṁ samāsena sa-vikāram udāhṛtam"
       ],
       "translation": [
-        "Pieci rupjie materiālie elementi — ēteris, gaiss, uguns, ūdens un zeme; viltus ego, saprāts un materiālā energ̒ija tās neizpaustajā stāvoklı̄ (trı̄s <i class=\"SongVerse__term\">gunas</i>); desmit man̦u orgāni<i class=\"SongVerse__term\">, prāts un pieci man̦u objekti</i>; vēlamais, nevēlamais, laime, bēdas, fiziskais k̦ermenis, apzin̦a un griba — tie visi pazı̄stami kā darbı̄bas lauks un tā mijiedarbı̄bas.",
+        {
+          "type": "lines",
+          "lines": [
+            "Pieci rupjie materiālie elementi — ēteris, gaiss, uguns, ūdens un zeme; viltus ego, saprāts un materiālā energ̒ija tās neizpaustajā stāvoklı̄ (trı̄s <i class=\"SongVerse__term\">gunas</i>); desmit man̦u orgāni<i class=\"SongVerse__term\">, prāts un pieci man̦u objekti</i>; vēlamais, nevēlamais, laime, bēdas, fiziskais k̦ermenis, apzin̦a un griba — tie visi pazı̄stami kā darbı̄bas lauks un tā mijiedarbı̄bas."
+          ]
+        },
         {
           "type": "subtitle",
           "text": "*Piezīme:*"
         },
-        "<i class=\"SongVerse__term\">Pieci uztveres maņu orgāni: acis, mēle, āda, deguns un ausis. Pieci darbības maņu orgāni: balss, rokas, kājas, ānuss un ģenitālijas.</i>",
-        "<i class=\"SongVerse__term\">Pieci maņu objekti: forma, garša, virsma, smarža un skaņa.</i>"
+        {
+          "type": "lines",
+          "lines": [
+            "<i class=\"SongVerse__term\">Pieci uztveres maņu orgāni: acis, mēle, āda, deguns un ausis. Pieci darbības maņu orgāni: balss, rokas, kājas, ānuss un ģenitālijas.</i> <i class=\"SongVerse__term\">Pieci maņu objekti: forma, garša, virsma, smarža un skaņa.</i>"
+          ]
+        }
       ],
       "original": [
         "महाभूतान्यहङ्कारो बुद्धिरव्यक्तमेव च ।\\",
@@ -136,7 +170,12 @@
         "etadž džñānam iti proktam adžñānaṁ jad ato ’njathā"
       ],
       "translation": [
-        "Vienaldzı̄ba pret cien̦u, lepnı̄bas trūkums, atteikšanās no vardarbı̄bas, pacietı̄ba, godı̄gums, uzticı̄ga sekošana garı̄gajam skolotājam, tı̄rı̄ba, pastāvı̄ba, paškontrole, atsacı̄šanās no jutekliskām baudām, nesavtı̄gums, apzināšanās, ka dzimšana, nāve, vecums un slimı̄bas ir ciešanu avots, atsacı̄šanās no visa pasaulı̄gā, brı̄vı̄ba no neprātı̄gas piek̦eršanās bērniem un sievai, mantai un mājas pavardam, nesatricināmı̄ba labvēlı̄gās un nelabvēlı̄gās situācijās, nemainı̄ga garı̄ga kalpošana Man jebkuros apstākl̦os, tiekšanās dzı̄vot no cilvēkiem nomal̦ā vietā, nevēlēšanās atrasties materiālistu sabiedrı̄bā, pašizzin̦as prakses pastāvı̄ba un sapratne par garı̄gu patiesı̄bu izzin̦as jēgu — to visu Es pasludinu par patiesām zināšanām. Viss, kas eksistē ārpus tā, ir tumsonı̄ba."
+        {
+          "type": "lines",
+          "lines": [
+            "Vienaldzı̄ba pret cien̦u, lepnı̄bas trūkums, atteikšanās no vardarbı̄bas, pacietı̄ba, godı̄gums, uzticı̄ga sekošana garı̄gajam skolotājam, tı̄rı̄ba, pastāvı̄ba, paškontrole, atsacı̄šanās no jutekliskām baudām, nesavtı̄gums, apzināšanās, ka dzimšana, nāve, vecums un slimı̄bas ir ciešanu avots, atsacı̄šanās no visa pasaulı̄gā, brı̄vı̄ba no neprātı̄gas piek̦eršanās bērniem un sievai, mantai un mājas pavardam, nesatricināmı̄ba labvēlı̄gās un nelabvēlı̄gās situācijās, nemainı̄ga garı̄ga kalpošana Man jebkuros apstākl̦os, tiekšanās dzı̄vot no cilvēkiem nomal̦ā vietā, nevēlēšanās atrasties materiālistu sabiedrı̄bā, pašizzin̦as prakses pastāvı̄ba un sapratne par garı̄gu patiesı̄bu izzin̦as jēgu — to visu Es pasludinu par patiesām zināšanām. Viss, kas eksistē ārpus tā, ir tumsonı̄ba."
+          ]
+        }
       ],
       "original": [
         "अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम् ।\\",
@@ -163,12 +202,22 @@
         "anādi mat-paraṁ brahma na sat tan nāsad učjate"
       ],
       "translation": [
-        "Tagad Es tev aprakstı̄šu izzin̦as objektu, kuru izprotot, tu malkosi nemirstı̄bas nektāru. Tās ir Manas mūžı̄gās garı̄gās izpausmes (Brahmans, Paramātma un  Bhagavāns)*, kuras dēvē par Absolūto īstenı̄bu. Zini, ka Absolūts ir atšk̦irı̄gs no visa eksistējošā, tomēr Tas nav neeksistējošs. Tas mı̄t ārpus materiālajiem cēlon̦iem un sekām.",
+        {
+          "type": "lines",
+          "lines": [
+            "Tagad Es tev aprakstı̄šu izzin̦as objektu, kuru izprotot, tu malkosi nemirstı̄bas nektāru. Tās ir Manas mūžı̄gās garı̄gās izpausmes (Brahmans, Paramātma un  Bhagavāns)*, kuras dēvē par Absolūto īstenı̄bu. Zini, ka Absolūts ir atšk̦irı̄gs no visa eksistējošā, tomēr Tas nav neeksistējošs. Tas mı̄t ārpus materiālajiem cēlon̦iem un sekām."
+          ]
+        },
         {
           "type": "subtitle",
           "text": "*Piezīme:*"
         },
-        "<i class=\"SongVerse__term\">Brahmans ir visu aptverošais Absolūta aspekts; Paramātma (Virsdvēsele) ir visu caurvijošais aspekts; Bhagavāns — visu valdzinošais aspekts, Dieva Augstākā Personība. Šīs nodaļas 14.-18. šlokās tiek aprakstīts pārsvarā Brahmans un Paramātma.</i>"
+        {
+          "type": "lines",
+          "lines": [
+            "<i class=\"SongVerse__term\">Brahmans ir visu aptverošais Absolūta aspekts; Paramātma (Virsdvēsele) ir visu caurvijošais aspekts; Bhagavāns — visu valdzinošais aspekts, Dieva Augstākā Personība. Šīs nodaļas 14.-18. šlokās tiek aprakstīts pārsvarā Brahmans un Paramātma.</i>"
+          ]
+        }
       ],
       "original": [
         "ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वामृतमश्न‍ुते ।\\",
@@ -183,7 +232,12 @@
         "sarvataḥ śrutimal loke sarvam āvṛtja tiṣṭhati"
       ],
       "translation": [
-        "Visur ir Vin̦a rokas un kājas, Vin̦a acis, galvas un sejas, visur ir Vin̦a ausis, jo Vin̦š ar Sevi caurvij visu radı̄bu."
+        {
+          "type": "lines",
+          "lines": [
+            "Visur ir Vin̦a rokas un kājas, Vin̦a acis, galvas un sejas, visur ir Vin̦a ausis, jo Vin̦š ar Sevi caurvij visu radı̄bu."
+          ]
+        }
       ],
       "original": [
         "सर्वत: पाणिपादं तत्सर्वतोऽक्षिशिरोमुखम् ।\\",
@@ -198,7 +252,12 @@
         "asaktaṁ sarva-bhṛč čaiva nirguṇaṁ guṇa-bhoktṛ ča"
       ],
       "translation": [
-        "Vin̦š ir visu man̦u un to objektu avots, taču pats nav ar man̦ām aizsniedzams. Vin̦š rūpējas par visiem, tomēr ir brı̄vs no piek̦eršanās. Vin̦am nepiemı̄t materiālas ı̄pašı̄bas, taču Vin̦š izbauda Savas dievišk̦ās ı̄pašı̄bas."
+        {
+          "type": "lines",
+          "lines": [
+            "Vin̦š ir visu man̦u un to objektu avots, taču pats nav ar man̦ām aizsniedzams. Vin̦š rūpējas par visiem, tomēr ir brı̄vs no piek̦eršanās. Vin̦am nepiemı̄t materiālas ı̄pašı̄bas, taču Vin̦š izbauda Savas dievišk̦ās ı̄pašı̄bas."
+          ]
+        }
       ],
       "original": [
         "सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम् ।\\",
@@ -213,7 +272,12 @@
         "sūkṣmatvāt tad avidžñejaṁ dūrasthaṁ čāntike ča tat"
       ],
       "translation": [
-        "Vin̦š ir ikvienas kustı̄gas un nekustı̄gas būtnes iekšpusē un arı̄ ārpus tās. Pateicoties Vin̦a smalkajai dabai, Vin̦u tikpat kā nav iespējams izprast. Vin̦š ir vienlaicı̄gi tuvs un tāls."
+        {
+          "type": "lines",
+          "lines": [
+            "Vin̦š ir ikvienas kustı̄gas un nekustı̄gas būtnes iekšpusē un arı̄ ārpus tās. Pateicoties Vin̦a smalkajai dabai, Vin̦u tikpat kā nav iespējams izprast. Vin̦š ir vienlaicı̄gi tuvs un tāls."
+          ]
+        }
       ],
       "original": [
         "बहिरन्तश्च भूतानामचरं चरमेव च ।\\",
@@ -228,7 +292,12 @@
         "bhūta-bhartṛ ča tadž džñejaṁ grasiṣṇu prabhaviṣṇu ča"
       ],
       "translation": [
-        "Kaut arı̄ nedalāms, Vin̦š ir klātesošs ikvienā dzı̄vā būtnē, it kā būtu sadalı̄ts dal̦ās. Vin̦š ir Tas, Kurš rada, uztur un iznı̄cina visu, kas pastāv."
+        {
+          "type": "lines",
+          "lines": [
+            "Kaut arı̄ nedalāms, Vin̦š ir klātesošs ikvienā dzı̄vā būtnē, it kā būtu sadalı̄ts dal̦ās. Vin̦š ir Tas, Kurš rada, uztur un iznı̄cina visu, kas pastāv."
+          ]
+        }
       ],
       "original": [
         "अविभक्तं च भूतेषु विभक्तमिव च स्थितम् ।\\",
@@ -243,7 +312,12 @@
         "džñānaṁ džñejaṁ džñāna-gamjaṁ hṛdi sarvasja dhiṣṭhitam"
       ],
       "translation": [
-        "Vin̦š ir ārpus tumsas esošais gaismas avots ikvienā gaismeklı̄. Vin̦š ir izzin̦as objekts, process un rezultāts. Vin̦š mı̄t ikvienā sirdı̄."
+        {
+          "type": "lines",
+          "lines": [
+            "Vin̦š ir ārpus tumsas esošais gaismas avots ikvienā gaismeklı̄. Vin̦š ir izzin̦as objekts, process un rezultāts. Vin̦š mı̄t ikvienā sirdı̄."
+          ]
+        }
       ],
       "original": [
         "ज्योतिषामपि तज्ज्योतिस्तमस: परमुच्यते ।\\",
@@ -258,7 +332,12 @@
         "mad-bhakta etad vidžñāja mad-bhāvājopapadjate"
       ],
       "translation": [
-        "Un tā, Es esmu tev ı̄sumā aprakstı̄jis darbı̄bas lauku, zināšanas un zināšanu objektu. Man veltı̄jusies dvēsele, apzinoties šı̄s patiesı̄bas, iegūst mı̄lestı̄bu uz Mani."
+        {
+          "type": "lines",
+          "lines": [
+            "Un tā, Es esmu tev ı̄sumā aprakstı̄jis darbı̄bas lauku, zināšanas un zināšanu objektu. Man veltı̄jusies dvēsele, apzinoties šı̄s patiesı̄bas, iegūst mı̄lestı̄bu uz Mani."
+          ]
+        }
       ],
       "original": [
         "इति क्षेत्रं तथा ज्ञानं ज्ञेयं चोक्तं समासत: ।\\",
@@ -273,7 +352,12 @@
         "vikārāṁś ča guṇāṁś čaiva viddhi prakṛti-sambhavān"
       ],
       "translation": [
-        "Zini, ka materiālajai dabai un dvēselei nav sākuma. Ar tām notiekošās pārmain̦as un trı̄s matērijas stāvokl̦i (apgaismı̄ba, kaisle un maldi) ir materiālās dabas radı̄ti."
+        {
+          "type": "lines",
+          "lines": [
+            "Zini, ka materiālajai dabai un dvēselei nav sākuma. Ar tām notiekošās pārmain̦as un trı̄s matērijas stāvokl̦i (apgaismı̄ba, kaisle un maldi) ir materiālās dabas radı̄ti."
+          ]
+        }
       ],
       "original": [
         "प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि ।\\",
@@ -288,7 +372,12 @@
         "puruṣaḥ sukha-duḥkhānāṁ bhoktṛtve hetur učjate"
       ],
       "translation": [
-        "Saka, ka materiālā energ̒ija ir visu cēlon̦u un seku avots laicı̄gajā pasaulē. Tikmēr dzı̄va būtne, kas tiecas baudı̄t matēriju, kl̦ūst par pasaulı̄go skumju un prieku avotu."
+        {
+          "type": "lines",
+          "lines": [
+            "Saka, ka materiālā energ̒ija ir visu cēlon̦u un seku avots laicı̄gajā pasaulē. Tikmēr dzı̄va būtne, kas tiecas baudı̄t matēriju, kl̦ūst par pasaulı̄go skumju un prieku avotu."
+          ]
+        }
       ],
       "original": [
         "कार्यकारणकर्तृत्वे हेतु: प्रकृतिरुच्यते ।\\",
@@ -303,7 +392,12 @@
         "kāraṇaṁ guṇa-saṅgo ’sja sad-asad-joni-džanmasu"
       ],
       "translation": [
-        "Dzı̄va būtne, atrodoties materiālās energ̒ijas ietekmē, izbauda tās trı̄s ı̄pašı̄bas (labestı̄bu, kaisli un tumsonı̄bu). Piek̦eršanās šı̄m trim ı̄pašı̄bām ir cēlonis tās dzimšanai augstākās un zemākās dzı̄vı̄bas formās."
+        {
+          "type": "lines",
+          "lines": [
+            "Dzı̄va būtne, atrodoties materiālās energ̒ijas ietekmē, izbauda tās trı̄s ı̄pašı̄bas (labestı̄bu, kaisli un tumsonı̄bu). Piek̦eršanās šı̄m trim ı̄pašı̄bām ir cēlonis tās dzimšanai augstākās un zemākās dzı̄vı̄bas formās."
+          ]
+        }
       ],
       "original": [
         "पुरुष: प्रकृतिस्थो हि भुङ्क्ते प्रकृतिजान्गुणान् ।\\",
@@ -318,7 +412,12 @@
         "paramātmeti čāpj ukto dehe ’smin puruṣaḥ paraḥ"
       ],
       "translation": [
-        "Tāpat k̦ermenı̄ mı̄t Augstākā Personı̄ba, kura vēro dzı̄vo būtni un l̦auj tai rı̄koties. Tas ir visuvarenais Diev-Kungs — dvēseles sargs un balsts, kurš pazı̄stams kā Paramātma, Virsdvēsele."
+        {
+          "type": "lines",
+          "lines": [
+            "Tāpat k̦ermenı̄ mı̄t Augstākā Personı̄ba, kura vēro dzı̄vo būtni un l̦auj tai rı̄koties. Tas ir visuvarenais Diev-Kungs — dvēseles sargs un balsts, kurš pazı̄stams kā Paramātma, Virsdvēsele."
+          ]
+        }
       ],
       "original": [
         "उपद्रष्टानुमन्ता च भर्ता भोक्ता महेश्वर: ।\\",
@@ -333,7 +432,12 @@
         "sarvathā vartamāno ’pi na sa bhūjo ’bhidžājate"
       ],
       "translation": [
-        "Tas, kurš izprot šo Augstāko Personı̄bu un materiālo energ̒iju tās trı̄s izpausmēs, nekad nedzims no jauna, lai arı̄ kādos apstākl̦os vin̦š atrastos."
+        {
+          "type": "lines",
+          "lines": [
+            "Tas, kurš izprot šo Augstāko Personı̄bu un materiālo energ̒iju tās trı̄s izpausmēs, nekad nedzims no jauna, lai arı̄ kādos apstākl̦os vin̦š atrastos."
+          ]
+        }
       ],
       "original": [
         "य एवं वेत्ति पुरुषं प्रकृतिं च गुणै: सह ।\\",
@@ -348,7 +452,12 @@
         "anje sāṅkhjena jogena karma-jogena čāpare"
       ],
       "translation": [
-        "Vieni izprot dvēseli un Virsdvēseli ar meditācijas palı̄dzı̄bu. Citi — pateicoties filosofiskām apcerēm par gara un matērijas atšk̦irı̄bām, trešie — veicot nesavtı̄gu darbı̄bu."
+        {
+          "type": "lines",
+          "lines": [
+            "Vieni izprot dvēseli un Virsdvēseli ar meditācijas palı̄dzı̄bu. Citi — pateicoties filosofiskām apcerēm par gara un matērijas atšk̦irı̄bām, trešie — veicot nesavtı̄gu darbı̄bu."
+          ]
+        }
       ],
       "original": [
         "ध्यानेनात्मनि पश्यन्ति केचिदात्मानमात्मना ।\\",
@@ -363,8 +472,12 @@
         "te ’pi čātitarantj eva mṛtjuṁ śruti-parājaṇāḥ"
       ],
       "translation": [
-        "Ir tādi, kas neko nezina par minētajām praksēm, taču, izdzirdējuši par Diev-Kunga slavu no Vin̦a bhaktām, sāk Vin̦u pielūgt. Pateicoties vin̦u tieksmei klausı̄ties par",
-        "Visaugsto Kungu, vin̦i, neapšaubāmi, pacel̦as pāri nāves pasaulei."
+        {
+          "type": "lines",
+          "lines": [
+            "Ir tādi, kas neko nezina par minētajām praksēm, taču, izdzirdējuši par Diev-Kunga slavu no Vin̦a bhaktām, sāk Vin̦u pielūgt. Pateicoties vin̦u tieksmei klausı̄ties par Visaugsto Kungu, vin̦i, neapšaubāmi, pacel̦as pāri nāves pasaulei."
+          ]
+        }
       ],
       "original": [
         "अन्ये त्वेवमजानन्त: श्रुत्वान्येभ्य उपासते ।\\",
@@ -379,7 +492,12 @@
         "kṣetra-kṣetradžña-saṁjogāt tad viddhi Bhāratarṣabha"
       ],
       "translation": [
-        "Ardžūna, labākais no Bhāratas dzimtas! Zini, ka viss kustı̄gais un nekustı̄gais, kas pastāv šajā pasaulē, radı̄ts, pateicoties darbı̄bas lauka un šı̄ lauka zinātāja mijiedarbı̄bai."
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna, labākais no Bhāratas dzimtas! Zini, ka viss kustı̄gais un nekustı̄gais, kas pastāv šajā pasaulē, radı̄ts, pateicoties darbı̄bas lauka un šı̄ lauka zinātāja mijiedarbı̄bai."
+          ]
+        }
       ],
       "original": [
         "यावत्सञ्जायते किञ्चित्सत्त्वं स्थावरजङ्गमम् ।\\",
@@ -394,7 +512,12 @@
         "vinaśjatsv avinaśjantaṁ jaḥ paśjati sa paśjati"
       ],
       "translation": [
-        "Tas, kurš ikvienas dzı̄vas būtnes k̦ermenı̄ redz Visaugsto Kungu kā mūžı̄go sākumu laicı̄gajā, tas ir patiesi redzı̄gs."
+        {
+          "type": "lines",
+          "lines": [
+            "Tas, kurš ikvienas dzı̄vas būtnes k̦ermenı̄ redz Visaugsto Kungu kā mūžı̄go sākumu laicı̄gajā, tas ir patiesi redzı̄gs."
+          ]
+        }
       ],
       "original": [
         "समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् ।\\",
@@ -409,7 +532,12 @@
         "na hinastj ātmanātmānaṁ tato jāti parāṁ gatim"
       ],
       "translation": [
-        "Tas, kurš apzinās Diev-Kunga klātbūtni vienmēr un visur, nekad nekl̦ūs par sava prāta upuri un sasniegs augstāko mērk̦i."
+        {
+          "type": "lines",
+          "lines": [
+            "Tas, kurš apzinās Diev-Kunga klātbūtni vienmēr un visur, nekad nekl̦ūs par sava prāta upuri un sasniegs augstāko mērk̦i."
+          ]
+        }
       ],
       "original": [
         "समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम् ।\\",
@@ -424,7 +552,12 @@
         "jaḥ paśjati tathātmānam akartāraṁ sa paśjati"
       ],
       "translation": [
-        "Tam, kurš izpratis, ka visas pasaulı̄gās darbı̄bas veic trı̄s materiālās pasaules <i class=\"SongVerse__term\">gunas</i> un ka dvēsele matērijas pasaulē darbı̄bas neveic, piemı̄t patiesa realitātes uztvere."
+        {
+          "type": "lines",
+          "lines": [
+            "Tam, kurš izpratis, ka visas pasaulı̄gās darbı̄bas veic trı̄s materiālās pasaules <i class=\"SongVerse__term\">gunas</i> un ka dvēsele matērijas pasaulē darbı̄bas neveic, piemı̄t patiesa realitātes uztvere."
+          ]
+        }
       ],
       "original": [
         "प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वश: ।\\",
@@ -439,7 +572,12 @@
         "tata eva ča vistāraṁ brahma sampadjate tadā"
       ],
       "translation": [
-        "Kad šāds apgaismots mistik̦is, lı̄dzı̄gi pagātnes viedajiem, saprot, ka būtnēm dažādos materiālos k̦ermen̦os ir vienota garı̄ga būtı̄ba, vin̦š sasniedz Brahmanu, visu aptverošo Absolūta aspektu."
+        {
+          "type": "lines",
+          "lines": [
+            "Kad šāds apgaismots mistik̦is, lı̄dzı̄gi pagātnes viedajiem, saprot, ka būtnēm dažādos materiālos k̦ermen̦os ir vienota garı̄ga būtı̄ba, vin̦š sasniedz Brahmanu, visu aptverošo Absolūta aspektu."
+          ]
+        }
       ],
       "original": [
         "यदा भूतपृथग्भावमेकस्थमनुपश्यति ।\\",
@@ -454,7 +592,12 @@
         "śarı̄ra-stho ’pi kaunteja na karoti na lipjate"
       ],
       "translation": [
-        "Kuntı̄ dēls! Pēc tam vin̦š iepazı̄st Virsdvēseli, kurai nav sākuma un kura mı̄t ārpus materiālās energ̒ijas un laika ietekmes. Atrodoties vienā k̦ermenı̄ ar individuālo dvēseli, Virsdvēsele darbı̄bas neveic un ir brı̄va no laicı̄gās pasaules važām."
+        {
+          "type": "lines",
+          "lines": [
+            "Kuntı̄ dēls! Pēc tam vin̦š iepazı̄st Virsdvēseli, kurai nav sākuma un kura mı̄t ārpus materiālās energ̒ijas un laika ietekmes. Atrodoties vienā k̦ermenı̄ ar individuālo dvēseli, Virsdvēsele darbı̄bas neveic un ir brı̄va no laicı̄gās pasaules važām."
+          ]
+        }
       ],
       "original": [
         "अनादित्वान्निर्गुणत्वात्परमात्मायमव्यय: ।\\",
@@ -469,7 +612,12 @@
         "sarvatrāvasthito dehe tathātmā nopalipjate"
       ],
       "translation": [
-        "Pateicoties savai smalkajai dabai, visu caurstrāvojošā objektı̄vā realitāte ir it visur, taču to nekas neietekmē. Lı̄dzı̄gā veidā apgaismota personı̄ba, kas apzinās sevi kā dvēseli un izprot  Virsdvēseli, nepiek̦eras materiālajam k̦ermenim, kaut arı̄ tās apzin̦a caurvij šo k̦ermeni."
+        {
+          "type": "lines",
+          "lines": [
+            "Pateicoties savai smalkajai dabai, visu caurstrāvojošā objektı̄vā realitāte ir it visur, taču to nekas neietekmē. Lı̄dzı̄gā veidā apgaismota personı̄ba, kas apzinās sevi kā dvēseli un izprot  Virsdvēseli, nepiek̦eras materiālajam k̦ermenim, kaut arı̄ tās apzin̦a caurvij šo k̦ermeni."
+          ]
+        }
       ],
       "original": [
         "यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते ।\\",
@@ -484,7 +632,12 @@
         "kṣetraṁ kṣetrı̄ tathā kṛtsnaṁ prakāśajati bhārata"
       ],
       "translation": [
-        "Bhārata, lı̄dzı̄gi tam, kā Saule viena pati apgaismo visu pasauli, tā arı̄ tas, kurš atrodas darbı̄bas laukā, izgaismo visu šo lauku."
+        {
+          "type": "lines",
+          "lines": [
+            "Bhārata, lı̄dzı̄gi tam, kā Saule viena pati apgaismo visu pasauli, tā arı̄ tas, kurš atrodas darbı̄bas laukā, izgaismo visu šo lauku."
+          ]
+        }
       ],
       "original": [
         "यथा प्रकाशयत्येक: कृत्स्‍नं लोकमिमं रवि: ।\\",
@@ -499,7 +652,12 @@
         "bhūta-prakṛti-mokṣañ ča je vidur jānti te param"
       ],
       "translation": [
-        "Tas, kurš, pateicoties garı̄gām zināšanām, spēj atšk̦irt darbı̄bas lauku no tā, kas šo lauku pārzina, izprot cel̦u, kas ved uz atbrı̄vošanos no matērijas važām un nonāk Manā augstākajā mājvietā."
+        {
+          "type": "lines",
+          "lines": [
+            "Tas, kurš, pateicoties garı̄gām zināšanām, spēj atšk̦irt darbı̄bas lauku no tā, kas šo lauku pārzina, izprot cel̦u, kas ved uz atbrı̄vošanos no matērijas važām un nonāk Manā augstākajā mājvietā."
+          ]
+        }
       ],
       "original": [
         "क्षेत्रक्षेत्रज्ञयोरेवमन्तरं ज्ञानचक्षुषा ।\\",

@@ -56,18 +56,19 @@
   margin: 0;
   padding: 0;
 }
+.SongVerse__paragraph {
+  margin-bottom: 24px;
+}
 .SongVerse__paragraph p {
   color: var(--text-color);
   font-size: 14px;
   font-weight: 300;
   line-height: 24px;
-  margin-bottom: 24px;
+  text-indent: 24px;
+  margin-bottom: 5px;
 }
 .SongVerse__paragraph a {
   color: var(--text-color);
-}
-.SongVerse__term {
-  font-weight: 400;
 }
 .SongVerse__note {
   font-weight: 600;

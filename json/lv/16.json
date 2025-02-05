@@ -23,8 +23,13 @@
         "bhavanti sampadaṁ daivı̄m abhidžātasja bhārata"
       ],
       "translation": [
-        "Dieva Augstākā Personı̄ba sacı̄ja:",
-        "Bhārata! Bezbailı̄ba, labsirdı̄ba, mērk̦tiecı̄ba garı̄gu zināšanu apgūšanā, atvērta sirds, savaldı̄ba, vēlme ziedot, kā arı̄ nosliece apgūt Svētos Rakstus, askētisms, patiesums, nevardarbı̄ba, vēlme runāt patiesı̄bu, spēja nedusmoties, atsacı̄šanās, miers, nevēlēšanās meklēt citos trūkumus, lı̄dzcietı̄ba pret visām dzı̄vām būtnēm, dāsnums, rakstura maigums, pieticı̄ba, pastāvı̄ba, energ̒iskums, spēja piedot, pacietı̄ba, tı̄rı̄ba, brı̄vı̄ba no skaudı̄bas un godkāres — tādas ir svētu, ar dievišk̦u dabu apveltı̄tu, cilvēku ı̄pašı̄bas."
+        {
+          "type": "lines",
+          "lines": [
+            "Dieva Augstākā Personı̄ba sacı̄ja:",
+            "Bhārata! Bezbailı̄ba, labsirdı̄ba, mērk̦tiecı̄ba garı̄gu zināšanu apgūšanā, atvērta sirds, savaldı̄ba, vēlme ziedot, kā arı̄ nosliece apgūt Svētos Rakstus, askētisms, patiesums, nevardarbı̄ba, vēlme runāt patiesı̄bu, spēja nedusmoties, atsacı̄šanās, miers, nevēlēšanās meklēt citos trūkumus, lı̄dzcietı̄ba pret visām dzı̄vām būtnēm, dāsnums, rakstura maigums, pieticı̄ba, pastāvı̄ba, energ̒iskums, spēja piedot, pacietı̄ba, tı̄rı̄ba, brı̄vı̄ba no skaudı̄bas un godkāres — tādas ir svētu, ar dievišk̦u dabu apveltı̄tu, cilvēku ı̄pašı̄bas."
+          ]
+        }
       ],
       "original": [
         "श्रीभगवानुवाच\\",
@@ -46,7 +51,12 @@
         "adžñānaṁ čābhidžātasja pārtha sampadam āsurı̄m"
       ],
       "translation": [
-        "Pārtha! Melı̄gums, augstprātı̄ba, iedomı̄ba, dusmas, cietsirdı̄ba un tumsonı̄ba ir dēmoniskas dabas cilvēku ı̄pašı̄bas."
+        {
+          "type": "lines",
+          "lines": [
+            "Pārtha! Melı̄gums, augstprātı̄ba, iedomı̄ba, dusmas, cietsirdı̄ba un tumsonı̄ba ir dēmoniskas dabas cilvēku ı̄pašı̄bas."
+          ]
+        }
       ],
       "original": [
         "दम्भो दर्पोऽभिमानश्च क्रोध: पारुष्यमेव च ।\\",
@@ -61,7 +71,12 @@
         "mā śučaḥ sampadaṁ daivı̄m abhidžāto ’si pāṇḍava"
       ],
       "translation": [
-        "Dievišk̦ās ı̄pašı̄bas dāvā atbrı̄vi, bet dēmoniskās — verdzı̄bu matērijas pasaulē. Tomēr neskumsti, Pāndava, jo tu jau no dzimšanas esi apveltı̄ts ar dievišk̦ām ı̄pašı̄bām."
+        {
+          "type": "lines",
+          "lines": [
+            "Dievišk̦ās ı̄pašı̄bas dāvā atbrı̄vi, bet dēmoniskās — verdzı̄bu matērijas pasaulē. Tomēr neskumsti, Pāndava, jo tu jau no dzimšanas esi apveltı̄ts ar dievišk̦ām ı̄pašı̄bām."
+          ]
+        }
       ],
       "original": [
         "दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता ।\\",
@@ -76,7 +91,12 @@
         "daivo vistaraśaḥ prokta āsuraṁ pārtha me śṛṇu"
       ],
       "translation": [
-        "Pārtha, dzı̄vām būtnēm šajā pasaulē piemı̄t vai nu dievišk̦as, vai dēmoniskas ı̄pašı̄bas. Es tev sı̄ki izstāstı̄ju par dievišk̦o dabu; tagad uzklausi par dēmonisko."
+        {
+          "type": "lines",
+          "lines": [
+            "Pārtha, dzı̄vām būtnēm šajā pasaulē piemı̄t vai nu dievišk̦as, vai dēmoniskas ı̄pašı̄bas. Es tev sı̄ki izstāstı̄ju par dievišk̦o dabu; tagad uzklausi par dēmonisko."
+          ]
+        }
       ],
       "original": [
         "द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च ।\\",
@@ -91,7 +111,12 @@
         "na śaučaṁ nāpi čāčāro na satjaṁ teṣu vidjate"
       ],
       "translation": [
-        "Ar dēmonisku dabu apveltı̄ti bezdievji nespēj saprast, kas ir labs, kas — slikts. Vin̦iem nepiemı̄t tı̄rı̄ba un patiesums un vin̦i nespēj cienı̄gi uzvesties."
+        {
+          "type": "lines",
+          "lines": [
+            "Ar dēmonisku dabu apveltı̄ti bezdievji nespēj saprast, kas ir labs, kas — slikts. Vin̦iem nepiemı̄t tı̄rı̄ba un patiesums un vin̦i nespēj cienı̄gi uzvesties."
+          ]
+        }
       ],
       "original": [
         "प्रवृत्तिं च निवृत्तिं च जना न विदुरासुरा: ।\\",
@@ -106,7 +131,12 @@
         "aparaspara-sambhūtaṁ kim anjat kāma-hetukam"
       ],
       "translation": [
-        "Dēmoni apgalvo, ka apkārtējā pasaule ir iluzora un relatı̄va, ka tajā nekas neliecina par Radı̄tāja klātbūtni. Vin̦i apgalvo, ka pasaule radās pati un vienı̄gā dzı̄ves jēga ir man̦u apmierināšanā."
+        {
+          "type": "lines",
+          "lines": [
+            "Dēmoni apgalvo, ka apkārtējā pasaule ir iluzora un relatı̄va, ka tajā nekas neliecina par Radı̄tāja klātbūtni. Vin̦i apgalvo, ka pasaule radās pati un vienı̄gā dzı̄ves jēga ir man̦u apmierināšanā."
+          ]
+        }
       ],
       "original": [
         "असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् ।\\",
@@ -121,7 +151,12 @@
         "prabhavantj ugra-karmāṇaḥ kṣajāja džagato ’hitāḥ"
       ],
       "translation": [
-        "Piek̦ērušies šādai pasaules uztverei, dēmoni neko nezina par savu dvēseli. Tā kā vin̦iem ir vārgs saprāts, vin̦i veic šausmı̄gus un l̦aunus darbus, kas veicina pasaules sabrukumu."
+        {
+          "type": "lines",
+          "lines": [
+            "Piek̦ērušies šādai pasaules uztverei, dēmoni neko nezina par savu dvēseli. Tā kā vin̦iem ir vārgs saprāts, vin̦i veic šausmı̄gus un l̦aunus darbus, kas veicina pasaules sabrukumu."
+          ]
+        }
       ],
       "original": [
         "एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धय: ।\\",
@@ -136,7 +171,12 @@
         "mohād gṛhı̄tvāsad-grāhān pravartante ’śuči-vratāḥ"
       ],
       "translation": [
-        "Vin̦i atrodas nepiesātināmas iekāres varā, vin̦i ir pilni godkāres, lepnı̄bas un divkosı̄bas. Laicı̄go parādı̄bu savaldzināti vin̦i piekopj grēcı̄gus paradumus un paražas."
+        {
+          "type": "lines",
+          "lines": [
+            "Vin̦i atrodas nepiesātināmas iekāres varā, vin̦i ir pilni godkāres, lepnı̄bas un divkosı̄bas. Laicı̄go parādı̄bu savaldzināti vin̦i piekopj grēcı̄gus paradumus un paražas."
+          ]
+        }
       ],
       "original": [
         "काममाश्रित्य दुष्पूरं दम्भमानमदान्विता: ।\\",
@@ -154,7 +194,12 @@
         "ı̄hante kāma-bhogārtham anjājenārtha-sañčajān"
       ],
       "translation": [
-        "Lı̄dz pat pēdējam elpas vilcienam vin̦i ir neskaitāmu raižu pārn̦emti, pārliecināti, ka miesiskās baudas ir dzı̄ves galvenais mērk̦is. Sapinušies savu neskaitāmo vēlmju tı̄klos, atrodoties iekāres un dusmu varā, vin̦i uzkrāj grēcı̄gos cel̦os iegūtās bagātı̄bas, lai apmierinātu savas iegribas."
+        {
+          "type": "lines",
+          "lines": [
+            "Lı̄dz pat pēdējam elpas vilcienam vin̦i ir neskaitāmu raižu pārn̦emti, pārliecināti, ka miesiskās baudas ir dzı̄ves galvenais mērk̦is. Sapinušies savu neskaitāmo vēlmju tı̄klos, atrodoties iekāres un dusmu varā, vin̦i uzkrāj grēcı̄gos cel̦os iegūtās bagātı̄bas, lai apmierinātu savas iegribas."
+          ]
+        }
       ],
       "original": [
         "चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिता: ।\\",
@@ -172,7 +217,12 @@
         "idam astı̄dam api me bhaviṣjati punar dhanam"
       ],
       "translation": [
-        "Bezdievji apgalvo: «Šodien es dabūju to, ko gribēju, bet rı̄t iegūšu visu, ko vien vēlēšos. Visas šı̄s bagātı̄bas pieder man, un nākotnē es tās noteikti pavairošu.»"
+        {
+          "type": "lines",
+          "lines": [
+            "Bezdievji apgalvo: «Šodien es dabūju to, ko gribēju, bet rı̄t iegūšu visu, ko vien vēlēšos. Visas šı̄s bagātı̄bas pieder man, un nākotnē es tās noteikti pavairošu.»"
+          ]
+        }
       ],
       "original": [
         "इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् ।\\",
@@ -187,7 +237,12 @@
         "ı̄śvaro ’ham ahaṁ bhogı̄ siddho ’haṁ balavān sukhı̄"
       ],
       "translation": [
-        "«Es iznı̄cināju vienu ienaidnieku un gūšu virsroku arı̄ pār pārējiem. Es esmu apkārtējās pasaules kungs un visa baudı̄tājs. Es esmu pati pilnı̄ba, esmu varens un laimı̄gs.»"
+        {
+          "type": "lines",
+          "lines": [
+            "«Es iznı̄cināju vienu ienaidnieku un gūšu virsroku arı̄ pār pārējiem. Es esmu apkārtējās pasaules kungs un visa baudı̄tājs. Es esmu pati pilnı̄ba, esmu varens un laimı̄gs.»"
+          ]
+        }
       ],
       "original": [
         "असौ मया हत: शत्रुर्हनिष्ये चापरानपि ।\\",
@@ -202,7 +257,12 @@
         "jakṣje dāsjāmi modiṣja itj adžñāna-vimohitāḥ"
       ],
       "translation": [
-        "«Es esmu bagāts un cēls. Kas gan var mani pārspēt? Es ziedošu, došu dāvanas un piedzı̄vošu uzplaukumu.» Tādējādi šādi cilvēki kl̦ūst par savas tumsonı̄bas upuriem."
+        {
+          "type": "lines",
+          "lines": [
+            "«Es esmu bagāts un cēls. Kas gan var mani pārspēt? Es ziedošu, došu dāvanas un piedzı̄vošu uzplaukumu.» Tādējādi šādi cilvēki kl̦ūst par savas tumsonı̄bas upuriem."
+          ]
+        }
       ],
       "original": [
         "आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया ।\\",
@@ -217,7 +277,12 @@
         "prasaktāḥ kāma-bhogeṣu patanti narake ’śučau"
       ],
       "translation": [
-        "Vin̦u prātus apgrūtina neskaitāmas raizes. Sapinušies maldu tı̄klos, gremdējušies jutekliskās baudās, vin̦i nonāk briesmı̄gās elles pasaulēs."
+        {
+          "type": "lines",
+          "lines": [
+            "Vin̦u prātus apgrūtina neskaitāmas raizes. Sapinušies maldu tı̄klos, gremdējušies jutekliskās baudās, vin̦i nonāk briesmı̄gās elles pasaulēs."
+          ]
+        }
       ],
       "original": [
         "अनेकचित्तविभ्रान्ता मोहजालसमावृता: ।\\",
@@ -232,7 +297,12 @@
         "jadžante nāma-jadžñais te dambhenāvidhi-pūrvakam"
       ],
       "translation": [
-        "Sava svarı̄guma sajūtas pārpilni, bezkaunı̄gi, bagātı̄bas un godkāres apreibināti, vin̦i veic ziedojumus tikai skata pēc, nen̦emot vērā Svēto Rakstu norādı̄jumus."
+        {
+          "type": "lines",
+          "lines": [
+            "Sava svarı̄guma sajūtas pārpilni, bezkaunı̄gi, bagātı̄bas un godkāres apreibināti, vin̦i veic ziedojumus tikai skata pēc, nen̦emot vērā Svēto Rakstu norādı̄jumus."
+          ]
+        }
       ],
       "original": [
         "आत्मसम्भाविता: स्तब्धा धनमानमदान्विता: ।\\",
@@ -247,7 +317,12 @@
         "mām ātma-para-deheṣu pradviṣanto ’bhjasūjakāḥ"
       ],
       "translation": [
-        "Kl̦uvuši par sava egoisma, spēka, augstprātı̄bas, iekāres un dusmu k̦ı̄lniekiem, dēmoni sāk izjust nepatiku un skaudı̄bu pret Mani, Kurš mājo vin̦u pašu un citu dzı̄vu būtn̦u k̦ermen̦os."
+        {
+          "type": "lines",
+          "lines": [
+            "Kl̦uvuši par sava egoisma, spēka, augstprātı̄bas, iekāres un dusmu k̦ı̄lniekiem, dēmoni sāk izjust nepatiku un skaudı̄bu pret Mani, Kurš mājo vin̦u pašu un citu dzı̄vu būtn̦u k̦ermen̦os."
+          ]
+        }
       ],
       "original": [
         "अहङ्कारं बलं दर्पं कामं क्रोधं च संश्रिता: ।\\",
@@ -262,7 +337,12 @@
         "kṣipāmj adžasram aśubhān āsurı̄ṣv eva joniṣu"
       ],
       "translation": [
-        "Skaudı̄gus un l̦aunus, zemākos no cilvēkiem, Es tos atkal un atkal ievietoju atbaidošu un dēmonisku dzı̄vı̄bas formu dzemdēs, tādējādi pakl̦aujot tos dzimšanu un nāvju mežonı̄gajam virpulim."
+        {
+          "type": "lines",
+          "lines": [
+            "Skaudı̄gus un l̦aunus, zemākos no cilvēkiem, Es tos atkal un atkal ievietoju atbaidošu un dēmonisku dzı̄vı̄bas formu dzemdēs, tādējādi pakl̦aujot tos dzimšanu un nāvju mežonı̄gajam virpulim."
+          ]
+        }
       ],
       "original": [
         "तानहं द्विषत: क्रूरान्संसारेषु नराधमान् ।\\",
@@ -277,7 +357,12 @@
         "mām aprāpjaiva kaunteja tato jāntj adhamāṁ gatim"
       ],
       "translation": [
-        "Kaunteja! Pastāvı̄gi iemiesojoties dēmonu vidū, šādi nejēgas dzimšanu pēc dzimšanas attālinās no Manis un krı̄t arvien zemāk, nokl̦ūstot vēl briesmı̄gākos dzı̄ves apstākl̦os."
+        {
+          "type": "lines",
+          "lines": [
+            "Kaunteja! Pastāvı̄gi iemiesojoties dēmonu vidū, šādi nejēgas dzimšanu pēc dzimšanas attālinās no Manis un krı̄t arvien zemāk, nokl̦ūstot vēl briesmı̄gākos dzı̄ves apstākl̦os."
+          ]
+        }
       ],
       "original": [
         "आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि ।\\",
@@ -292,7 +377,12 @@
         "kāmaḥ krodhas tathā lobhas tasmād etat trajaṁ tjadžet"
       ],
       "translation": [
-        "Trı̄s vārti paver cel̦u uz elli — iekāre, dusmas un skopums. Tie ved dvēseli pretı̄ bojāejai, tāpēc jābūt l̦oti uzmanı̄gam un no tiem jāizvairās."
+        {
+          "type": "lines",
+          "lines": [
+            "Trı̄s vārti paver cel̦u uz elli — iekāre, dusmas un skopums. Tie ved dvēseli pretı̄ bojāejai, tāpēc jābūt l̦oti uzmanı̄gam un no tiem jāizvairās."
+          ]
+        }
       ],
       "original": [
         "त्रिविधं नरकस्येदं द्वारं नाशनमात्मन: ।\\",
@@ -307,7 +397,12 @@
         "āčaratj ātmanaḥ śrejas tato jāti parāṁ gatim"
       ],
       "translation": [
-        "Kaunteja! Tas, kurš atbrı̄vojas no šiem trı̄s netikumiem, spēj iet garı̄gu cel̦u, pateicoties kuram sasniedz augstāko mērk̦i."
+        {
+          "type": "lines",
+          "lines": [
+            "Kaunteja! Tas, kurš atbrı̄vojas no šiem trı̄s netikumiem, spēj iet garı̄gu cel̦u, pateicoties kuram sasniedz augstāko mērk̦i."
+          ]
+        }
       ],
       "original": [
         "एतैर्विमुक्त: कौन्तेय तमोद्वारैस्त्रिभिर्नर: ।\\",
@@ -322,7 +417,12 @@
         "na sa siddhim avāpnoti na sukhaṁ na parāṁ gatim"
       ],
       "translation": [
-        "Savukārt tas, kurš pakl̦aujas savām iegribām, neievērojot Svēto Rakstu norādı̄jumus, nevarēs sasniegt ne pilnı̄bu, ne laimi, ne augstāko mērk̦i."
+        {
+          "type": "lines",
+          "lines": [
+            "Savukārt tas, kurš pakl̦aujas savām iegribām, neievērojot Svēto Rakstu norādı̄jumus, nevarēs sasniegt ne pilnı̄bu, ne laimi, ne augstāko mērk̦i."
+          ]
+        }
       ],
       "original": [
         "य: शास्त्रविधिमुत्सृज्य वर्तते कामकारत: ।\\",
@@ -337,7 +437,12 @@
         "džñātvā śāstra-vidhānoktaṁ karma kartum ihārhasi"
       ],
       "translation": [
-        "Tādēl̦ pien̦em patvērumu Svēto Rakstu norādı̄jumos, lai izprastu, kāds ir tavs patiesais pienākums un kāds tas nav! Vienmēr atceries par Rakstos norādı̄to cel̦u un rı̄kojies atbilstoši."
+        {
+          "type": "lines",
+          "lines": [
+            "Tādēl̦ pien̦em patvērumu Svēto Rakstu norādı̄jumos, lai izprastu, kāds ir tavs patiesais pienākums un kāds tas nav! Vienmēr atceries par Rakstos norādı̄to cel̦u un rı̄kojies atbilstoši."
+          ]
+        }
       ],
       "original": [
         "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ ।\\",

@@ -17,8 +17,13 @@
         "asaṁśajaṁ samagraṁ māṁ jathā džñāsjasi tač čhṛṇu"
       ],
       "translation": [
-        "Dieva Augstākā Personı̄ba sacı̄ja:",
-        "Tagad uzklausi, Pārtha, kā, pateicoties jogas praksei, novirzot visas savas domas uz Mani un pien̦emot Manı̄ patvērumu, tu atbrı̄vosies no visām šaubām un sasniegsi Mani."
+        {
+          "type": "lines",
+          "lines": [
+            "Dieva Augstākā Personı̄ba sacı̄ja:",
+            "Tagad uzklausi, Pārtha, kā, pateicoties jogas praksei, novirzot visas savas domas uz Mani un pien̦emot Manı̄ patvērumu, tu atbrı̄vosies no visām šaubām un sasniegsi Mani."
+          ]
+        }
       ],
       "original": [
         "श्रीभगवानुवाच\\",
@@ -34,7 +39,12 @@
         "jadž džñātvā neha bhūjo ’njadž džñātavjam avaśiṣjate"
       ],
       "translation": [
-        "Tagad es tev izklāstı̄šu par savu neatkārtojamo varenı̄bu, kas izpausta materiālajā pasaulē, kā arı̄ tu uzzināsi par Manu transcendentālo Dieva Personı̄bas dabu. Tam, kas izpratis šı̄s zināšanas, nav vairs nekā, uz ko tiekties."
+        {
+          "type": "lines",
+          "lines": [
+            "Tagad es tev izklāstı̄šu par savu neatkārtojamo varenı̄bu, kas izpausta materiālajā pasaulē, kā arı̄ tu uzzināsi par Manu transcendentālo Dieva Personı̄bas dabu. Tam, kas izpratis šı̄s zināšanas, nav vairs nekā, uz ko tiekties."
+          ]
+        }
       ],
       "original": [
         "ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषत: ।\\",
@@ -49,7 +59,12 @@
         "jatatām api siddhānāṁ kaśčin māṁ vetti tattvataḥ"
       ],
       "translation": [
-        "Cilvēku vidū vien nedaudzi tiecas pēc garı̄gas pilnveidošanās. Taču pat to vidū, kuri ejot garı̄go cel̦u sasnieguši apgaismı̄bu, vien retais spēj Mani izprast."
+        {
+          "type": "lines",
+          "lines": [
+            "Cilvēku vidū vien nedaudzi tiecas pēc garı̄gas pilnveidošanās. Taču pat to vidū, kuri ejot garı̄go cel̦u sasnieguši apgaismı̄bu, vien retais spēj Mani izprast."
+          ]
+        }
       ],
       "original": [
         "मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये ।\\",
@@ -64,7 +79,12 @@
         "ahaṅkāra itı̄jaṁ me bhinnā prakṛtir aṣṭadhā"
       ],
       "translation": [
-        "Zeme, ūdens, uguns, gaiss, ēteris, prāts, saprāts un viltus ego — šı̄s ir aston̦as Manas materiālās energ̒ijas sastāvdal̦as."
+        {
+          "type": "lines",
+          "lines": [
+            "Zeme, ūdens, uguns, gaiss, ēteris, prāts, saprāts un viltus ego — šı̄s ir aston̦as Manas materiālās energ̒ijas sastāvdal̦as."
+          ]
+        }
       ],
       "original": [
         "भूमिरापोऽनलो वायु: खं मनो बुद्धिरेव च ।\\",
@@ -79,7 +99,12 @@
         "džı̄va-bhūtāṁ mahā-bāho jajedaṁ dhārjate džagat"
       ],
       "translation": [
-        "Dižais varoni! Manis aprakstı̄tā materiālā daba ir zemāka par Manu augstāko energ̒iju, kura ietver sevı̄ visas individuālās dvēseles. Dvēseles izmanto materiālās energ̒ijas sniegtās iespējas savām egoistiskajām baudām."
+        {
+          "type": "lines",
+          "lines": [
+            "Dižais varoni! Manis aprakstı̄tā materiālā daba ir zemāka par Manu augstāko energ̒iju, kura ietver sevı̄ visas individuālās dvēseles. Dvēseles izmanto materiālās energ̒ijas sniegtās iespējas savām egoistiskajām baudām."
+          ]
+        }
       ],
       "original": [
         "अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम् ।\\",
@@ -94,7 +119,12 @@
         "ahaṁ kṛtsnasja džagataḥ prabhavaḥ pralajas tathā"
       ],
       "translation": [
-        "Zini, ka visas formas rod savu sākumu šajās divās Manās energ̒ijās — materiālajā un garı̄gajā. Taču Es viens esmu visa pastāvošā rašanās un iznı̄cı̄bas cēlonis."
+        {
+          "type": "lines",
+          "lines": [
+            "Zini, ka visas formas rod savu sākumu šajās divās Manās energ̒ijās — materiālajā un garı̄gajā. Taču Es viens esmu visa pastāvošā rašanās un iznı̄cı̄bas cēlonis."
+          ]
+        }
       ],
       "original": [
         "एतद्योनीनि भूतानि सर्वाणीत्युपधारय ।\\",
@@ -109,7 +139,12 @@
         "maji sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva"
       ],
       "translation": [
-        "Ak, dārgumu iekarotāj Ardžūna, nav nekā augstāka par Mani! Viss pastāvošais balstās Manı̄, lı̄dzinoties diegā savērtām pērlēm."
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, dārgumu iekarotāj Ardžūna, nav nekā augstāka par Mani! Viss pastāvošais balstās Manı̄, lı̄dzinoties diegā savērtām pērlēm."
+          ]
+        }
       ],
       "original": [
         "मत्त: परतरं नान्यत्किञ्चिदस्ति धनञ्जय ।\\",
@@ -124,7 +159,12 @@
         "praṇavaḥ sarva-vedeṣu śabdaḥ khe pauruṣaṁ nṛṣu"
       ],
       "translation": [
-        "Kuntı̄ dēls, Es esmu ūdens garša, mēness un saules gaisma! Es esmu sākotnējā skan̦a “OM”, visu Vēdu pamats. Kā skan̦a Es esmu klāt telpā un kā talants — cilvēkā!"
+        {
+          "type": "lines",
+          "lines": [
+            "Kuntı̄ dēls, Es esmu ūdens garša, mēness un saules gaisma! Es esmu sākotnējā skan̦a “OM”, visu Vēdu pamats. Kā skan̦a Es esmu klāt telpā un kā talants — cilvēkā!"
+          ]
+        }
       ],
       "original": [
         "रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययो: ।\\",
@@ -139,7 +179,12 @@
         "džı̄vanaṁ sarva-bhūteṣu tapaś čāsmi tapasviṣu"
       ],
       "translation": [
-        "Es esmu zemes tı̄rais aromāts, uguns liesma, dzı̄ves energ̒ija ikvienā būtnē. Es esmu askēta gribasspēks."
+        {
+          "type": "lines",
+          "lines": [
+            "Es esmu zemes tı̄rais aromāts, uguns liesma, dzı̄ves energ̒ija ikvienā būtnē. Es esmu askēta gribasspēks."
+          ]
+        }
       ],
       "original": [
         "पुण्यो गन्ध: पृथिव्यां च तेजश्चास्मि विभावसौ ।\\",
@@ -154,7 +199,12 @@
         "buddhir buddhimatām asmi tedžas tedžasvinām aham Pārtha!"
       ],
       "translation": [
-        "Es esmu neiznı̄cināmais visu dzı̄vı̄bas izpausmju avots, Es esmu viedo saprāts un vareno drošsirdı̄ba!"
+        {
+          "type": "lines",
+          "lines": [
+            "Es esmu neiznı̄cināmais visu dzı̄vı̄bas izpausmju avots, Es esmu viedo saprāts un vareno drošsirdı̄ba!"
+          ]
+        }
       ],
       "original": [
         "बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम् ।\\",
@@ -169,7 +219,12 @@
         "dharmāviruddho bhūteṣu kāmo ’smi Bhāratarṣabha"
       ],
       "translation": [
-        "Labākais no Bhāratas dinastijas! Es esmu no piek̦eršanās un iekāres brı̄vu stipro spēks. Es esmu tieksme turpināt cilvēcisko dzimtu, kas nav pretrunā ar relig̒ijas principiem."
+        {
+          "type": "lines",
+          "lines": [
+            "Labākais no Bhāratas dinastijas! Es esmu no piek̦eršanās un iekāres brı̄vu stipro spēks. Es esmu tieksme turpināt cilvēcisko dzimtu, kas nav pretrunā ar relig̒ijas principiem."
+          ]
+        }
       ],
       "original": [
         "बलं बलवतां चाहं कामरागविवर्जितम् ।\\",
@@ -184,7 +239,12 @@
         "matta eveti tān viddhi na tv ahaṁ teṣu te maji"
       ],
       "translation": [
-        "Zini, ka visu trı̄s <i class=\"SongVerse__term\">gunu</i> — labvēlı̄bas, kaisles un tumsonı̄bas, radı̄tie esı̄bas stāvokl̦i izpaužas no Manis viena. Tie mı̄t Manı̄, taču Es pats atrodos ārpus to ietekmes."
+        {
+          "type": "lines",
+          "lines": [
+            "Zini, ka visu trı̄s <i class=\"SongVerse__term\">gunu</i> — labvēlı̄bas, kaisles un tumsonı̄bas, radı̄tie esı̄bas stāvokl̦i izpaužas no Manis viena. Tie mı̄t Manı̄, taču Es pats atrodos ārpus to ietekmes."
+          ]
+        }
       ],
       "original": [
         "ये चैव सात्त्विका भावा राजसास्तामसाश्च ये ।\\",
@@ -199,7 +259,12 @@
         "mohitaṁ nābhidžānāti mām ebhjaḥ param avjajam"
       ],
       "translation": [
-        "Trı̄s materiālās pasaules <i class=\"SongVerse__term\">gunas</i> ievedušas maldos visas šajā pasaulē mı̄tošās dzı̄vās būtnes. Un neviena no dzı̄vajām būtnēm nevar izprast Mani, nemainı̄go Visaugsto Kungu, kurš mı̄t ārpus tām."
+        {
+          "type": "lines",
+          "lines": [
+            "Trı̄s materiālās pasaules <i class=\"SongVerse__term\">gunas</i> ievedušas maldos visas šajā pasaulē mı̄tošās dzı̄vās būtnes. Un neviena no dzı̄vajām būtnēm nevar izprast Mani, nemainı̄go Visaugsto Kungu, kurš mı̄t ārpus tām."
+          ]
+        }
       ],
       "original": [
         "त्रिभिर्गुणमयैर्भावैरेभि: सर्वमिदं जगत् ।\\",
@@ -214,7 +279,12 @@
         "mām eva je prapadjante mājām etāṁ taranti te"
       ],
       "translation": [
-        "Ir l̦oti grūti pārvarēt Manu iluzoro energ̒iju — <i class=\"SongVerse__term\">maju</i>, kas sastāv no trı̄s matērijas stāvokl̦iem, jo esmu vin̦ai piešk̦ı̄ris dievišk̦u varu. Tomēr tas, kurš no visas sirds tiecas pie Manis, atbrı̄vojas no vin̦as ietekmes."
+        {
+          "type": "lines",
+          "lines": [
+            "Ir l̦oti grūti pārvarēt Manu iluzoro energ̒iju — <i class=\"SongVerse__term\">maju</i>, kas sastāv no trı̄s matērijas stāvokl̦iem, jo esmu vin̦ai piešk̦ı̄ris dievišk̦u varu. Tomēr tas, kurš no visas sirds tiecas pie Manis, atbrı̄vojas no vin̦as ietekmes."
+          ]
+        }
       ],
       "original": [
         "दैवी ह्येषा गुणमयी मम माया दुरत्यया ।\\",
@@ -229,7 +299,12 @@
         "mājajāpahṛta-džñānā āsuraṁ-bhāvam-āśritāḥ"
       ],
       "translation": [
-        "Ir četru veidu neveiksmı̄gas dvēseles, kuras nespēj sevi veltı̄t Man: tuvredzı̄gie, kas gremdējušies smagā darbā pasaulı̄gu sasniegumu dēl̦; netikumı̄gi materiālisti, kas aizn̦emti ar sabiedrı̄bas sociālo un ekonomisko progresu, taču noraida kalpošanu Visaugstajam Kungam; apmaldı̄jušies domātāji, kas aizn̦emti, sniedzot maldı̄gus Svēto Rakstu tulkojumus; bezdievji un cilvēki, kas sliecas uz bezpersoniskiem priekšstatiem par Absolūtu."
+        {
+          "type": "lines",
+          "lines": [
+            "Ir četru veidu neveiksmı̄gas dvēseles, kuras nespēj sevi veltı̄t Man: tuvredzı̄gie, kas gremdējušies smagā darbā pasaulı̄gu sasniegumu dēl̦; netikumı̄gi materiālisti, kas aizn̦emti ar sabiedrı̄bas sociālo un ekonomisko progresu, taču noraida kalpošanu Visaugstajam Kungam; apmaldı̄jušies domātāji, kas aizn̦emti, sniedzot maldı̄gus Svēto Rakstu tulkojumus; bezdievji un cilvēki, kas sliecas uz bezpersoniskiem priekšstatiem par Absolūtu."
+          ]
+        }
       ],
       "original": [
         "न मां दुष्कृतिनो मूढा: प्रपद्यन्ते नराधमा: ।\\",
@@ -244,7 +319,12 @@
         "ārto džidžñāsur arthārthı̄ džñānı̄ ča Bhāratarṣbha"
       ],
       "translation": [
-        "Bhāratas dižais pēcteci! Četru veidu veiksmı̄gi cilvēki nonāk pie Manis pielūgšanas: tie, kuri nokl̦uvuši nelaimē; zin̦kārı̄gie; tie, kuri vēlas gūt sev kādu labumu, un tie, kuri tiecas izprast Absolūto Īstenı̄bu."
+        {
+          "type": "lines",
+          "lines": [
+            "Bhāratas dižais pēcteci! Četru veidu veiksmı̄gi cilvēki nonāk pie Manis pielūgšanas: tie, kuri nokl̦uvuši nelaimē; zin̦kārı̄gie; tie, kuri vēlas gūt sev kādu labumu, un tie, kuri tiecas izprast Absolūto Īstenı̄bu."
+          ]
+        }
       ],
       "original": [
         "चतुर्विधा भजन्ते मां जना: सुकृतिनोऽर्जुन ।\\",
@@ -259,7 +339,12 @@
         "prijo hi džñānino ’tj-artham ahaṁ sa ča mama prijaḥ"
       ],
       "translation": [
-        "So četru cilvēku vidū par labāko Es uzskatu to, kurš sevi visu pilnı̄bā veltı̄jis kalpošanai Man. Šāds apgaismots viedais Man ir l̦oti dārgs un Es esmu dārgs vin̦am."
+        {
+          "type": "lines",
+          "lines": [
+            "So četru cilvēku vidū par labāko Es uzskatu to, kurš sevi visu pilnı̄bā veltı̄jis kalpošanai Man. Šāds apgaismots viedais Man ir l̦oti dārgs un Es esmu dārgs vin̦am."
+          ]
+        }
       ],
       "original": [
         "तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते ।\\",
@@ -274,7 +359,12 @@
         "āsthitaḥ sa hi juktātmā mām evānuttamāṁ gatim"
       ],
       "translation": [
-        "Neapšaubāmi, visi, kas nostājušies uz dievapzin̦as cel̦a, ir cildenas dvēseles. Tomēr šāds svētais Man ir tik pat dārgs kā Es Pats, jo vin̦š pien̦ēmis patvērumu Manı̄ un no visas sirds veltı̄jies Man, vin̦š ir izvēlējies Mani par savas dzı̄ves augstāko mērk̦i."
+        {
+          "type": "lines",
+          "lines": [
+            "Neapšaubāmi, visi, kas nostājušies uz dievapzin̦as cel̦a, ir cildenas dvēseles. Tomēr šāds svētais Man ir tik pat dārgs kā Es Pats, jo vin̦š pien̦ēmis patvērumu Manı̄ un no visas sirds veltı̄jies Man, vin̦š ir izvēlējies Mani par savas dzı̄ves augstāko mērk̦i."
+          ]
+        }
       ],
       "original": [
         "उदारा: सर्व एवैते ज्ञानी त्वात्मैव मे मतम् ।\\",
@@ -289,7 +379,12 @@
         "vāsudevaḥ sarvam iti sa mahātmā sudurlabhaḥ"
       ],
       "translation": [
-        "Pēc daudzām dzimšanām viedais, izpratis svētās zināšanas, uztic sevi Man, apzinoties, ka viss pastāvošais nāk no Diev-Kunga un mı̄t Vin̦ā. Sāda diža dvēsele sastopama ārkārtı̄gi reti."
+        {
+          "type": "lines",
+          "lines": [
+            "Pēc daudzām dzimšanām viedais, izpratis svētās zināšanas, uztic sevi Man, apzinoties, ka viss pastāvošais nāk no Diev-Kunga un mı̄t Vin̦ā. Sāda diža dvēsele sastopama ārkārtı̄gi reti."
+          ]
+        }
       ],
       "original": [
         "बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते ।\\",
@@ -304,7 +399,12 @@
         "taṁ taṁ nijamam āsthāja prakṛtjā nijatāḥ svajā"
       ],
       "translation": [
-        "Tikmēr cilvēki, kuru saprātu laupı̄jusi iekāre, pielūdz dažādus materiālās pasaules padievus. Vin̦i izvēlas pielūgsmes praksi un pielūdzamo dievı̄bu atbilstoši savām pasaulı̄gajām vēlmēm."
+        {
+          "type": "lines",
+          "lines": [
+            "Tikmēr cilvēki, kuru saprātu laupı̄jusi iekāre, pielūdz dažādus materiālās pasaules padievus. Vin̦i izvēlas pielūgsmes praksi un pielūdzamo dievı̄bu atbilstoši savām pasaulı̄gajām vēlmēm."
+          ]
+        }
       ],
       "original": [
         "कामैस्तैस्तैर्हृतज्ञाना: प्रपद्यन्तेऽन्यदेवता: ।\\",
@@ -319,7 +419,12 @@
         "tasja tasjāčalāṁ śraddhāṁ tām eva vidadhāmj aham"
       ],
       "translation": [
-        "Es esmu Virsdvēsele, kura pazı̄st ikviena sirdi. Ja kāds ar ticı̄bu sāk pielūgt kādu dievı̄bu, Es nostiprinu vin̦ā šo ticı̄bu."
+        {
+          "type": "lines",
+          "lines": [
+            "Es esmu Virsdvēsele, kura pazı̄st ikviena sirdi. Ja kāds ar ticı̄bu sāk pielūgt kādu dievı̄bu, Es nostiprinu vin̦ā šo ticı̄bu."
+          ]
+        }
       ],
       "original": [
         "यो यो यां यां तनुं भक्त: श्रद्धयार्चितुमिच्छति ।\\",
@@ -334,7 +439,12 @@
         "labhate ča tataḥ kāmān majaiva vihitān hi tān"
       ],
       "translation": [
-        "Apveltı̄ts ar ticı̄bu, cilvēks turpina izvēlētās dievı̄bas pielūgšanu un iegūst visu vēlamo. Tomēr patiesı̄bā visas šı̄s veltes dāvāju vin̦am Es."
+        {
+          "type": "lines",
+          "lines": [
+            "Apveltı̄ts ar ticı̄bu, cilvēks turpina izvēlētās dievı̄bas pielūgšanu un iegūst visu vēlamo. Tomēr patiesı̄bā visas šı̄s veltes dāvāju vin̦am Es."
+          ]
+        }
       ],
       "original": [
         "स तया श्रद्धया युक्तस्तस्याराधनमीहते ।\\",
@@ -349,7 +459,12 @@
         "devān deva-jadžo jānti mad-bhaktā jānti mām api"
       ],
       "translation": [
-        "Rezultāts, kuru gūst tuvredzı̄gie padievu pielūdzēji ir laicı̄gs — uz noteiktu laiku vin̦i sasniedz šo dievı̄bu planētas. Taču tas, kurš garı̄gas kalpošanas noskan̦ojumā pielūdz Mani, nokl̦ūst Manā mūžı̄gajā mājvietā."
+        {
+          "type": "lines",
+          "lines": [
+            "Rezultāts, kuru gūst tuvredzı̄gie padievu pielūdzēji ir laicı̄gs — uz noteiktu laiku vin̦i sasniedz šo dievı̄bu planētas. Taču tas, kurš garı̄gas kalpošanas noskan̦ojumā pielūdz Mani, nokl̦ūst Manā mūžı̄gajā mājvietā."
+          ]
+        }
       ],
       "original": [
         "अन्तवत्तु फलं तेषां तद्भ‍वत्यल्पमेधसाम् ।\\",
@@ -364,7 +479,12 @@
         "paraṁ bhāvam adžānanto mamāvjajam anuttamam"
       ],
       "translation": [
-        "Nesaprātı̄gi cilvēki uzskata, ka sākotnēji Es biju bezpersonisks un tikai pēc tam izpaudu Sevi šajā pasaulē, pien̦emot personisku veidolu. Vin̦i neko nezina par Manu transcendentālo, mūžı̄go esı̄bu, par Manu nepārspēto tēlu, Manām ı̄pašı̄bām un Rotal̦ām."
+        {
+          "type": "lines",
+          "lines": [
+            "Nesaprātı̄gi cilvēki uzskata, ka sākotnēji Es biju bezpersonisks un tikai pēc tam izpaudu Sevi šajā pasaulē, pien̦emot personisku veidolu. Vin̦i neko nezina par Manu transcendentālo, mūžı̄go esı̄bu, par Manu nepārspēto tēlu, Manām ı̄pašı̄bām un Rotal̦ām."
+          ]
+        }
       ],
       "original": [
         "अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धय: ।\\",
@@ -379,7 +499,12 @@
         "mūḍho ’jaṁ nābhidžānāti loko mām adžam avjajam"
       ],
       "translation": [
-        "Es palieku savas garı̄gās energ̒ijas apslēpts un kuram katram savu dievišk̦o būtı̄bu neizpaužu. Tādēl̦ nelgas nespēj izprast Mani kā nedzimušu un nemainı̄gu."
+        {
+          "type": "lines",
+          "lines": [
+            "Es palieku savas garı̄gās energ̒ijas apslēpts un kuram katram savu dievišk̦o būtı̄bu neizpaužu. Tādēl̦ nelgas nespēj izprast Mani kā nedzimušu un nemainı̄gu."
+          ]
+        }
       ],
       "original": [
         "नाहं प्रकाश: सर्वस्य योगमायासमावृत: ।\\",
@@ -394,7 +519,12 @@
         "bhaviṣjāṇi ča bhūtāni māṁ tu veda na kaśčana"
       ],
       "translation": [
-        "Ardžūna! Man ir zināma katras dzı̄vās būtnes pagātne, tagadne un nākotne. Taču Mani visā pilnı̄bā nezina neviens."
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna! Man ir zināma katras dzı̄vās būtnes pagātne, tagadne un nākotne. Taču Mani visā pilnı̄bā nezina neviens."
+          ]
+        }
       ],
       "original": [
         "वेदाहं समतीतानि वर्तमानानि चार्जुन ।\\",
@@ -409,7 +539,12 @@
         "sarva-bhūtāni sammohaṁ sarge jānti parantapa"
       ],
       "translation": [
-        "Ak, naidnieku uzveicēj, Bhāratas pēcteci! Kopš Visuma radı̄šanas pirmsākumiem visas dzı̄vās būtnes ir iegrimušas tumsonı̄bā un maldos, kurus radı̄jusi patikas un nepatikas divējādā daba."
+        {
+          "type": "lines",
+          "lines": [
+            "Ak, naidnieku uzveicēj, Bhāratas pēcteci! Kopš Visuma radı̄šanas pirmsākumiem visas dzı̄vās būtnes ir iegrimušas tumsonı̄bā un maldos, kurus radı̄jusi patikas un nepatikas divējādā daba."
+          ]
+        }
       ],
       "original": [
         "इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत ।\\",
@@ -424,7 +559,12 @@
         "te dvandva-moha-nirmuktā bhadžante māṁ dṛḍha vratāḥ"
       ],
       "translation": [
-        "Taču tie, kuri pateicoties dievticı̄gai darbı̄bai attı̄rı̄jušies no grēkiem un pacēlušies augstāk par matērijas pasauli, sāk ar pārliecı̄bu pielūgt Mani."
+        {
+          "type": "lines",
+          "lines": [
+            "Taču tie, kuri pateicoties dievticı̄gai darbı̄bai attı̄rı̄jušies no grēkiem un pacēlušies augstāk par matērijas pasauli, sāk ar pārliecı̄bu pielūgt Mani."
+          ]
+        }
       ],
       "original": [
         "येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम् ।\\",
@@ -439,7 +579,12 @@
         "te brahma tad viduḥ kṛtsnam adhjātmaṁ karma čākhilam"
       ],
       "translation": [
-        "Tie, kuri tiecas atbrı̄voties no vecuma un nāves, pien̦em patvērumu Manı̄. Vin̦i skaidri apzinās garı̄go realitāti un pilnı̄bā izprot dvēseles dabu, kā arı̄ darbı̄bas principu un tās sekas."
+        {
+          "type": "lines",
+          "lines": [
+            "Tie, kuri tiecas atbrı̄voties no vecuma un nāves, pien̦em patvērumu Manı̄. Vin̦i skaidri apzinās garı̄go realitāti un pilnı̄bā izprot dvēseles dabu, kā arı̄ darbı̄bas principu un tās sekas."
+          ]
+        }
       ],
       "original": [
         "जरामरणमोक्षाय मामाश्रित्य यतन्ति ये ।\\",
@@ -454,7 +599,12 @@
         "prajāṇa-kāle ’pi ča māṁ te vidur jukta-četasaḥ"
       ],
       "translation": [
-        "Tie, kuri zina Mani kā visa esošā Avotu, visu padievu Valdnieku un visu ziedošanu Mērk̦i, pat nāves brı̄dı̄ neaizmirst Mani, jo atceras Mani jebkuros apstākl̦os."
+        {
+          "type": "lines",
+          "lines": [
+            "Tie, kuri zina Mani kā visa esošā Avotu, visu padievu Valdnieku un visu ziedošanu Mērk̦i, pat nāves brı̄dı̄ neaizmirst Mani, jo atceras Mani jebkuros apstākl̦os."
+          ]
+        }
       ],
       "original": [
         "साधिभूताधिदैवं मां साधियज्ञं च ये विदु: ।\\",

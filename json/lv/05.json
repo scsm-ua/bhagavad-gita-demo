@@ -17,8 +17,13 @@
         "jač čhreja etajor ekaṁ tan me brūhi suniśčitam"
       ],
       "translation": [
-        "Ardžūna sacı̄ja:",
-        "Ak, Krišna! Sākumā Tu cildināji cel̦u, kurā atsakās no darbı̄bas, pēcāk — cel̦u, kurā veic nesavtı̄gas darbı̄bas. Lūdzu Tevi, norādi skaidri – kurš no šiem cel̦iem ir svētı̄gāks?"
+        {
+          "type": "lines",
+          "lines": [
+            "Ardžūna sacı̄ja:",
+            "Ak, Krišna! Sākumā Tu cildināji cel̦u, kurā atsakās no darbı̄bas, pēcāk — cel̦u, kurā veic nesavtı̄gas darbı̄bas. Lūdzu Tevi, norādi skaidri – kurš no šiem cel̦iem ir svētı̄gāks?"
+          ]
+        }
       ],
       "original": [
         "अर्जुन उवाच\\",
@@ -35,8 +40,13 @@
         "tajos tu karma-sannjāsāt karma-jogo viśiṣjate"
       ],
       "translation": [
-        "Dieva Augstākā Personı̄ba atbildēja:",
-        "Gan atsacı̄šanās cel̦š, gan nesavtı̄gas darbı̄bas cel̦š ir labvēlı̄gs, taču augstāka ir nesavtı̄ga darbı̄ba."
+        {
+          "type": "lines",
+          "lines": [
+            "Dieva Augstākā Personı̄ba atbildēja:",
+            "Gan atsacı̄šanās cel̦š, gan nesavtı̄gas darbı̄bas cel̦š ir labvēlı̄gs, taču augstāka ir nesavtı̄ga darbı̄ba."
+          ]
+        }
       ],
       "original": [
         "श्रीभगवानुवाच\\",
@@ -52,7 +62,12 @@
         "nirdvandvo hi mahā-bāho sukhaṁ bandhāt pramučjate"
       ],
       "translation": [
-        "Spēkavı̄r Ardžūna! Zini, ka tas, kurš neko neiekāro un neatgrūž, ir patiesi brı̄vs un atsacı̄jies, kaut arı̄ veic darbı̄bas. Tā kā vin̦š ir pacēlies virs šı̄s pasaules divējādı̄bas, vin̦š viegli atbrı̄vojas no materiālās esı̄bas verdzı̄bas."
+        {
+          "type": "lines",
+          "lines": [
+            "Spēkavı̄r Ardžūna! Zini, ka tas, kurš neko neiekāro un neatgrūž, ir patiesi brı̄vs un atsacı̄jies, kaut arı̄ veic darbı̄bas. Tā kā vin̦š ir pacēlies virs šı̄s pasaules divējādı̄bas, vin̦š viegli atbrı̄vojas no materiālās esı̄bas verdzı̄bas."
+          ]
+        }
       ],
       "original": [
         "ज्ञेय: स नित्यसन्न्यासी यो न द्वेष्टि न काङ्‍क्षति ।\\",
@@ -67,7 +82,12 @@
         "ekam apj āsthitaḥ samjag ubhajor vindate phalam"
       ],
       "translation": [
-        "Neizglı̄toti l̦audis tiecas meklēt atšk̦irı̄bu starp sava “es” (kurš ir atšk̦irı̄gs no matērijas) filosofiskās apzināšanās cel̦u un nesavtı̄gas darbı̄bas cel̦u. Taču viedie uzskata, ka tas, kurš pilnı̄gā veidā iet jebkuru no šiem cel̦iem, sasniedz vienu un to pašu mērk̦i."
+        {
+          "type": "lines",
+          "lines": [
+            "Neizglı̄toti l̦audis tiecas meklēt atšk̦irı̄bu starp sava “es” (kurš ir atšk̦irı̄gs no matērijas) filosofiskās apzināšanās cel̦u un nesavtı̄gas darbı̄bas cel̦u. Taču viedie uzskata, ka tas, kurš pilnı̄gā veidā iet jebkuru no šiem cel̦iem, sasniedz vienu un to pašu mērk̦i."
+          ]
+        }
       ],
       "original": [
         "सां‍ख्ययोगौ पृथग्बाला: प्रवदन्ति न पण्डिता: ।\\",
@@ -82,7 +102,12 @@
         "ekaṁ sāṅkhjañ ča jogañ ča jaḥ paśjati sa paśjati"
       ],
       "translation": [
-        "Tam, kas netiecas nošk̦irt šos abus cel̦us (<i class=\"SongVerse__term\">sankhja-jogas un karma-jogas</i> cel̦us), piemı̄t patiesas zināšanas."
+        {
+          "type": "lines",
+          "lines": [
+            "Tam, kas netiecas nošk̦irt šos abus cel̦us (<i class=\"SongVerse__term\">sankhja-jogas un karma-jogas</i> cel̦us), piemı̄t patiesas zināšanas."
+          ]
+        }
       ],
       "original": [
         "यत्सां‍ख्यै: प्राप्यते स्थानं तद्योगैरपि गम्यते ।\\",
@@ -97,7 +122,12 @@
         "joga-jukto munir brahma na čireṇādhigaččhati"
       ],
       "translation": [
-        "Stipriniek Ardžūna! Ja cilvēks nav izpratis nesavtı̄gu darbı̄bu, tad pati par sev atsacı̄šanās no darbı̄bas nesı̄s vin̦am vienı̄gi nožēlu. Taču nesavtı̄gu darbı̄bu izpratis viedais ātri sasniegs garı̄gu apzin̦u."
+        {
+          "type": "lines",
+          "lines": [
+            "Stipriniek Ardžūna! Ja cilvēks nav izpratis nesavtı̄gu darbı̄bu, tad pati par sev atsacı̄šanās no darbı̄bas nesı̄s vin̦am vienı̄gi nožēlu. Taču nesavtı̄gu darbı̄bu izpratis viedais ātri sasniegs garı̄gu apzin̦u."
+          ]
+        }
       ],
       "original": [
         "सन्न्यासस्तु महाबाहो दु:खमाप्‍तुमयोगत: ।\\",
@@ -112,7 +142,12 @@
         "sarva-bhūtātmabhūtātmā kurvann api na lipjate"
       ],
       "translation": [
-        "Jogs, kura sirds ir tı̄ra un kurš apvaldı̄jis savu prātu un man̦as, ir dārgs visiem un visi ir dārgi vin̦am. Lai arı̄ vin̦š ir aizn̦emts, veicot dažādas darbı̄bas, to sekas vin̦u neskar."
+        {
+          "type": "lines",
+          "lines": [
+            "Jogs, kura sirds ir tı̄ra un kurš apvaldı̄jis savu prātu un man̦as, ir dārgs visiem un visi ir dārgi vin̦am. Lai arı̄ vin̦š ir aizn̦emts, veicot dažādas darbı̄bas, to sekas vin̦u neskar."
+          ]
+        }
       ],
       "original": [
         "योगयुक्तो विश‍ुद्धात्मा विजितात्मा जितेन्द्रिय: ।\\",
@@ -130,7 +165,12 @@
         "indrijāṇı̄ndrijārtheṣu vartanta iti dhārajan"
       ],
       "translation": [
-        "Neskatoties uz to, ka šāds apgaismots jogs redz, dzird, pieskaras, saož, kustas, elpo, gul̦, runā, piepilda kun̦g̒i un atbrı̄vo vēderu, tver priekšmetus, atver un aizver acis, vin̦š apzinās: «Tā ir tikai manu man̦u orgānu un to objektu mijiedarbı̄ba, kamēr pats es neveicu nekādas darbı̄bas šajā pasaulē.»"
+        {
+          "type": "lines",
+          "lines": [
+            "Neskatoties uz to, ka šāds apgaismots jogs redz, dzird, pieskaras, saož, kustas, elpo, gul̦, runā, piepilda kun̦g̒i un atbrı̄vo vēderu, tver priekšmetus, atver un aizver acis, vin̦š apzinās: «Tā ir tikai manu man̦u orgānu un to objektu mijiedarbı̄ba, kamēr pats es neveicu nekādas darbı̄bas šajā pasaulē.»"
+          ]
+        }
       ],
       "original": [
         "नैव किञ्चित्करोमीति युक्तो मन्येत तत्त्ववित् ।\\",
@@ -148,7 +188,12 @@
         "lipjate na sa pāpena padma-patram ivāmbhasā"
       ],
       "translation": [
-        "Lı̄dzı̄gi tam, kā lotosa zieds nemirkst ezera ūdeni, arı̄ tas, kurš nesavtı̄gi darbojas Visaugstā Kunga labā, netiek grēka skarts."
+        {
+          "type": "lines",
+          "lines": [
+            "Lı̄dzı̄gi tam, kā lotosa zieds nemirkst ezera ūdeni, arı̄ tas, kurš nesavtı̄gi darbojas Visaugstā Kunga labā, netiek grēka skarts."
+          ]
+        }
       ],
       "original": [
         "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति य: ।\\",
@@ -163,7 +208,12 @@
         "joginaḥ karma kurvanti saṅgaṁ tjaktvātma-śuddhaje"
       ],
       "translation": [
-        "Atmetis piek̦eršanos visam pasaulı̄gajam, jogs izmanto k̦ermeni, man̦as, prātu un saprātu vienı̄gi apzin̦as attı̄rı̄šanai."
+        {
+          "type": "lines",
+          "lines": [
+            "Atmetis piek̦eršanos visam pasaulı̄gajam, jogs izmanto k̦ermeni, man̦as, prātu un saprātu vienı̄gi apzin̦as attı̄rı̄šanai."
+          ]
+        }
       ],
       "original": [
         "कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि ।\\",
@@ -178,7 +228,12 @@
         "ajuktaḥ kāma-kāreṇa phale sakto nibadhjate"
       ],
       "translation": [
-        "Jogs, kas nepiek̦eras savas darbı̄bas rezultātam, iegūst pilnı̄gu mieru, kamēr tas, kurš darbojas pasaulı̄gās laimes augl̦u dēl̦, nonāk pats savu vēlmju gūstā."
+        {
+          "type": "lines",
+          "lines": [
+            "Jogs, kas nepiek̦eras savas darbı̄bas rezultātam, iegūst pilnı̄gu mieru, kamēr tas, kurš darbojas pasaulı̄gās laimes augl̦u dēl̦, nonāk pats savu vēlmju gūstā."
+          ]
+        }
       ],
       "original": [
         "युक्त: कर्मफलं त्यक्त्वा शान्तिमाप्‍नोति नैष्ठिकीम् ।\\",
@@ -193,12 +248,22 @@
         "nava-dvāre pure dehı̄ naiva kurvan na kārajan"
       ],
       "translation": [
-        "Dvēsele, kas iekšēji atsacı̄jusies no jebkādas darbı̄bas, laimı̄ga mı̄t savā k̦ermenı̄, kurš lı̄dzinās pilsētai ar devin̦iem vārtiem*. Tā apzinās, ka neveic darbı̄bas, un arı̄ citus nemudina uz darbı̄bām.",
+        {
+          "type": "lines",
+          "lines": [
+            "Dvēsele, kas iekšēji atsacı̄jusies no jebkādas darbı̄bas, laimı̄ga mı̄t savā k̦ermenı̄, kurš lı̄dzinās pilsētai ar devin̦iem vārtiem*. Tā apzinās, ka neveic darbı̄bas, un arı̄ citus nemudina uz darbı̄bām."
+          ]
+        },
         {
           "type": "subtitle",
           "text": "**Piezīme:*"
         },
-        "<i class=\"SongVerse__term\">Materiālajam ķermenim ir deviņi vārti, tie ir – divas acis, divas nāsis, divas ausis, mute, ģenitālijas un ānuss.</i>"
+        {
+          "type": "lines",
+          "lines": [
+            "<i class=\"SongVerse__term\">Materiālajam ķermenim ir deviņi vārti, tie ir – divas acis, divas nāsis, divas ausis, mute, ģenitālijas un ānuss.</i>"
+          ]
+        }
       ],
       "original": [
         "सर्वकर्माणि मनसा सन्न्यस्यास्ते सुखं वशी ।\\",
@@ -213,7 +278,12 @@
         "na karma-phala-saṁjogaṁ svabhāvas tu pravartate"
       ],
       "translation": [
-        "Diev-Kungs nerada ne vēlmi rı̄koties, ne pašu rı̄cı̄bu, ne arı̄ šı̄s rı̄cı̄bas sekas. To visu dara pašas dvēseles, kas identificējušas savas intereses ar matērijas pasauli."
+        {
+          "type": "lines",
+          "lines": [
+            "Diev-Kungs nerada ne vēlmi rı̄koties, ne pašu rı̄cı̄bu, ne arı̄ šı̄s rı̄cı̄bas sekas. To visu dara pašas dvēseles, kas identificējušas savas intereses ar matērijas pasauli."
+          ]
+        }
       ],
       "original": [
         "न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभु: ।\\",
@@ -228,7 +298,12 @@
         "adžñānenāvṛtaṁ džñānaṁ tena muhjanti džantavaḥ"
       ],
       "translation": [
-        "Vin̦š nav atbildı̄gs ne par grēcı̄giem, ne svētı̄giem dzı̄vu būtn̦u darbiem. Tās pašas nozaudēja zināšanas par savu garı̄go dabu un gremdējās nezin̦as tumsā."
+        {
+          "type": "lines",
+          "lines": [
+            "Vin̦š nav atbildı̄gs ne par grēcı̄giem, ne svētı̄giem dzı̄vu būtn̦u darbiem. Tās pašas nozaudēja zināšanas par savu garı̄go dabu un gremdējās nezin̦as tumsā."
+          ]
+        }
       ],
       "original": [
         "नादत्ते कस्यचित्पापं न चैव सुकृतं विभु: ।\\",
@@ -243,7 +318,12 @@
         "teṣām āditjavadž džñānaṁ prakāśajati tat param"
       ],
       "translation": [
-        "Taču tie, kas saskaras ar garı̄gām zināšanām, atbrı̄vojas no pasaulı̄gās ilūzijas. Lı̄dzı̄gi austošai saulei, kas kliedē tumsu, ı̄stenı̄bas gaisma atklāj vin̦iem Augstāko Realitāti."
+        {
+          "type": "lines",
+          "lines": [
+            "Taču tie, kas saskaras ar garı̄gām zināšanām, atbrı̄vojas no pasaulı̄gās ilūzijas. Lı̄dzı̄gi austošai saulei, kas kliedē tumsu, ı̄stenı̄bas gaisma atklāj vin̦iem Augstāko Realitāti."
+          ]
+        }
       ],
       "original": [
         "ज्ञानेन तु तदज्ञानं येषां नाशितमात्मन: ।\\",
@@ -258,7 +338,12 @@
         "gaččhantj apunar-āvṛttiṁ džñāna-nirdhūta-kalmaṣāḥ"
       ],
       "translation": [
-        "Man veltı̄jušos dvēsel̦u prāts, saprāts, ticı̄ba un cerı̄ba vienmēr ir vērsti uz Mani. Pateicoties garı̄gām zināšanām, tās atbrı̄vojas no materiālās pasaules grēcı̄bas un sasniedz ārpus dzimšanas un nāves robežām esošo pasauli."
+        {
+          "type": "lines",
+          "lines": [
+            "Man veltı̄jušos dvēsel̦u prāts, saprāts, ticı̄ba un cerı̄ba vienmēr ir vērsti uz Mani. Pateicoties garı̄gām zināšanām, tās atbrı̄vojas no materiālās pasaules grēcı̄bas un sasniedz ārpus dzimšanas un nāves robežām esošo pasauli."
+          ]
+        }
       ],
       "original": [
         "तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणा: ।\\",
@@ -273,7 +358,12 @@
         "śuni čaiva śvapāke ča paṇḍitāḥ sama-darśinaḥ"
       ],
       "translation": [
-        "Ar pazemı̄bu un izpratni par ı̄stenı̄bu rotāts viedais redz vienotu garı̄go būtı̄bu ikvienā dzı̄vā būtnē, vai tas būtu garı̄dznieks (<i class=\"SongVerse__term\">brahmans</i>), govs, zilonis, suns vai sun̦ēdājs (nepieskaramais)."
+        {
+          "type": "lines",
+          "lines": [
+            "Ar pazemı̄bu un izpratni par ı̄stenı̄bu rotāts viedais redz vienotu garı̄go būtı̄bu ikvienā dzı̄vā būtnē, vai tas būtu garı̄dznieks (<i class=\"SongVerse__term\">brahmans</i>), govs, zilonis, suns vai sun̦ēdājs (nepieskaramais)."
+          ]
+        }
       ],
       "original": [
         "विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि ।\\",
@@ -288,7 +378,12 @@
         "nirdoṣaṁ hi samaṁ brahma tasmād brahmaṇi te sthitāḥ"
       ],
       "translation": [
-        "Tas, kā prāts ir lı̄dzsvarots, vēl dzı̄vam esot pacel̦as pāri dzimšanas un nāves pasaulei. Vin̦š ir brı̄vs no pasaulı̄gās grēcı̄bas un nesatricināms kā Brahmans, jo ir Brahmanā (tı̄ras apzin̦as pasaulē) nostiprinājies."
+        {
+          "type": "lines",
+          "lines": [
+            "Tas, kā prāts ir lı̄dzsvarots, vēl dzı̄vam esot pacel̦as pāri dzimšanas un nāves pasaulei. Vin̦š ir brı̄vs no pasaulı̄gās grēcı̄bas un nesatricināms kā Brahmans, jo ir Brahmanā (tı̄ras apzin̦as pasaulē) nostiprinājies."
+          ]
+        }
       ],
       "original": [
         "इहैव तैर्जित: सर्गो येषां साम्ये स्थितं मन: ।\\",
@@ -303,7 +398,12 @@
         "sthira-buddhir asammūḍho brahma-vid brahmaṇi sthitaḥ"
       ],
       "translation": [
-        "Vin̦am piemı̄t nesatricināms saprāts un vin̦u nekas nespēj maldināt, jo vin̦š ir iegremdējies transcendentālajā realitātē. Pastāvı̄gi atrazdamies garı̄gajā dimensijā, vin̦š nelı̄ksmo, ieguvis vēlamo, un nesēro, saskāries ar nevēlamo."
+        {
+          "type": "lines",
+          "lines": [
+            "Vin̦am piemı̄t nesatricināms saprāts un vin̦u nekas nespēj maldināt, jo vin̦š ir iegremdējies transcendentālajā realitātē. Pastāvı̄gi atrazdamies garı̄gajā dimensijā, vin̦š nelı̄ksmo, ieguvis vēlamo, un nesēro, saskāries ar nevēlamo."
+          ]
+        }
       ],
       "original": [
         "न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम् ।\\",
@@ -318,7 +418,12 @@
         "sa brahma-joga-juktātmā sukham akṣajam aśnute"
       ],
       "translation": [
-        "Atbrı̄vojies no piek̦eršanās miesiskām baudām, šāds viedais iepazı̄st laimi apzin̦ā par sevi kā par dvēseli. Gremdējies pārdomās par transcendentālo Īstenı̄bu, vin̦š bauda neizsmel̦amu svētlaimi."
+        {
+          "type": "lines",
+          "lines": [
+            "Atbrı̄vojies no piek̦eršanās miesiskām baudām, šāds viedais iepazı̄st laimi apzin̦ā par sevi kā par dvēseli. Gremdējies pārdomās par transcendentālo Īstenı̄bu, vin̦š bauda neizsmel̦amu svētlaimi."
+          ]
+        }
       ],
       "original": [
         "बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् ।\\",
@@ -333,7 +438,12 @@
         "ādj-antavantaḥ kaunteja na teṣu ramate budhaḥ"
       ],
       "translation": [
-        "Kuntı̄ dēls, baudas, kas rodas, pateicoties man̦u un to objektu mijiedarbı̄bai, ir ciešanu avots, jo tās ir pārejošas. Tas, kurš ir patiesi vieds, nekad nemeklē šādas baudas."
+        {
+          "type": "lines",
+          "lines": [
+            "Kuntı̄ dēls, baudas, kas rodas, pateicoties man̦u un to objektu mijiedarbı̄bai, ir ciešanu avots, jo tās ir pārejošas. Tas, kurš ir patiesi vieds, nekad nemeklē šādas baudas."
+          ]
+        }
       ],
       "original": [
         "ये हि संस्पर्शजा भोगा दु:खयोनय एव ते ।\\",
@@ -348,7 +458,12 @@
         "kāma-krodhodbhavaṁ vegaṁ sa juktaḥ sa sukhı̄ naraḥ"
       ],
       "translation": [
-        "Jogs, kas spēj apvaldı̄t savas dusmas, iekāri un materiālās alkas, vēl dzı̄vam esot izjūt svētlaimi."
+        {
+          "type": "lines",
+          "lines": [
+            "Jogs, kas spēj apvaldı̄t savas dusmas, iekāri un materiālās alkas, vēl dzı̄vam esot izjūt svētlaimi."
+          ]
+        }
       ],
       "original": [
         "शक्न‍ोतीहैव य: सोढुं प्राक्शरीरविमोक्षणात् ।\\",
@@ -363,7 +478,12 @@
         "sa jogı̄ brahma-nirvāṇaṁ brahma-bhūto ’dhigaččhati"
       ],
       "translation": [
-        "Vin̦š smel̦ prieku vienı̄gi savā iekšējā pasaulē un sasniedz apgaismı̄bu. Apzinoties sevi kā dvēseli, vin̦š atbrı̄vojas no matērijas važām."
+        {
+          "type": "lines",
+          "lines": [
+            "Vin̦š smel̦ prieku vienı̄gi savā iekšējā pasaulē un sasniedz apgaismı̄bu. Apzinoties sevi kā dvēseli, vin̦š atbrı̄vojas no matērijas važām."
+          ]
+        }
       ],
       "original": [
         "योऽन्त:सुखोऽन्तरारामस्तथान्तर्ज्योतिरेव य: ।\\",
@@ -378,7 +498,12 @@
         "čhinna-dvaidhā jatātmānaḥ sarva-bhūta-hite-ratāḥ"
       ],
       "translation": [
-        "Bezgrēcı̄gi, sevi apvaldı̄juši viedie, kas atbrı̄vojušies no materiālās pasaules divējādās dabas un kas vienmēr rı̄kojas citu dzı̄vu būtn̦u labā, sasniedz atbrı̄vi no visa laicı̄gā."
+        {
+          "type": "lines",
+          "lines": [
+            "Bezgrēcı̄gi, sevi apvaldı̄juši viedie, kas atbrı̄vojušies no materiālās pasaules divējādās dabas un kas vienmēr rı̄kojas citu dzı̄vu būtn̦u labā, sasniedz atbrı̄vi no visa laicı̄gā."
+          ]
+        }
       ],
       "original": [
         "लभन्ते ब्रह्मनिर्वाणमृषय: क्षीणकल्मषा: ।\\",
@@ -393,7 +518,12 @@
         "abhito brahma-nirvāṇaṁ vartate viditātmanām"
       ],
       "translation": [
-        "Apvaldı̄juši prātu, atbrı̄vojušies no pasaulı̄gām vēlmēm un dusmām, apzinājušies savu garı̄go dabu, vin̦i sasniedz atbrı̄vi vēl dzı̄viem esot vai arı̄ tūlı̄t pēc k̦ermen̦a atstāšanas."
+        {
+          "type": "lines",
+          "lines": [
+            "Apvaldı̄juši prātu, atbrı̄vojušies no pasaulı̄gām vēlmēm un dusmām, apzinājušies savu garı̄go dabu, vin̦i sasniedz atbrı̄vi vēl dzı̄viem esot vai arı̄ tūlı̄t pēc k̦ermen̦a atstāšanas."
+          ]
+        }
       ],
       "original": [
         "कामक्रोधविमुक्तानां यतीनां यतचेतसाम् ।\\",
@@ -411,7 +541,12 @@
         "vigateččhā-bhaja-krodho jaḥ sadā mukta eva saḥ"
       ],
       "translation": [
-        "Jogam, kas tiecas sasniegt garı̄gās prakses mērk̦i, jāpadzen no sirds noslieci baudı̄t apkārtējo pasauli. Koncentrējot skatienu starp uzacı̄m un lı̄dzsvarojot caur nāsı̄m ejošās gaisa plūsmas, vin̦am jāapvalda man̦as, prāts un saprāts. Atbrı̄vojies no vēlmēm, bailēm un dusmām, vin̦š top ı̄steni brı̄vs."
+        {
+          "type": "lines",
+          "lines": [
+            "Jogam, kas tiecas sasniegt garı̄gās prakses mērk̦i, jāpadzen no sirds noslieci baudı̄t apkārtējo pasauli. Koncentrējot skatienu starp uzacı̄m un lı̄dzsvarojot caur nāsı̄m ejošās gaisa plūsmas, vin̦am jāapvalda man̦as, prāts un saprāts. Atbrı̄vojies no vēlmēm, bailēm un dusmām, vin̦š top ı̄steni brı̄vs."
+          ]
+        }
       ],
       "original": [
         "स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवो: ।\\",
@@ -429,7 +564,12 @@
         "suhṛdaṁ sarva-bhūtānāṁ džñātvā māṁ śāntim ṛččhati"
       ],
       "translation": [
-        "Zini, ka visi ziedojumi un askēzes tiek veltı̄tas Man. Es esmu visu pasaul̦u valdnieks. Vēl vairāk — Es esmu ikviena draugs un labvēlis un tas, kurš to izprot, kl̦ūst patiesi mierpilns."
+        {
+          "type": "lines",
+          "lines": [
+            "Zini, ka visi ziedojumi un askēzes tiek veltı̄tas Man. Es esmu visu pasaul̦u valdnieks. Vēl vairāk — Es esmu ikviena draugs un labvēlis un tas, kurš to izprot, kl̦ūst patiesi mierpilns."
+          ]
+        }
       ],
       "original": [
         "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् ।\\",
