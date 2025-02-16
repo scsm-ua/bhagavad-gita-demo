@@ -178,8 +178,17 @@
         {
           "type": "lines",
           "lines": [
-            "Dvēsele ien̦em augstāku stāvokli par k̦ermeni. Atstājot vienu k̦ermeni un pārvietojoties uz citu, tā nes sev lı̄dzi prātu un man̦as* lı̄dzı̄gi tam, kā vējš pārnes smaržu.",
-            "<i class=\"SongVerse__term\">Piezīme:</i> <i class=\"SongVerse__term\">Tādējādi, atstājot vienu fizisko ķermeni un pārejot citā, dvēsele paņem sev līdzi smalko ķermeni, kas sastāv no prāta un piecām maņām. Jaunajā ķermenī dvēsele saglabā Zemes ieradumus, kas tajā pamazām attīsta iekāri, dusmas, ilūziju un citas negatīvās īpašības, kuras liek dvēselei aizmirst tās patieso garīgo dabu.(sk. «Bhagavad-Gīta» 2.62.-2.63.)</i>"
+            "Dvēsele ien̦em augstāku stāvokli par k̦ermeni. Atstājot vienu k̦ermeni un pārvietojoties uz citu, tā nes sev lı̄dzi prātu un man̦as lı̄dzı̄gi tam, kā vējš pārnes smaržu."
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "Piezīme:"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "Tādējādi, atstājot vienu fizisko ķermeni un pārejot citā, dvēsele paņem sev līdzi smalko ķermeni, kas sastāv no prāta un piecām maņām. Jaunajā ķermenī dvēsele saglabā Zemes ieradumus, kas tajā pamazām attīsta iekāri, dusmas, ilūziju un citas negatīvās īpašības, kuras liek dvēselei aizmirst tās patieso garīgo dabu.(sk. «Bhagavad-Gīta» 2.62.-2.63.)"
           ]
         }
       ],
@@ -299,8 +308,17 @@
         {
           "type": "lines",
           "lines": [
-            "Es atrodos dzı̄vu būtn̦u k̦ermen̦os kā gremošanas uguns un pārstrādāju četru veidu ēdienus<i class=\"SongVerse__term\"></i> ar iekšā un ārā ejošas gaisa plūsmas palı̄dzı̄bu.",
-            "<i class=\"SongVerse__term\">Piezīme:</i> <i class=\"SongVerse__term\">Četru veidu ēdiens: kuru košļā, nosūkā, laiza un dzer.</i>"
+            "Es atrodos dzı̄vu būtn̦u k̦ermen̦os kā gremošanas uguns un pārstrādāju četru veidu ēdienus ar iekšā un ārā ejošas gaisa plūsmas palı̄dzı̄bu."
+          ]
+        },
+        {
+          "type": "subtitle",
+          "text": "Piezīme:"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "Četru veidu ēdiens: kuru košļā, nosūkā, laiza un dzer."
           ]
         }
       ],
