@@ -3,7 +3,8 @@
     "version": "0.3.0",
     "scripts": {
         "build": "gulp build",
-        "watch": "gulp watch"
+        "watch": "gulp watch",
+        "postinstall": "node postinstall.js"
     },
     "dependencies": {
         "dotenv": "^16.4.5",
@@ -15,9 +16,7 @@
         "gulp4-run-sequence": "^1.0.2",
         "lodash.deburr": "^4.1.0",
         "sass": "^1.77.2",
-        "vinyl-source-stream": "^2.0.0",
-        "bhagavad-gita-ua": "github:scsm-ua/bhagavad-gita-ua",
-        "bhagavad-gita-lv": "github:scsm-ua/bhagavad-gita-lv#dev"
+        "vinyl-source-stream": "^2.0.0"
     },
     "devDependencies": {
         "gulp": "^4.0.2",
